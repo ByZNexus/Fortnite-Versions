@@ -4,6 +4,8 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 ## READ PLEASE
 If there's some errors or links down please contact ByZN on discord @wallonia
 
+## Update #88 : [11.30](https://drive.google.com/file/d/1aIevIr0PLEC26Zll8gu1WH3s7MYh07yX/view) has been added! 
+
 # Make sure to also subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5), as he's the one doing this repository all by himself!
 
 ``` 
@@ -194,7 +196,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 11.10-CL-N/A (11.10) : [Download](https://drive.google.com/file/d/1WJJ6ML7NejOrjSl9tRup32IghkaxczR2/view?usp=sharing)
 
-11.30-CL-10708866 (11.30) : (DOWN)
+11.30-CL-10708866 (11.30) : [Download](https://drive.google.com/file/d/1aIevIr0PLEC26Zll8gu1WH3s7MYh07yX/view)
 
 11.31-CL-10800459 (11.31) : [Download](https://public.simplyblk.xyz/11.31.rar)
 
@@ -392,7 +394,8 @@ v22.40 - 35,2 GB | Fracture - Chapter 3 Finale┃ Play using Carbon but it's bug
 v27.11 - 31,1 GB | The Big Bang | Play using Carbon
 
 
-# Credits 
+# Credits
+- Dimiraku and Carbon for providing 11.30 
 - [Tiva](https://github.com/itztiva) for the base repository
 - [blk](https://github.com/simplyblk/) for hosting most Chapter 1 Builds on their servers.
 - [notcrae](https://github.com/notkrae) and the rest of the carbon team!
