@@ -4,7 +4,7 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 ## READ PLEASE
 If there's some errors or links down please contact ByZN on discord @wallonia
 
-## Update #88 : [11.30](https://drive.google.com/file/d/1aIevIr0PLEC26Zll8gu1WH3s7MYh07yX/view) has been added! 
+## Update #88 : [7.01](http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.133_10018_tgod_signed.exe) has been added! Spoiler : It's a chinese version !
 
 # Make sure to also subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5), as he's the one doing this repository all by himself!
 
@@ -131,6 +131,8 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 ## Season 7
 
 7.00-CL-4629139 (7.00) : [Download](https://public.simplyblk.xyz/7.00.rar)
+
+7.01-CL-4644078 (7.01) : [Download](http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.133_10018_tgod_signed.exe) **WARNING** This is a CHINESE installer, but playing the build will be as usual, with Rift
 
 7.10-CL-4667333 (7.10) : [Download](https://public.simplyblk.xyz/7.10.rar)
 
