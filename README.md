@@ -4,7 +4,7 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 ## READ PLEASE
 If there's some errors or links down please contact ByZN on discord @wallonia
 
-## Update #88 : [7.01](http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.133_10018_tgod_signed.exe) has been added! Spoiler : It's a chinese version !
+## Update #89 : [7.01](http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.133_10018_tgod_signed.exe) has been added! Spoiler : It's a chinese version !
 
 # Make sure to also subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5), as he's the one doing this repository all by himself!
 
