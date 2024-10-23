@@ -4,7 +4,7 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 ## READ PLEASE
 If there's some errors or links down please contact ByZN on discord @wallonia
 
-## Update #89 : [7.01](http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.133_10018_tgod_signed.exe) has been added! Spoiler : It's a chinese version !
+## Update #90 : [14.30](https://gofile.io/d/nLTk7d) has been added! This build does not contain Retrac files, it's clean!
 
 # Make sure to also subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5), as he's the one doing this repository all by himself!
 
@@ -226,7 +226,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 14.00-CL-14173417 (14.00) : [Download](https://public.simplyblk.xyz/14.00.rar)
 
-14.30-CL-14456520 (14.30) : [Download](https://gofile.io/d/HjrM87) | [Download using Easy Installer V2](https://github.com/simplyblk/EasyInstallerV2/releases/download/v1.0/EasyInstallerV2.exe)
+14.30-CL-14456520 (14.30) : [Retrac Download](https://gofile.io/d/HjrM87) | [Clean Download](https://gofile.io/d/nLTk7d)
 
 14.40-CL-14550713 (14.40) : [Download](https://public.simplyblk.xyz/14.40.rar)
 
