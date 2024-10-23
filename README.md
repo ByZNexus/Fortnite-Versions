@@ -144,15 +144,15 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 8.00-CL-5203069 (8.00) : [Download](https://public.simplyblk.xyz/8.00.zip)
 
-8.20-CL-N/A (8.20) : [Download](https://public.simplyblk.xyz/8.20.rar)
+8.20-CL-5625478 (8.20) : [Download](https://public.simplyblk.xyz/8.20.rar)
 
-8.30-CL-N/A (8.30) : [Download](https://public.simplyblk.xyz/8.30.rar)
+8.30-CL-5793395 (8.30) : [Download](https://public.simplyblk.xyz/8.30.rar)
 
-8.40-CL-N/A (8.40) : [Download](https://public.simplyblk.xyz/8.40.zip)
+8.40-CL-6005771 (8.40) : [Download](https://public.simplyblk.xyz/8.40.zip)
 
 8.50-CL-6058028 (8.50) : [Download](https://public.simplyblk.xyz/8.50.zip)
 
-8.51-CL-N/A (8.51) : [Download](https://public.simplyblk.xyz/8.51.rar)
+8.51-CL-6165369 (8.51) : [Download](https://public.simplyblk.xyz/8.51.rar)
 
 ## Season 9
 
