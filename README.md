@@ -6,6 +6,8 @@ If there's some errors or links down please contact ByZN on discord @wallonia
 
 ## Update #90 : [14.30](https://gofile.io/d/nLTk7d) has been added! This build does not contain Retrac files, it's clean!
 
+Minor Update : Added almost all Chinese Downloads/Installers, I recommand getting the basic builds, but if you want to mess around with chinese versions, then they are for you to use. **I did not test these versions before or their installers, if they are infected with malware, please contact me IMMEDIATELY on discord. My username is @wallonia**
+
 # Make sure to also subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5), as he's the one doing this repository all by himself!
 
 ``` 
@@ -132,7 +134,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 7.00-CL-4629139 (7.00) : [Download](https://public.simplyblk.xyz/7.00.rar)
 
-7.01-CL-4644078 (7.01) : [Download](http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.133_10018_tgod_signed.exe) **WARNING** This is a CHINESE installer, but playing the build will be as usual, with Rift
+7.01-CL-4644078 (7.01) : [Installer](http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.133_10018_tgod_signed.exe) [Download](https://archive.org/details/7.01-cl-4644078-china.-7z) **WARNING** This is a CHINESE build, but playing it will be as usual, with Rift
 
 7.10-CL-4667333 (7.10) : [Download](https://public.simplyblk.xyz/7.10.rar)
 
@@ -202,6 +204,8 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 11.31-CL-10800459 (11.31) : [Download](https://public.simplyblk.xyz/11.31.rar)
 
+11.40-CL-10951104 (11.40) : [Chinese Installer](https://down.qq.com/Fortnite/dltools/0002150XLK5D8GUO/RailGame_2000196_1-0.0.0.215_0_tgod_signed.exe)
+
 ## C2 Season 2
 
 12.00-CL-11556442 (12.00) : [Download](https://public.simplyblk.xyz/12.00.rar)
@@ -220,7 +224,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 13.00-CL-13715544 (13.00) : [Download](https://public.simplyblk.xyz/13.00.rar)
 
-13.40-CL-14113327 (13.40) : [Download](https://public.simplyblk.xyz/13.40.zip)
+13.40-CL-14113327 (13.40) : [Download](https://public.simplyblk.xyz/13.40.zip) [Chinese Installer](https://down.qq.com/Fortnite/dltools/000241nCIXLipQLu/RailGame_2000196_1-0.0.0.241_10019_tgod_signed.exe)
 
 ## C2 Season 4
 
@@ -236,7 +240,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 15.00-CL-14984751 (15.00) : [Download](https://drive.google.com/file/d/1I15RzQoVZVgUbEZ4ckhWbpiRCr2c2Pmk/view?usp=sharing)
 
-15.10-CL-15014719 (15.10) : [Download](https://dl.dropbox.com/s/3xhcxqwyoegxjlm/15.10-CL-15014719.zip?dl=2)
+15.10-CL-15014719 (15.10) : [Download](https://dl.dropbox.com/s/3xhcxqwyoegxjlm/15.10-CL-15014719.zip?dl=2) [Chinese Installer](https://down.qq.com/Fortnite/dltools/000255ZtDgQ1hA8s/RailGame_2000196_1-0.0.0.255_10019_tgod_signed.exe)
 
 15.30-CL-15341163 (15.30) : [Download](https://public.simplyblk.xyz/15.30.rar)
 
@@ -265,6 +269,8 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 18.10-CL-17923647 (18.10) : [Download](https://drive.google.com/file/d/1GPrsK0YMGyGkaMhE13MvrtKj_ZBvl-FH/view?usp=sharing)
 
 18.21-CL-18017591 (18.21) : [Download](https://drive.google.com/file/d/1OSaD1OM4m1b2So_pIJyatwW8rW8n_VMJ/view?usp=sharing)
+
+18.30-CL-17882303 (18.30) : [Download](https://archive.org/details/18.30-cn.-7z) **WARNING** This is a Chinese version.
 
 18.40-CL-18163738 (18.40) : [Download](https://public.simplyblk.xyz/18.40.zip)
 
