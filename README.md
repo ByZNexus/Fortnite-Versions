@@ -148,15 +148,15 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 8.00-CL-5203069 (8.00) : [Download](https://public.simplyblk.xyz/8.00.zip)
 
-8.20-CL-N/A (8.20) : [Download](https://public.simplyblk.xyz/8.20.rar)
+8.20-CL-5625478 (8.20) : [Download](https://public.simplyblk.xyz/8.20.rar)
 
-8.30-CL-N/A (8.30) : [Download](https://public.simplyblk.xyz/8.30.rar)
+8.30-CL-5793395 (8.30) : [Download](https://public.simplyblk.xyz/8.30.rar)
 
-8.40-CL-N/A (8.40) : [Download](https://public.simplyblk.xyz/8.40.zip)
+8.40-CL-6005771 (8.40) : [Download](https://public.simplyblk.xyz/8.40.zip)
 
 8.50-CL-6058028 (8.50) : [Download](https://public.simplyblk.xyz/8.50.zip)
 
-8.51-CL-N/A (8.51) : [Download](https://public.simplyblk.xyz/8.51.rar)
+8.51-CL-6165369 (8.51) : [Download](https://public.simplyblk.xyz/8.51.rar)
 
 ## Season 9
 
@@ -198,7 +198,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 11.01-CL-N/A (11.01) : [Download](https://drive.google.com/file/d/1vW-dK7ACizDHZjRqQZILo95IzBzy9rqw/view?usp=sharing) (DOWN)
 
-11.10-CL-N/A (11.10) : [Download](https://drive.google.com/file/d/1WJJ6ML7NejOrjSl9tRup32IghkaxczR2/view?usp=sharing)
+11.10-CL-9901083 (11.10) : [Download](https://drive.google.com/file/d/1WJJ6ML7NejOrjSl9tRup32IghkaxczR2/view?usp=sharing)
 
 11.30-CL-10708866 (11.30) : [Download](https://drive.google.com/file/d/1aIevIr0PLEC26Zll8gu1WH3s7MYh07yX/view)
 
