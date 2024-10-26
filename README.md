@@ -4,9 +4,9 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 ## READ PLEASE
 If there's some errors or links down please contact ByZN on discord @wallonia
 
-## Update #91 : [OT11](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-06-07_microsoft_windows_ot-11/) has been added! It's unfortunately not usable, since it's locked behind chunkdb files.
+## Update #92 : [6.31](https://public.simplyblk.xyz/6.31.rar)'s AES key has been added ! Check it out :) Thanks to notkrae for finding this AES key :)
 
-Minor Update : Added almost all Chinese Downloads/Installers, I recommand getting the basic builds, but if you want to mess around with chinese versions, then they are for you to use. **I did not test these versions before or their installers, if they are infected with malware, please contact me IMMEDIATELY on discord. My username is @wallonia**
+Notice : Added almost all Chinese Downloads/Installers, I recommand getting the basic builds, but if you want to mess around with chinese versions, then they are for you to use. **I did not test these versions before or their installers, if they are infected with malware, please contact me IMMEDIATELY on discord. My username is @wallonia**
 
 # Make sure to also subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5), as he's the one doing this repository all by himself!
 
@@ -130,7 +130,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 6.30-CL-4573096 (6.30) : [Download](https://public.simplyblk.xyz/6.30.rar)
 
-6.31-CL-4573279 (6.31) : [Download](https://public.simplyblk.xyz/6.31.rar)
+6.31-CL-4573279 (6.31) : [Download](https://public.simplyblk.xyz/6.31.rar) AES : 0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491
 
 ## Season 7
 
