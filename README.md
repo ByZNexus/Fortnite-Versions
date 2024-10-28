@@ -4,7 +4,7 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 ## READ PLEASE
 If there's some errors or links down please contact ByZN on discord @wallonia
 
-## Update #92 : [6.31](https://public.simplyblk.xyz/6.31.rar)'s AES key has been added ! Check it out :) Thanks to notkrae for finding this AES key :)
+## Update #93 : [6.21](https://public.simplyblk.xyz/6.21.rar) Legendary Pump Shotgun pak has been added, made by [ByZNexus](https://www.youtube.com/@ByZNexu5) !
 
 Notice : Added almost all Chinese Downloads/Installers, I recommand getting the basic builds, but if you want to mess around with chinese versions, then they are for you to use. **I did not test these versions before or their installers, if they are infected with malware, please contact me IMMEDIATELY on discord. My username is @wallonia**
 
@@ -124,7 +124,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 6.20-CL-4497486 (6.20) [Download](https://drive.google.com/file/d/16VG_KQCJ_oXN6mavQi-kmVbhjXr1_wxl/view?usp=sharing) (DOWN)
 
-6.21-CL-4526925 (6.21) : [Download](https://public.simplyblk.xyz/6.21.rar)
+6.21-CL-4526925 (6.21) : [Download](https://public.simplyblk.xyz/6.21.rar) Legendary Pump pak : https://drive.google.com/drive/folders/10CA-7J_Z4X1tiiVpj1QIJ8P8NXPoUOnQ?usp=sharing
 
 6.22-CL-4543176 (6.22) : [Download](https://public.simplyblk.xyz/6.22.rar)
 
