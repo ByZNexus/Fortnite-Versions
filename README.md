@@ -310,7 +310,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C4 Season 1
 
-23.00-CL-23344627 (23.00)	[Download](https://drive.google.com/file/d/1OtPDIJ2Q2Dg5by5D3dWm_U-65hKB9Ty4/view) (DOWN)
+23.00-CL-23344627 (23.00)	[Download](https://drive.google.com/file/d/1OtPDIJ2Q2Dg5by5D3dWm_U-65hKB9Ty4/view)
 
 ## C4 Season 2
  
