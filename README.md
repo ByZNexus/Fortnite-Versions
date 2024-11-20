@@ -1,14 +1,15 @@
-# Fortnite Builds Archive
-All Archived Fortnite Builds currently, I am not the owner of any of these and I just got bored so I made this. Towards the bottom of the page will be credits to all the people where I have got these links from. I do not take credit for any of these links and All of the files used go towards their respective owners and I do not profit of this.
+# Hello Epic !
+
+## Epic Games has issued a DMCA on all my Google Drive links, which means they are unfortunately not available anymore, but I will find a alternate way of getting those builds back up again, don't worry. I wasn't planning on updating this repo, since im working on a revamped version of it, but it seems like i have to !
+
+### I didn't get contacted by epic too, it would've been nice to talk with them lol. Anyway, thanks for ruining the fun Epic, but it's only gonna be for a short while :)
+
+
 
 ## READ PLEASE
 If there's some errors or links down please contact ByZN on discord @wallonia
 
-## Update #100 (Skipped to 100) Here's the 100th commit to this repo! I've added a notice to tell people to use [Cloudflare Warp](https://one.one.one.one) if they have trouble installing
 
-Notice : Added almost all Chinese Downloads/Installers, I recommand getting the basic builds, but if you want to mess around with chinese versions, then they are for you to use. **I did not test these versions before or their installers, if they are infected with malware, please contact me IMMEDIATELY on discord. My username is @wallonia**
-
-# Make sure to also subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5), as he's the one doing this repository all by himself!
 
 ``` 
 Windows
