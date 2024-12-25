@@ -1,10 +1,4 @@
-# Hello Epic !
-
-## Epic Games has issued a DMCA on all my Google Drive links, which means they are unfortunately not available anymore, but I will find a alternate way of getting those builds back up again, don't worry. I wasn't planning on updating this repo, since im working on a revamped version of it, but it seems like i have to !
-
-### I didn't get contacted by epic too, it would've been nice to talk with them lol. Anyway, thanks for ruining the fun Epic, but it's only gonna be for a short while :)
-
-
+# Big Update on the repo coming soon !
 
 ## READ PLEASE
 If there's some errors or links down please contact ByZN on discord @wallonia
