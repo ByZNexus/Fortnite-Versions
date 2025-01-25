@@ -12,7 +12,7 @@
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |		[Go to Download](https://public.simplyblk.xyz/OT0.6.5.zip) |
-| OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | [Go to Download](https://gofile.io/d/DnSgff) |
+| OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | [Go to Download](https://gofile.io/d/DnSgff) Only usable on a jailbroken PS4, emulator doesnt work either! |
 | OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | [Go to Xbox Download](https://www.dropbox.com/scl/fi/i347gsjhgu722qn1zb1jy/OT11-Xbox.zip?rlkey=428b6ey77hnquhwqnkd0b60q2&st=46ad1373&dl=0) [Go to PC Extract Download](https://www.dropbox.com/scl/fi/4qxm120b8rljj4vuin9jq/OT11Extract.7z?rlkey=c5j9twp7gfxn6s8v54sz3g4uc&st=jyjmn0pm&dl=0)
 | Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | [Go to Download](https://rebrand.ly/1_2_X) Down, @wallonia on discord if u can send this build or an other! |
 | 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		[Go to Download](https://www.dropbox.com/scl/fi/hww1qpsyhgzme3wz9bg6n/1.2.7z?rlkey=sxv8zhi5400q7tscet78jjs0c&st=75iqfou4&dl=0) |
@@ -172,6 +172,7 @@
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if you got a link ! |		0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A |
 | 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/16.40.rar)|		0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142 |
+| 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 | [Go to Download](https://galaxiafn.co.uk/16.50.zip) |
 
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
