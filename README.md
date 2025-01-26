@@ -141,7 +141,7 @@
 | 12.00-CL-N/A	                | 20th February 2020         	 | UE4.24            	    |		[Go to Download](https://public.simplyblk.xyz/12.00.rar)|		0xB5DBD6C9DB714CC3E2C9C7422EB0A7E667168D92C59770214EC6ABC68D8C2D3E |
 | 12.10-CL-N/A	                | 15th March 2020         	 | UE4.24            	    |	Link down, dm @wallonia on discord if u got it !	|		0x7B155D8AA29AA7D1D4FB859521408C987C5B5D5F8A2641EE16F9BA256DF64FC8 |
 | 12.21-CL-N/A	                | 24th March 2020        	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.21.zip)|		0xCBDEB191165B1D8D51759732AAFC0633159CCF993D8662FD99D56F9C3F3F7401 |
-| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/Fortnite%2012.41.zip)|		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
+| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.25            	    |		[Go to Download 1](https://public.simplyblk.xyz/Fortnite%2012.41.zip) [Go to Download 2](https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view) |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
 | 12.50-CL-N/A	                | 29th April 2020       	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.50.zip)|		0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C |
 | 12.61-CL-13498980	                | 26th May 2020        	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.61.zip)|		0x3F3717F4F206FF21BDA8D3BF62B323556D1D2E7D9B0F7ABD572D3CFE5B569FAC |
 
@@ -155,7 +155,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 14.00-CL-N/A	                | 25th August 2020        	 | UE4.26            	    |		[Go to Download](https://public.simplyblk.xyz/14.00.rar)|			0x229A785CCE84A6F149BFAE69F5AD742983AA3504149A75F60313A1296B917763 |
-| 14.30-CL-14456520	                | 13th October 2020         	 | UE4.26            	    |	[Go to Download](https://www.dropbox.com/scl/fi/laarogoaj111xprv3s959/14.30.rar?rlkey=ki86gl9uo916v8kgt9i7h3rmf&st=r6924ftm&dl=0)	|		0x3440AB1D1B824905842BE1574F149F9FC7DBA2BB566993E597402B4715A28BD5 |
+| 14.30-CL-14456520	                | 13th October 2020         	 | UE4.26            	    |	[Go to Download 1](https://www.dropbox.com/scl/fi/laarogoaj111xprv3s959/14.30.rar?rlkey=ki86gl9uo916v8kgt9i7h3rmf&st=r6924ftm&dl=0) [Go to Download 2](https://drive.usercontent.google.com/download?id=1H_fTXKdYnIAyyUU130kYUdvkxtSiZTvR&export=download&authuser=0)	|		0x3440AB1D1B824905842BE1574F149F9FC7DBA2BB566993E597402B4715A28BD5 |
 | 14.40-CL-14550713	          | 21st October 2020         	 | UE4.26            	    |		[Go to Download](https://public.simplyblk.xyz/14.40.rar)|		0xAB32BAB083F7D923A33AA768BC64B64BF62488948BD49FE61D95343492252558 |
 | 14.60-CL-14786821           | 18th November 2020       	  | UE4.26            	    |		[Go to Download](https://public.simplyblk.xyz/14.60.rar)|		0xCF47F08CEEDD6A0A86D3D67DD0C25924FE934676B86A3777A36B7E353EB35C09 |
 
@@ -165,7 +165,7 @@
 | 15.00-CL-14984751	                | 2nd December 2020         	 | UE4.26            	    |	Link down, dm @wallonia on discord if you got a link ! |			0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2 |
 | 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	Link down, dm @wallonia on discord if you got a link ! |		0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE |
 | 15.30-CL-15341163	          | 2nd February 2021         	 | UE4.26            	    |		[Go to Download](https://public.simplyblk.xyz/15.30.rar)|		0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0 |
-| 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		[Go to Download](https://cdn.fnbuilds.xyz/15.50.rar)|		0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
+| 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		[Go to Download](https://galaxiafn.co.uk/15.50.zip)|		0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
 
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -177,7 +177,7 @@
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/17.30.zip)|		0x7DD830C5ACC92FE26653003ABECA10606F3492026A2C971283B2FA6B42DE8422 |
+| 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		[Go to Download 1](https://public.simplyblk.xyz/17.30.zip) [Go to Download 2](https://drive.google.com/file/d/1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA/view)|		0x7DD830C5ACC92FE26653003ABECA10606F3492026A2C971283B2FA6B42DE8422 |
 | 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/17.50.zip)|		0x3FE5C589D219E71EE15FEB8FA9BC6B6224BB58AA826A0FA1D997D92E0D8DB23A |
 
 # Season 18
@@ -194,7 +194,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 19.00-CL-18049531 | 5th December 2021 | UE5.0 | Build is on my SSD, upload will be soon |
-| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	 Link down, dm @wallonia on discord if you got a link ! |		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
+| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	[Go to Download](https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view) |		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
 | 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 [Go to Download](https://public.simplyblk.xyz/19.10.rar)|		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
 
 # Season 20
@@ -226,6 +226,16 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 26.30-CL-28798412	                | 10th October 2023         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)|		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
+
+# Season 27
+| Build               | Date                 | Engine Version    | Download links |
+| ------------------- | --------------------- | ----------------- | ------------------------ |
+| 27.11-CL-29739262 | 21st November 2023 | N/A | [Go to Download](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) |
+
+# Season 30
+| Build              | Date                 | Engine Version      | Download links |
+| ------------------ | -------------------- | ------------------- | --------------- |
+| 30.00-CL-33962396 | 24th May 2024  | N/A | [Go to Download](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) |
 
 ## Playable Events
 
@@ -268,6 +278,9 @@ v18.40 - 43,1 GB | Chapter 2 Finale┃ Play using Carbon
 v20.40 - 37,9 GB | Collision / Collider Pulse┃ Play using Carbon
 
 v22.40 - 35,2 GB | Fracture - Chapter 3 Finale┃ Play using Carbon but it's bugged
+
+v27.11 - 28 GB | The Big Bang | Play using Carbon
+
 
 
 If you got more builds, feel free to dm @wallonia on discord !
