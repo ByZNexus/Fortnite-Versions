@@ -124,6 +124,7 @@
 | 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	[Go to Download](https://public.simplyblk.xyz/10.00.zip)|		0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
 | 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	[Go to Download](https://public.simplyblk.xyz/10.10.zip)|		0x96A032AA931880ACBA60312208226FE56CB4DC7A98C9728EF0C995FB6DD7B5A6 |
 | 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	[Go to Download](https://public.simplyblk.xyz/10.20.zip)|		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
+| 10.30-CL-8569425 | 12th September 2019 | UE4.23 |[Go to Download](https://www.dropbox.com/scl/fi/ry8ea2evb7ycaf10gmdf1/10.30.rar?rlkey=1uzv3cfnckwlw30r8tzx876c5&st=y2py8zwd&dl=0) 
 | 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	[Go to Download](https://public.simplyblk.xyz/10.31.zip)|		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
 | 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |		[Go to Download](https://public.simplyblk.xyz/10.40.rar)|		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
 
