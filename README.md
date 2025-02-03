@@ -215,7 +215,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 22.20-CL-23456978 | 18th October 2022 | N/A | [Go to Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view) |
-| 22.40-CL-23070899	                | 15th November 2022         	 | N/A           	    |	[Go to Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view) |
+| 22.40-CL-23070899	                | 15th November 2022         	 | N/A           	    |	[Go to Download](https://drive.google.com/file/d/1oqCsB2etoHMbPQGOytHoMo0BeDi2xN8R/view?usp=sharing) |
 
 # Season 24
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
@@ -236,7 +236,7 @@
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 30.00-CL-33962396 | 24th May 2024  | N/A | [Go to Download](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) |
+| 30.00-CL-33962396 | 24th May 2024  | N/A | [Go to Download](https://drive.google.com/file/d/1n0NzUKoNB6YgC-9OKH3RFX2Ouq9YqJSo/view) |
 
 ## Playable Events
 
