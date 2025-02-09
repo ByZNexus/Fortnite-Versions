@@ -88,7 +88,7 @@
 | 6.10.1-CL-4476098       	| 16th October 2018    	 | UE4.21-4476098   	    | 		[Go to Download](https://public.simplyblk.xyz/6.10.1.rar)|		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
 | 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		[Go to Download](https://public.simplyblk.xyz/6.10.2.rar)|		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
 | 6.21-CL-4526925         	| 1st November 2018       	 | UE4.21-4526925	    |		[Go to Download](https://public.simplyblk.xyz/6.21.rar)|		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
-| 6.22-CL-4543176		| 11/4/18		 | UE4.21-4543176	    | 		[Go to Download](https://public.simplyblk.xyz/6.22.rar)|		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
+| 6.22-CL-4543176		| 4th November 2018		 | UE4.21-4543176	    | 		[Go to Download](https://public.simplyblk.xyz/6.22.rar)|		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
 | 6.30-CL-4573096         	| 13th November 2018     	 | UE4.21-4573096	    |		[Go to Download](https://public.simplyblk.xyz/6.30.rar)|		0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491 |
 | 6.31-CL-4573279      	  	| 27th November 2018      	 | UE4.21-4573279	    |		[Go to Download](https://public.simplyblk.xyz/6.31.rar)|		0x9342FF75017B9502F0BDA699431876241436FC556F1AE12E285E96D143FC8BDC |
 
@@ -105,11 +105,11 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 8.00-CL-5203069	              | 28th February 2019     	 | UE4.22            	    |		[Go to Download](https://public.simplyblk.xyz/8.00.zip)|		0xAC7AF84B59C4BD4F916F7EFCB292B3A5897CFF7DD7A688AC8B3791A4EDF32E7 |
-| 8.20-CL-N/A	                | 27th March 2019        	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.20.rar)|		0x5F3B1AE176BF56D5FD1AA073DC01868692ABC11B9186BB12D9235072BBAEE8E2 |
-| 8.30-CL-N/A	                | 10th April 2019   	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.30.rar)|		0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE |
-| 8.40-CL-N/A	                | 17th April 2019       	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.40.zip)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
-| 8.50-CL-6058028	        | 25th April 2019       	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.50.zip)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
-| 8.51-CL-6165369	                | 2nd May 2019         	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.51.rar)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
+| 8.20-CL-5625478	              | 27th March 2019        	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.20.rar)|		0x5F3B1AE176BF56D5FD1AA073DC01868692ABC11B9186BB12D9235072BBAEE8E2 |
+| 8.30-CL-5793395	              | 10th April 2019   	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.30.rar)|		0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE |
+| 8.40-CL-6005771	              | 17th April 2019       	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.40.zip)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
+| 8.50-CL-6058028	              | 25th April 2019       	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.50.zip)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
+| 8.51-CL-6165369	              | 2nd May 2019         	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.51.rar)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
 
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		  
