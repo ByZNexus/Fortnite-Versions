@@ -18,7 +18,7 @@
 # Pre-BattleRoyale
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | [Go to Download](https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view?usp=sharing) Down, @wallonia on discord if u can send this build or an other! |
+| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | [Go to Download](https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view?usp=sharing) |
 | 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		[Go to Download](https://www.dropbox.com/scl/fi/hww1qpsyhgzme3wz9bg6n/1.2.7z?rlkey=sxv8zhi5400q7tscet78jjs0c&st=75iqfou4&dl=0) |
 
 # Season 0 & 1
