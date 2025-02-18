@@ -2,7 +2,7 @@
 
 ## Welcome to the revamped page of Fortnite Versions ! I've renewed most of the links and replaced some. I will add paks (mods) soon for the common builds like 8.51 etc soon :)
 
-## Keep in mind that you need [Cloudflare Warp](https://one.one.one.one) to download most builds (blk)
+## Warning that most builds from S9 to S20 wont work because BLK domain is down ! I'm actively working to add a second download thanks to [Carbon](https://github.com/CarbonFN/FortniteBuilds) :)
 
 ## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
@@ -11,105 +11,105 @@
 # Online Tests
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |		[Go to Download](https://public.simplyblk.xyz/OT0.6.5.zip) |
+| OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |		[Go to Download 1](https://public.simplyblk.xyz/OT0.6.5.zip) [Go to Download 2](https://drive.google.com/file/d/1v99QD6xoLf19HTnJMDSrNhSvdl63shvM/view?usp=sharing) |
 | OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | [Go to Download](https://gofile.io/d/DnSgff) Only usable on a jailbroken PS4, emulator doesnt work either! |
 | OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | [Go to Xbox Download](https://www.dropbox.com/scl/fi/i347gsjhgu722qn1zb1jy/OT11-Xbox.zip?rlkey=428b6ey77hnquhwqnkd0b60q2&st=46ad1373&dl=0) [Go to PC Extract Download](https://www.dropbox.com/scl/fi/4qxm120b8rljj4vuin9jq/OT11Extract.7z?rlkey=c5j9twp7gfxn6s8v54sz3g4uc&st=jyjmn0pm&dl=0)
 
 # Pre-BattleRoyale
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | [Go to Download](https://rebrand.ly/1_2_X) Down, @wallonia on discord if u can send this build or an other! |
+| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | [Go to Download](https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view?usp=sharing) Down, @wallonia on discord if u can send this build or an other! |
 | 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		[Go to Download](https://www.dropbox.com/scl/fi/hww1qpsyhgzme3wz9bg6n/1.2.7z?rlkey=sxv8zhi5400q7tscet78jjs0c&st=75iqfou4&dl=0) |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 1.7.2-CL-3700114        	| 17th October 2017      	 | UE4.16-3700114	    |	        [Go to Download](https://public.simplyblk.xyz/1.7.2.zip)|		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
-| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |		[Go to Download](https://public.simplyblk.xyz/1.8.rar)|		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
-| 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | [Go to Download](https://public.simplyblk.xyz/1.8.1.rar)|		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
-| 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		[Go to Download](https://public.simplyblk.xyz/1.8.2.rar)|		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
-| 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		[Go to Download](https://public.simplyblk.xyz/1.9.rar)|		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
-| 1.9.1-CL-3775276        	| 28th November 2017      	 | UE4.16-3775276	    |		[Go to Download](https://public.simplyblk.xyz/1.9.1.rar)|		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
-| 1.10-CL-3790078	  	| 6th December 2017	   	 | UE4.19-3790078	    |		[Go to Download 1](https://public.simplyblk.xyz/1.10.rar) [Go to Download 2](https://www.dropbox.com/scl/fi/fr7h5jx0826ve619z8608/1.10.rar?rlkey=d1bcks9l7ma48jjye7n82knxe&st=yo6otxxb&dl=0) |		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
+| 1.7.2-CL-3700114        	| 17th October 2017      	 | UE4.16-3700114	    |	        [Go to Download](https://public.simplyblk.xyz/1.7.2.zip) [Go To Download 2](https://drive.google.com/file/d/19Wuaz_BnM6F5-KTK6P261Y07kSsvbiW2/view?usp=sharing)|		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
+| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |		[Go to Download](https://public.simplyblk.xyz/1.8.rar) [Go To Download 2](https://drive.google.com/file/d/1Dr_bNxDXNTiEPLTke99oPEld5UaXi-bK/view?usp=sharing) |		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
+| 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | [Go to Download](https://public.simplyblk.xyz/1.8.1.rar) [Go To Download 2](https://drive.google.com/file/d/1d5NvaF1qsdaVUSXP4YBKab6oJC9vMG2d/view?usp=sharing) |		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
+| 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		[Go to Download](https://public.simplyblk.xyz/1.8.2.rar) [Go To Download 2](https://drive.google.com/file/d/1DFQ7A4C95pZOnjKmgnYudqpvAxXHscL5/view?usp=sharing) |		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
+| 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		[Go to Download](https://public.simplyblk.xyz/1.9.rar) [Go To Download 2](https://drive.google.com/file/d/1zijRjLPncoNKgSUHBm5HKXb30n_3xyUP/view?usp=sharing) |		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
+| 1.9.1-CL-3775276        	| 28th November 2017      	 | UE4.16-3775276	    |		[Go to Download](https://public.simplyblk.xyz/1.9.1.rar) [Go To Download 2](https://drive.google.com/file/d/19u5rfoHrZdzouJDHg3vf6BMybbAGH_y4/view?usp=sharing)  |		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
+| 1.10-CL-3790078	  	| 6th December 2017	   	 | UE4.19-3790078	    |		[Go to Download 1](https://public.simplyblk.xyz/1.10.rar) [Go to Download 2](https://www.dropbox.com/scl/fi/fr7h5jx0826ve619z8608/1.10.rar?rlkey=d1bcks9l7ma48jjye7n82knxe&st=yo6otxxb&dl=0) [Go to Download 3](https://drive.google.com/file/d/1rtbOIgVyZFvNl4oPoJKnhMJVHLivXhxT/view?usp=sharing) |		0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
 
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- | 
-| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |		[Go to Download](https://public.simplyblk.xyz/1.11.zip)|		N/A |
-| 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |		[Go to Download](https://public.simplyblk.xyz/2.1.0.zip)|		N/A |
-| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		[Go to Download](https://public.simplyblk.xyz/2.2.0.rar)|		N/A |
-| 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		[Go to Download](https://public.simplyblk.xyz/2.3.rar)|		N/A |
-| 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		[Go to Download](https://public.simplyblk.xyz/2.4.0.zip)|		N/A |
+| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |		[Go to Download](https://public.simplyblk.xyz/1.11.zip) [Go to Download 2](https://drive.google.com/file/d/1fVW7UY87RSQBRlx37Bir25D4d4bCmhqN/view?usp=sharing) |		N/A |
+| 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |		[Go to Download](https://public.simplyblk.xyz/2.1.0.zip) [Go to Download 2](https://drive.google.com/file/d/1Mh07OKi84mbLpFnYu4eoxnMcEYa9GNfo/view?usp=sharing) |		N/A |
+| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		[Go to Download](https://public.simplyblk.xyz/2.2.0.rar) [Go to Download 2](https://drive.google.com/file/d/1Ug1MwlUP89F_XPJQThv3G50oe7iVHCCC/view?usp=sharing) |		N/A |
+| 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		[Go to Download](https://public.simplyblk.xyz/2.3.rar) [Go to Download 2](https://drive.google.com/file/d/1VmE4xh43kK_nDjHBqkwhnfcdH0X_n2u6/view?usp=sharing) |		N/A |
+| 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		[Go to Download](https://public.simplyblk.xyz/2.4.0.zip) [Go to Download 2](https://drive.google.com/file/d/1AmxU8hd43H0p3kK9zYN9gZhQJV3hn8J3/view?usp=sharing)  |		N/A |
 | 2.4.1-CL-3870737        	| 7th February 2018	  	 | UE4.19-3870737	    |		[Go to Download](https://public.simplyblk.xyz/2.4.2.zip)|		0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4 |
-| 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 | Build lost ! (the current 2.4.2 you download from blk is actually 2.4.1)
-| 2.5.0-CL-3889387        	| 13th February 2018       	 | UE4.20-3889387	    |	        [Go to Download](https://public.simplyblk.xyz/2.5.0.rar)|		N/A |
+| 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 | [Go to Download](https://drive.google.com/file/d/1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY/view?usp=sharing)
+| 2.5.0-CL-3889387        	| 13th February 2018       	 | UE4.20-3889387	    |	        [Go to Download](https://public.simplyblk.xyz/2.5.0.rar) [Go to Download 2](https://drive.google.com/file/d/1KFJuos918RJk2lgm2_ScZh7bnxmkb8k0/view?usp=sharing) |		N/A |
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21st February 2018	   	 | UE4.20-3901517	    |	[Go to Download](https://public.simplyblk.xyz/3.0.zip) |		N/A |
-| 3.1-CL-3915963    		| 28th February 2018        	 | UE4.20-3915963      	    |   	[Go to Download](https://public.simplyblk.xyz/3.1.rar)|		N/A |
-| 3.1.1-CL-3917250	  	| 28th February 2018       	 | UE4.20-3917250	    |		[Go to Download](https://public.simplyblk.xyz/3.1.1.zip)|		N/A |
-| 3.2-CL-3935073	  	| 8th March 2018       	 | UE4.20-3935073 	    | 		[Go to Download](https://public.simplyblk.xyz/3.2.zip)|		0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4 |
+| 3.0-CL-3901517	 	| 21st February 2018	   	 | UE4.20-3901517	    |	[Go to Download](https://public.simplyblk.xyz/3.0.zip) [Go to Download 2](https://drive.google.com/file/d/1Q993Alyicbm4wuXH9MoVWeUKSGOi0vZi/view?usp=sharing) |		N/A |
+| 3.1-CL-3915963    		| 28th February 2018        	 | UE4.20-3915963      	    |   	[Go to Download](https://public.simplyblk.xyz/3.1.rar) [Go to Download 2](https://drive.google.com/file/d/1cpFuAyjypwiSq6ntFQXf5ENpwlieloUc/view?usp=sharing) |		N/A |
+| 3.1.1-CL-3917250	  	| 28th February 2018       	 | UE4.20-3917250	    |		[Go to Download](https://public.simplyblk.xyz/3.1.1.zip) [Go to Download 2](https://drive.google.com/file/d/18ysYt1J5yN_bMZUal9SpmScqEs9RimLR/view?usp=sharing) |		N/A |
+| 3.2-CL-3935073	  	| 8th March 2018       	 | UE4.20-3935073 	    | 		[Go to Download](https://public.simplyblk.xyz/3.2.zip) [Go to Download 2](https://drive.google.com/file/d/1cfuLPrbLrUSoIgmS42WdcG5b2rwEJXR8/view?usp=sharing) |		0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4 |
 | 3.3-CL-3942182                | 15th March 2018               | UE4.20-3942182           | [Go to Download](https://public.simplyblk.xyz/3.3.rar)|		0xADBB45488E8DE69437AD4F31D3569B0F710D2092799BFB1CE21D5CF9744097C3 |
-| 3.5-CL-4008490          	| 11th April 2018       	 | UE4.20-4008490	    | 		[Go to Download](https://public.simplyblk.xyz/3.5.rar)|		0xA3278BA7DDD751A75456415A36C3559138E99134D08958C44C2FD29E4BBF342B |
-| 3.6-CL-4019403          	| 24th April 2018     	 | UE4.20-4019403	    | 		[Go to Download](https://www.dropbox.com/scl/fi/ps1anb1c8z5qqopfsnhjk/3.6.zip?rlkey=327yudw9rupp2rr95bfts56ka&st=wxfoy6t2&dl=0)|		0x06FAA3C715608759855F551DBF5F7D8302E90E3671CA1B54BAB55FB3E0890BE5 |
+| 3.5-CL-4008490          	| 11th April 2018       	 | UE4.20-4008490	    | 		[Go to Download](https://public.simplyblk.xyz/3.5.rar) [Go to Download](https://drive.google.com/file/d/1QwLu9iNShSME8UCEl5LU3ivdTmQztK_9/view?usp=sharing) |		0xA3278BA7DDD751A75456415A36C3559138E99134D08958C44C2FD29E4BBF342B |
+| 3.6-CL-4019403          	| 24th April 2018     	 | UE4.20-4019403	    | 		[Go to Download](https://www.dropbox.com/scl/fi/ps1anb1c8z5qqopfsnhjk/3.6.zip?rlkey=327yudw9rupp2rr95bfts56ka&st=wxfoy6t2&dl=0) [Go to Download 2](https://drive.google.com/file/d/1CGp3z6aM8InsSv01vaH9J1K1Cb7H9913/view?usp=sharing) |		0x06FAA3C715608759855F551DBF5F7D8302E90E3671CA1B54BAB55FB3E0890BE5 |
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		[Go to Download](https://public.simplyblk.xyz/4.0.zip)|		0xBB3FE1D6E9296C2C0DBC880D07C7BFD6B4A6D8277D486446353B079B790CC434 |
-| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		[Go to Download](https://drive.usercontent.google.com/download?id=18sBxOd3xk9HUK6x5cHb4WhLKGTMwD2fz&export=download&authuser=0)|		0x094E272E681207E061897192FEB7DB8C6B6DB228D5B53080645348C18B8FB5D7 |
-| 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		[Go to Download](https://public.simplyblk.xyz/4.2.zip)|		0x9D8C9A4A4FA082F213EED604B6E756237181685EEDA82216437617D7AA5231AF |
-| 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           [Go to Download](https://public.simplyblk.xyz/4.4.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |           [Go to Download](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 4.5-CL-4159770          	| 27th June 2018     	 | UE4.20-4159770 	    |		[Go to Download](https://public.simplyblk.xyz/4.5.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		[Go to Download](https://public.simplyblk.xyz/4.0.zip) [Go to Download 2](https://drive.google.com/file/d/1i_TX2V5K6Y1kZtMjuWjdDfgQMLwDmfAx/view?usp=sharing) |		0xBB3FE1D6E9296C2C0DBC880D07C7BFD6B4A6D8277D486446353B079B790CC434 |
+| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		[Go to Download](https://drive.usercontent.google.com/download?id=18sBxOd3xk9HUK6x5cHb4WhLKGTMwD2fz&export=download&authuser=0) [Go to Download 2](https://drive.google.com/file/d/1Cwtq1tvbVhhJXq8q6mpePYxl_Ji53seM/view?usp=sharing) |		0x094E272E681207E061897192FEB7DB8C6B6DB228D5B53080645348C18B8FB5D7 |
+| 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		[Go to Download](https://public.simplyblk.xyz/4.2.zip) [Go to Download 2](https://drive.google.com/file/d/1kJQaxP-t7tLfo0adOaM-xdnu97yIFKRm/view?usp=sharing) |		0x9D8C9A4A4FA082F213EED604B6E756237181685EEDA82216437617D7AA5231AF |
+| 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           [Go to Download](https://public.simplyblk.xyz/4.4.rar) [Go to Download 2](https://drive.google.com/file/d/17Cwi48TCOy0LdHVmpYxLM85asd5bwthF/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |           [Go to Download](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view) [Go to Download 2](https://drive.google.com/file/d/15lOxiIf8XghFIAS8A-CBjwM2WBh5ltZ5/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 4.5-CL-4159770          	| 27th June 2018     	 | UE4.20-4159770 	    |		[Go to Download](https://public.simplyblk.xyz/4.5.rar) [Go to Download 2](https://drive.google.com/file/d/1-a1h_Kb7DS8SB292JV4v2LP6Gyt_lnfh/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 5.00-CL-4204761  	  	| 12th July 2018       	 | UE4.21-4204761	    |		[Go to Download](https://public.simplyblk.xyz/5.00.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 5.01-CL-4214610	  	| 12th July 2018      	 | UE4.21-4214610	    |		[Go to Download](https://public.simplyblk.xyz/5.0.1.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 5.10-CL-4240749         	| 25th July 2018       	 | UE4.21-4240749	    |		[Go to Download](https://public.simplyblk.xyz/5.10.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 5.21-CL-4288479         	| 15th August 2018     | UE4.21-4288479 	    |           [Go to Download](https://public.simplyblk.xyz/5.21.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 5.30-CL-4305896         	| 23rd August 2018     	 | UE4.21-4305896	    |           [Go to Download](https://public.simplyblk.xyz/5.30.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 5.40-CL-4352937         	| 5th September 2018     	 | UE4.21-4352937	    |		[Go to Download](https://public.simplyblk.xyz/5.40.rar)|		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 5.41-CL-4363240         	| 18th September 2018    	 | UE4.21-4352937	    |		[Go to Download 1](https://cdn.aufgeladen.dev/5.41.zip) [Go to Download 2](https://www.dropbox.com/scl/fi/1zf8e2hma15gkbu5mtn1g/5.41.zip?rlkey=25lrmm76d1lj73lboeybytd7d&st=i2mflal1&dl=0) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 5.00-CL-4204761  	  	| 12th July 2018       	 | UE4.21-4204761	    |		[Go to Download](https://public.simplyblk.xyz/5.00.rar) [Go to Download 2](https://drive.google.com/file/d/1cfyOZyTNP4-ERV_RFI-cw6kgz8BU2DRq/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 5.01-CL-4214610	  	| 12th July 2018      	 | UE4.21-4214610	    |		[Go to Download](https://public.simplyblk.xyz/5.0.1.rar) [Go to Download 2](https://drive.google.com/file/d/15CkEUQeuIxEuuzDsbM_-Gx_p-dl0_n-Z/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 5.10-CL-4240749         	| 25th July 2018       	 | UE4.21-4240749	    |		[Go to Download](https://public.simplyblk.xyz/5.10.rar) [Go to Download 2](https://drive.google.com/file/d/1nYt74KNt7WB9d6bELfE3uiShgHC7hLtw/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 5.21-CL-4288479         	| 15th August 2018     | UE4.21-4288479 	    |           [Go to Download](https://public.simplyblk.xyz/5.21.rar) [Go to Download 2](https://drive.google.com/file/d/1uazcX-lLrTfzrep030_M3OK0YlDt9VAW/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 5.30-CL-4305896         	| 23rd August 2018     	 | UE4.21-4305896	    |           [Go to Download](https://public.simplyblk.xyz/5.30.rar) [Go to Download 2](https://drive.google.com/file/d/104L6XhMysFZe8CZmdcquXYtOM4d8LDj3/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 5.40-CL-4352937         	| 5th September 2018     	 | UE4.21-4352937	    |		[Go to Download](https://public.simplyblk.xyz/5.40.rar) [Go to Download 2](https://drive.google.com/file/d/1k53i-JCYbpo3q8_ijEOOs6IlYkeowcbK/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
+| 5.41-CL-4363240         	| 18th September 2018    	 | UE4.21-4352937	    |		[Go to Download 1](https://cdn.aufgeladen.dev/5.41.zip) [Go to Download 2](https://www.dropbox.com/scl/fi/1zf8e2hma15gkbu5mtn1g/5.41.zip?rlkey=25lrmm76d1lj73lboeybytd7d&st=i2mflal1&dl=0) [Go to Download 3](https://drive.google.com/file/d/1CQaeoYymQ-uR6KU81NZgsg4pnILZDLUf/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 6.00-CL-4395664         	| 27th September 2018       	 | UE4.21-4395664	    |		[Go to Download](https://public.simplyblk.xyz/6.00.rar)|		0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
-| 6.01-CL-4417689         	| 3rd October 2018     	 | UE4.21-4417689	    |           [Go to Download](https://public.simplyblk.xyz/6.01.rar)|		0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
+| 6.00-CL-4395664         	| 27th September 2018       	 | UE4.21-4395664	    |		[Go to Download](https://public.simplyblk.xyz/6.00.rar) [Go to Download 2](https://drive.google.com/file/d/1XvmcAsaEoWeN6MmExYOv-sPtiOcrs7FK/view?usp=sharing) |		0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
+| 6.01-CL-4417689         	| 3rd October 2018     	 | UE4.21-4417689	    |           [Go to Download](https://public.simplyblk.xyz/6.01.rar) [Go to Download 2](https://drive.google.com/file/d/1xH9BVfcx9FixKt_JPSNombY1roSSYb-f/view?usp=sharing) |		0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
 | 6.01.1-CL-4424678		| 3rd October 2018		 | UE4.21-4424678	    | 		[Go to Download](https://public.simplyblk.xyz/6.1.1.rar)|		0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
-| 6.02-CL-4442095        	| 10th October 2018     		 | UE4.21-4442095    	    | 		[Go to Download](https://public.simplyblk.xyz/6.02.rar)|		0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
+| 6.02-CL-4442095        	| 10th October 2018     		 | UE4.21-4442095    	    | 		[Go to Download](https://public.simplyblk.xyz/6.02.rar) [Go to Download 2](https://drive.google.com/file/d/1gkDutapoha7AA1UmV98KwseCEvmVqJzm/view?usp=sharing) |		0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
 | 6.02.1-CL-4461277        	| 10th October 2018    	 | UE4.21-4461277	    |           [Go to Download](https://public.simplyblk.xyz/6.2.1.rar)|		0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
-| 6.10-CL-4464155       	| 16th October 2018      	 | UE4.21-4464155   	    | 		[Go to Download](https://public.simplyblk.xyz/6.10.rar)|		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
-| 6.10.1-CL-4476098       	| 16th October 2018    	 | UE4.21-4476098   	    | 		[Go to Download](https://public.simplyblk.xyz/6.10.1.rar)|		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
-| 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		[Go to Download](https://public.simplyblk.xyz/6.10.2.rar)|		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
-| 6.21-CL-4526925         	| 1st November 2018       	 | UE4.21-4526925	    |		[Go to Download](https://public.simplyblk.xyz/6.21.rar)|		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
-| 6.22-CL-4543176		| 4th November 2018		 | UE4.21-4543176	    | 		[Go to Download](https://public.simplyblk.xyz/6.22.rar)|		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
+| 6.10-CL-4464155       	| 16th October 2018      	 | UE4.21-4464155   	    | 		[Go to Download](https://public.simplyblk.xyz/6.10.rar) [Go to Download 2](https://drive.google.com/file/d/14CyQOJa0VS9E9MS3zmc1ycrGgtDL-hDV/view?usp=sharing) |		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
+| 6.10.1-CL-4476098       	| 16th October 2018    	 | UE4.21-4476098   	    | 		[Go to Download](https://public.simplyblk.xyz/6.10.1.rar) [Go to Download 2](https://drive.google.com/file/d/1zpgRhTySfAGtODWraXgDtZ6b57Sx8i8g/view?usp=sharing) |		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
+| 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		[Go to Download](https://public.simplyblk.xyz/6.10.2.rar) [Go to Download 2](https://drive.google.com/file/d/19RoJ-wTMGgSf0z-1s1P2kjGL-iTo99n1/view?usp=sharing)  |		0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
+| 6.21-CL-4526925         	| 1st November 2018       	 | UE4.21-4526925	    |		[Go to Download](https://public.simplyblk.xyz/6.21.rar) [Go to Download 2](https://drive.google.com/file/d/1iovXZswCVa0RvQcqcEbKu2IXT0SV66yg/view?usp=sharing) |		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
+| 6.22-CL-4543176		| 4th November 2018		 | UE4.21-4543176	    | 		[Go to Download](https://public.simplyblk.xyz/6.22.rar) [Go to Download 2](https://drive.google.com/file/d/1jrGdlhmZ4hE6Zfrozb_jiGgy1liE5wD1/view?usp=sharing) |		0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
 | 6.30-CL-4573096         	| 13th November 2018     	 | UE4.21-4573096	    |		[Go to Download](https://public.simplyblk.xyz/6.30.rar)|		0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491 |
-| 6.31-CL-4573279      	  	| 27th November 2018      	 | UE4.21-4573279	    |		[Go to Download](https://public.simplyblk.xyz/6.31.rar)|		0x9342FF75017B9502F0BDA699431876241436FC556F1AE12E285E96D143FC8BDC |
+| 6.31-CL-4573279      	  	| 27th November 2018      	 | UE4.21-4573279	    |		[Go to Download](https://public.simplyblk.xyz/6.31.rar) [Go to Download 2](https://drive.google.com/file/d/1Pncp6thx7e0vvf2h4VcBXFzFC7dBWMXe/view?usp=sharing) |		0x9342FF75017B9502F0BDA699431876241436FC556F1AE12E285E96D143FC8BDC |
 
 # Season 7
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 7.00-CL-4629139         	| 6th December 2018      	 | UE4.22-4629139	    |		[Go to Download](https://public.simplyblk.xyz/7.00.rar)|		N/A |
-| 7.10-CL-4667333	       	| 18th December 2018           	 | UE4.22-4667333	    |		[Go to Download](https://public.simplyblk.xyz/7.10.rar)|		0x73C95026DDCE5F8CE52BB69C55B8FA027E9FF58C6211D9001095AAC2ABDE6714 |
-| 7.20-CL-4727874	       	| 22nd January 2019             	 | UE4.22-4727874	    |		[Go to Download](https://public.simplyblk.xyz/7.20.rar)|		0x265E1A5E2741895843D75728B73AEB6A814D3B0302FC69BE39BB3F408B9B54E6 |
-| 7.30-CL-4834550         	| 29th January 2019       	 | UE4.22-4834550	    |		[Go to Download](https://public.simplyblk.xyz/7.30.rar)|		0xD23E6F3CF45A2E31081CB7D5F94C85EC50CCB1A804F8C90248F72FA3896912E4 |
-| 7.40-CL-5046157         	| 13th February 2019     	 | UE4.22-5046157	    |		[Go to Download](https://public.simplyblk.xyz/7.40.rar)|		0xF2A0859F249BC9A511B3A8766420C6E943004CF0EAEE5B7CFFDB8F10953E994F |
+| 7.00-CL-4629139         	| 6th December 2018      	 | UE4.22-4629139	    |		[Go to Download](https://public.simplyblk.xyz/7.00.rar) [Go to Download 2](https://drive.google.com/file/d/1s-n8QT0gBrEDBR4if-407v3B8kEtl-Hg/view?usp=sharing) |		N/A |
+| 7.10-CL-4667333	       	| 18th December 2018           	 | UE4.22-4667333	    |		[Go to Download](https://public.simplyblk.xyz/7.10.rar) [Go to Download 2](https://drive.google.com/file/d/1j9Y2Q1bL0osGP9qCIilDo8xLeWPsi4g_/view?usp=sharing) |		0x73C95026DDCE5F8CE52BB69C55B8FA027E9FF58C6211D9001095AAC2ABDE6714 |
+| 7.20-CL-4727874	       	| 22nd January 2019             	 | UE4.22-4727874	    |		[Go to Download](https://public.simplyblk.xyz/7.20.rar) [Go to Download 2](https://drive.google.com/file/d/1YilxeXeLlVOvW3ITSlbnUIPyyImHuepZ/view?usp=sharing) |		0x265E1A5E2741895843D75728B73AEB6A814D3B0302FC69BE39BB3F408B9B54E6 |
+| 7.30-CL-4834550         	| 29th January 2019       	 | UE4.22-4834550	    |		[Go to Download](https://public.simplyblk.xyz/7.30.rar) [Go to Download 2](https://drive.google.com/file/d/1kFJUm9utFNa0bDbdRSU8E_Or-nb4NMdT/view?usp=sharing) |		0xD23E6F3CF45A2E31081CB7D5F94C85EC50CCB1A804F8C90248F72FA3896912E4 |
+| 7.40-CL-5046157         	| 13th February 2019     	 | UE4.22-5046157	    |		[Go to Download](https://public.simplyblk.xyz/7.40.rar) [Go to Download 2](https://drive.google.com/file/d/1hnRtFxgMKuviipR_2N2ZA1-9pJYiEdKV/view?usp=sharing) |		0xF2A0859F249BC9A511B3A8766420C6E943004CF0EAEE5B7CFFDB8F10953E994F |
 
 # Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 8.00-CL-5203069	              | 28th February 2019     	 | UE4.22            	    |		[Go to Download](https://public.simplyblk.xyz/8.00.zip)|		0xAC7AF84B59C4BD4F916F7EFCB292B3A5897CFF7DD7A688AC8B3791A4EDF32E7 |
-| 8.20-CL-5625478	              | 27th March 2019        	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.20.rar)|		0x5F3B1AE176BF56D5FD1AA073DC01868692ABC11B9186BB12D9235072BBAEE8E2 |
-| 8.30-CL-5793395	              | 10th April 2019   	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.30.rar)|		0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE |
-| 8.40-CL-6005771	              | 17th April 2019       	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.40.zip)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
-| 8.50-CL-6058028	              | 25th April 2019       	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.50.zip)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
-| 8.51-CL-6165369	              | 2nd May 2019         	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.51.rar)|		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
+| 8.00-CL-5203069	              | 28th February 2019     	 | UE4.22            	    |		[Go to Download](https://public.simplyblk.xyz/8.00.zip) [Go to Download 2](https://drive.google.com/file/d/1dMNcVm60pfU1LAFkE9NFKYN4NYN3dzBc/view?usp=sharing) |		0xAC7AF84B59C4BD4F916F7EFCB292B3A5897CFF7DD7A688AC8B3791A4EDF32E7 |
+| 8.20-CL-5625478	              | 27th March 2019        	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.20.rar) [Go to Download 2](https://drive.google.com/file/d/1pUxEJ2vbaUoRKviEEACHznFb_YhMrwqC/view?usp=sharing) | 		0x5F3B1AE176BF56D5FD1AA073DC01868692ABC11B9186BB12D9235072BBAEE8E2 |
+| 8.30-CL-5793395	              | 10th April 2019   	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.30.rar) [Go to Download 2](https://drive.google.com/file/d/1YU3ycLklrQBeqgeXef1Tl4DshtEqRy0a/view?usp=sharing) |		0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE |
+| 8.40-CL-6005771	              | 17th April 2019       	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.40.zip) [Go to Download 2](https://drive.google.com/file/d/13pAJ-cwhaM0PT7927OdLr8ibGyrtG46k/view?usp=sharing) |		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
+| 8.50-CL-6058028	              | 25th April 2019       	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.50.zip) [Go to DOwnload 2](https://drive.google.com/file/d/1EC3LGu9G1rJC5v8cVZffxO2UkYp--Ll0/view?usp=sharing) |		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
+| 8.51-CL-6165369	              | 2nd May 2019         	 | UE4.23            	    |		[Go to Download](https://public.simplyblk.xyz/8.51.rar) [Go to Download 2](https://drive.google.com/file/d/1qrPanN37CGwjK6J5Loj84kMOvKHqMLDC/view?usp=sharing) |		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
 
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		  
@@ -146,7 +146,7 @@
 | 12.00-CL-N/A	                | 20th February 2020         	 | UE4.24            	    |		[Go to Download](https://public.simplyblk.xyz/12.00.rar)|		0xB5DBD6C9DB714CC3E2C9C7422EB0A7E667168D92C59770214EC6ABC68D8C2D3E |
 | 12.10-CL-N/A	                | 15th March 2020         	 | UE4.24            	    |	Link down, dm @wallonia on discord if u got it !	|		0x7B155D8AA29AA7D1D4FB859521408C987C5B5D5F8A2641EE16F9BA256DF64FC8 |
 | 12.21-CL-N/A	                | 24th March 2020        	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.21.zip)|		0xCBDEB191165B1D8D51759732AAFC0633159CCF993D8662FD99D56F9C3F3F7401 |
-| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.25            	    |		[Go to Download 1](https://public.simplyblk.xyz/Fortnite%2012.41.zip) [Go to Download 2](https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view) |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
+| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.25            	    |		[Go to Download 1](https://public.simplyblk.xyz/Fortnite%2012.41.zip) [Go to Download 2](fnbuilds.boostedv2.dev/12.41.rar) (Fixed download 2) Play this using [Eon](https://discord.gg/eonfn) ! |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
 | 12.50-CL-N/A	                | 29th April 2020       	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.50.zip)|		0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C |
 | 12.61-CL-13498980	                | 26th May 2020        	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.61.zip)|		0x3F3717F4F206FF21BDA8D3BF62B323556D1D2E7D9B0F7ABD572D3CFE5B569FAC |
 
