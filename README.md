@@ -146,7 +146,7 @@
 | 12.00-CL-N/A	                | 20th February 2020         	 | UE4.24            	    |		[Go to Download](https://public.simplyblk.xyz/12.00.rar)|		0xB5DBD6C9DB714CC3E2C9C7422EB0A7E667168D92C59770214EC6ABC68D8C2D3E |
 | 12.10-CL-N/A	                | 15th March 2020         	 | UE4.24            	    |	Link down, dm @wallonia on discord if u got it !	|		0x7B155D8AA29AA7D1D4FB859521408C987C5B5D5F8A2641EE16F9BA256DF64FC8 |
 | 12.21-CL-N/A	                | 24th March 2020        	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.21.zip)|		0xCBDEB191165B1D8D51759732AAFC0633159CCF993D8662FD99D56F9C3F3F7401 |
-| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.25            	    |		[Go to Download 1](https://public.simplyblk.xyz/Fortnite%2012.41.zip) [Go to Download 2](fnbuilds.boostedv2.dev/12.41.rar) (Fixed download 2) Play this using [Eon](https://discord.gg/eonfn) ! |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
+| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.25            	    |		[Go to Download 1](https://public.simplyblk.xyz/Fortnite%2012.41.zip) [Go to Download 2](fnbuilds.boostedv2.dev/12.41.rar) Play this using [Eon](https://discord.gg/eonfn) ! |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
 | 12.50-CL-N/A	                | 29th April 2020       	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.50.zip)|		0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C |
 | 12.61-CL-13498980	                | 26th May 2020        	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.61.zip)|		0x3F3717F4F206FF21BDA8D3BF62B323556D1D2E7D9B0F7ABD572D3CFE5B569FAC |
 
