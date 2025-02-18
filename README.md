@@ -148,7 +148,7 @@
 | 12.21-CL-N/A	                | 24th March 2020        	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.21.zip)|		0xCBDEB191165B1D8D51759732AAFC0633159CCF993D8662FD99D56F9C3F3F7401 |
 | 12.41-CL-12905909	          | 21st April 2020       	 | UE4.25            	    |		[Go to Download 1](https://public.simplyblk.xyz/Fortnite%2012.41.zip) [Go to Download 2](fnbuilds.boostedv2.dev/12.41.rar) Play this using [Eon](https://discord.gg/eonfn) ! |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
 | 12.50-CL-N/A	                | 29th April 2020       	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.50.zip)|		0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C |
-| 12.61-CL-13498980	                | 26th May 2020        	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.61.zip) [Go to Download 2](https://public.privateuser.xyz/12.61.zip) Play using [Rewind](https://discord.gg/BppnVdkBJE) |		0x3F3717F4F206FF21BDA8D3BF62B323556D1D2E7D9B0F7ABD572D3CFE5B569FAC |
+| 12.61-CL-13498980	                | 26th May 2020        	 | UE4.25            	    |		[Go to Download](https://public.simplyblk.xyz/12.61.zip) [Go to Download 2](https://discord.gg/BppnVdkBJE) (available on rewind's discord) |		0x3F3717F4F206FF21BDA8D3BF62B323556D1D2E7D9B0F7ABD572D3CFE5B569FAC |
 
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
@@ -200,7 +200,7 @@
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 19.00-CL-18049531 | 5th December 2021 | UE5.0 | Build is on my SSD, upload will be soon |
 | 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	[Go to Download](https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view) |		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
-| 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 [Go to Download](https://public.simplyblk.xyz/19.10.rar) [Go to Download 2](https://public.privateuser.xyz/19.10.rar) |		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
+| 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 [Go to Download](https://public.simplyblk.xyz/19.10.rar) [Go to Download 2](https://discord.gg/BppnVdkBJE) (available on rewind dc) |		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		   
