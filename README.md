@@ -224,7 +224,7 @@
 # Season 24
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 24.20-CL-23070899	                | 11th April 2023        	 | N/A           	    |	Link down, dm @wallonia on discord if you got a link ! |		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
+| 24.20-CL-23070899	                | 11th April 2023        	 | N/A           	    |	[Go to Download](https://drive.google.com/file/d/1yu_rattzHO7mfjTEp_ThIwHE5hgbfsuj/view?usp=drive_link) |		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
 | 24.30-CL-23789416 | 2nd May 2023 | N/A | [Go to Download](https://drive.google.com/file/d/1jG0Y8Ejv7PAe4POMtOeLX9V10CRziw6R/view) |
 
 # Season 26
