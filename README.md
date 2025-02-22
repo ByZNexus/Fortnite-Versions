@@ -2,7 +2,7 @@
 
 ## Welcome to the revamped page of Fortnite Versions ! I've renewed most of the links and replaced some. I will add paks (mods) soon for the common builds like 8.51 etc soon :)
 
-## Warning that most builds from S9 to S20 wont work because BLK domain is down ! I'm actively working to add a second download thanks to [Carbon](https://github.com/CarbonFN/FortniteBuilds) :)
+## Warning that most builds from S15 to S20 wont work because BLK domain is down ! I'm actively working to add a second download thanks to [Carbon](https://github.com/CarbonFN/FortniteBuilds) :)
 
 ## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
@@ -184,9 +184,9 @@
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		[Go to Download 1](https://public.simplyblk.xyz/17.30.zip) [Go to Download 2](https://drive.google.com/file/d/1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA/view) [Go to Download 3](https://drive.google.com/file/d/1rcV41CxNEmjIP5XOeqNvt7MTqKeznUul/view?usp=sharing)|		0x7DD830C5ACC92FE26653003ABECA10606F3492026A2C971283B2FA6B42DE8422 |
-| 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | [Go to Download](https://drive.google.com/file/d/1WxqsdMLFmw1Injhi7Ywk5mvRDmp0LHeD/view?usp=sharing) |
-| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/17.50.zip) [Go to Download 2](https://drive.google.com/file/d/1lqyVPzhL4HdqT2yqWHkJtnw1CmWbZYQV/view?usp=sharing) |		0x3FE5C589D219E71EE15FEB8FA9BC6B6224BB58AA826A0FA1D997D92E0D8DB23A |
+| 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		Download : [1](https://public.simplyblk.xyz/17.30.zip) ; [2](https://drive.google.com/file/d/1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA/view) ; [3](https://drive.google.com/file/d/1rcV41CxNEmjIP5XOeqNvt7MTqKeznUul/view?usp=sharing)|		0x7DD830C5ACC92FE26653003ABECA10606F3492026A2C971283B2FA6B42DE8422 |
+| 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1WxqsdMLFmw1Injhi7Ywk5mvRDmp0LHeD/view?usp=sharing) |
+| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1lqyVPzhL4HdqT2yqWHkJtnw1CmWbZYQV/view?usp=sharing) |		0x3FE5C589D219E71EE15FEB8FA9BC6B6224BB58AA826A0FA1D997D92E0D8DB23A |
 
 # Season 18
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
@@ -196,54 +196,54 @@
 | 18.20-CL-17995427 | 12th October 2021 | UE4.26.1 | Build is on my SSD, upload will be soon |
 | 18.21-CL-18017591	                | 19th October 2021         	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if u got a link ! |		0xA1DA9C15884EC933DA9D7445140A5A5C668A18FAE35D248D5119254DB4EDA406 |
 | 18.30-CL-18105492 | 26th October 2021 | UE4.26.1 | Build is on my SSD, upload will be soon |
-| 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |		[Go to Download](https://public.simplyblk.xyz/18.40.zip)|		0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24 |
+| 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |		Download : [1](https://public.simplyblk.xyz/18.40.zip)|		0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24 |
 
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 19.00-CL-18049531 | 5th December 2021 | UE5.0 | Build is on my SSD, upload will be soon |
-| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	[Go to Download](https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view) |		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
-| 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 [Go to Download](https://public.simplyblk.xyz/19.10.rar) [Go to Download 2](https://discord.gg/BppnVdkBJE) (available on rewind dc) |		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
+| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	Download : [1](https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view) |		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
+| 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 Download : [1](https://public.simplyblk.xyz/19.10.rar) ; [2](https://discord.gg/BppnVdkBJE) (available on rewind dc) |		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		   
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 20.40-CL-20244966	                | 17th May 2022        	 | UE5.1           	    |	 [Go to Download 1](https://public.simplyblk.xyz/20.40.zip) [Go to Download 2](https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view) |		0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430 |
+| 20.40-CL-20244966	                | 17th May 2022        	 | UE5.1           	    |	 Download : [1](https://public.simplyblk.xyz/20.40.zip) ; [2](https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view) |		0xA9AA68E485AB1A9A1777F5BE7A02C35ECCD93FCCCCD147F2EA67BA2DA7D35430 |
 
 # Season 21
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 21.00-CL-20548557 | 5th June 2022 | UE5.1 | [Go to Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
-| 21.10-CL-21159871	                | 21st June 2022         	 | UE5.1           	    |	 [Go to Download](https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view)|		0x2108EF3DC5C7A9F49B23B7B65B41253F915FDF11A9D981AF5EF86F6330C00219 |
-| 21.20-CL-21179810 | 6th July 2022 | UE5.1 | [Go to Download 1](https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view?usp=sharing) [Go to Download 2](https://www.dropbox.com/scl/fi/d468b7pes2yclsyug9raq/21.20.zip?rlkey=fxw7ep75lzf6tr0uscc6vufqu&st=ov8vgitd&dl=0) |
-| 21.50-CL-21245791                | 30th August 2022 | UE5.1 | [Go to Download 1](https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0) [Go to Download 2](https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0) |
+| 21.00-CL-20548557 | 5th June 2022 | UE5.1 | Download : [1](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
+| 21.10-CL-21159871	                | 21st June 2022         	 | UE5.1           	    |	 Download : [1](https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view)|		0x2108EF3DC5C7A9F49B23B7B65B41253F915FDF11A9D981AF5EF86F6330C00219 |
+| 21.20-CL-21179810 | 6th July 2022 | UE5.1 |  Download : [1](https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view?usp=sharing) ; [2](https://www.dropbox.com/scl/fi/d468b7pes2yclsyug9raq/21.20.zip?rlkey=fxw7ep75lzf6tr0uscc6vufqu&st=ov8vgitd&dl=0) |
+| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  Download : [1](https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0) ; [2](https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0) |
 
 # Season 22
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 22.20-CL-23456978 | 18th October 2022 | N/A | [Go to Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view) |
-| 22.40-CL-23070899	                | 15th November 2022         	 | N/A           	    |	[Go to Download](https://drive.google.com/file/d/1oqCsB2etoHMbPQGOytHoMo0BeDi2xN8R/view?usp=sharing) |
+| 22.20-CL-23456978 | 18th October 2022 | N/A | Download : [1](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view) |
+| 22.40-CL-23070899	                | 15th November 2022         	 | N/A           	    |	Download : [1](https://drive.google.com/file/d/1oqCsB2etoHMbPQGOytHoMo0BeDi2xN8R/view?usp=sharing) |
 
 # Season 24
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 24.20-CL-23070899	                | 11th April 2023        	 | N/A           	    |	[Go to Download](https://drive.google.com/file/d/1yu_rattzHO7mfjTEp_ThIwHE5hgbfsuj/view?usp=drive_link) |		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
-| 24.30-CL-23789416 | 2nd May 2023 | N/A | [Go to Download](https://drive.google.com/file/d/1jG0Y8Ejv7PAe4POMtOeLX9V10CRziw6R/view) |
+| 24.20-CL-23070899	                | 11th April 2023        	 | N/A           	    |	Download : [1](https://drive.google.com/file/d/1yu_rattzHO7mfjTEp_ThIwHE5hgbfsuj/view?usp=drive_link) |		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
+| 24.30-CL-23789416 | 2nd May 2023 | N/A | Download : [1](https://drive.google.com/file/d/1jG0Y8Ejv7PAe4POMtOeLX9V10CRziw6R/view) |
 
 # Season 26
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 26.30-CL-28798412	                | 10th October 2023         	 | N/A           	    |	 [Go to Download](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)|		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
+| 26.30-CL-28798412	                | 10th October 2023         	 | N/A           	    |	 Download : [1](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)|		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
 
 # Season 27
 | Build               | Date                 | Engine Version    | Download links |
 | ------------------- | --------------------- | ----------------- | ------------------------ |
-| 27.11-CL-29739262 | 21st November 2023 | N/A | [Go to Download](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) |
+| 27.11-CL-29739262 | 21st November 2023 | N/A | Download : [1](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) |
 
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 30.00-CL-33962396 | 24th May 2024  | N/A | [Go to Download](https://drive.google.com/file/d/1n0NzUKoNB6YgC-9OKH3RFX2Ouq9YqJSo/view) |
+| 30.00-CL-33962396 | 24th May 2024  | N/A | Download : [1](https://drive.google.com/file/d/1n0NzUKoNB6YgC-9OKH3RFX2Ouq9YqJSo/view) |
 
 ## Playable Events
 
