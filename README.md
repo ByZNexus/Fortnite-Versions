@@ -159,18 +159,18 @@
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 14.00-CL-N/A	                | 25th August 2020        	 | UE4.26            	    |		Download [1](https://public.simplyblk.xyz/14.00.rar) ; [2](https://drive.google.com/file/d/1FCyoH2exoLf6RRjf3GfUDM4o2ibVq5R4/view?usp=sharing) |			0x229A785CCE84A6F149BFAE69F5AD742983AA3504149A75F60313A1296B917763 |
-| 14.30-CL-14456520	                | 13th October 2020         	 | UE4.26            	    | Download [1](https://www.dropbox.com/scl/fi/laarogoaj111xprv3s959/14.30.rar?rlkey=ki86gl9uo916v8kgt9i7h3rmf&st=r6924ftm&dl=0) ; [2](https://drive.usercontent.google.com/download?id=1H_fTXKdYnIAyyUU130kYUdvkxtSiZTvR&export=download&authuser=0) ;	[3](https://drive.google.com/file/d/1ss1suEw3d1_9E_te60BlYfZAvRC1qAN_/view?usp=sharing) |		0x3440AB1D1B824905842BE1574F149F9FC7DBA2BB566993E597402B4715A28BD5 |
-| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.26            	    |		 Download [1](https://public.simplyblk.xyz/14.40.rar)|		0xAB32BAB083F7D923A33AA768BC64B64BF62488948BD49FE61D95343492252558 |
-| 14.60-CL-14786821           | 18th November 2020       	  | UE4.26            	    |		 Download [1](https://public.simplyblk.xyz/14.60.rar) ; [2](https://drive.google.com/file/d/1nY-F8sCMuJaKaDQttst67Ce3duQsZD5j/view?usp=sharing) |		0xCF47F08CEEDD6A0A86D3D67DD0C25924FE934676B86A3777A36B7E353EB35C09 |
+| 14.00-CL-N/A	                | 25th August 2020        	 | UE4.26            	    |		Download : [1](https://public.simplyblk.xyz/14.00.rar) ; [2](https://drive.google.com/file/d/1FCyoH2exoLf6RRjf3GfUDM4o2ibVq5R4/view?usp=sharing) |			0x229A785CCE84A6F149BFAE69F5AD742983AA3504149A75F60313A1296B917763 |
+| 14.30-CL-14456520	                | 13th October 2020         	 | UE4.26            	    | Download : [1](https://www.dropbox.com/scl/fi/laarogoaj111xprv3s959/14.30.rar?rlkey=ki86gl9uo916v8kgt9i7h3rmf&st=r6924ftm&dl=0) ; [2](https://drive.usercontent.google.com/download?id=1H_fTXKdYnIAyyUU130kYUdvkxtSiZTvR&export=download&authuser=0) ;	[3](https://drive.google.com/file/d/1ss1suEw3d1_9E_te60BlYfZAvRC1qAN_/view?usp=sharing) |		0x3440AB1D1B824905842BE1574F149F9FC7DBA2BB566993E597402B4715A28BD5 |
+| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.26            	    |		 Download : [1](https://public.simplyblk.xyz/14.40.rar)|		0xAB32BAB083F7D923A33AA768BC64B64BF62488948BD49FE61D95343492252558 |
+| 14.60-CL-14786821           | 18th November 2020       	  | UE4.26            	    |		 Download : [1](https://public.simplyblk.xyz/14.60.rar) ; [2](https://drive.google.com/file/d/1nY-F8sCMuJaKaDQttst67Ce3duQsZD5j/view?usp=sharing) |		0xCF47F08CEEDD6A0A86D3D67DD0C25924FE934676B86A3777A36B7E353EB35C09 |
 
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 15.00-CL-14984751	                | 2nd December 2020         	 | UE4.26            	    |	Download [1](https://drive.google.com/file/d/1wmlN3nMHelfaY9wLa-l2EpeoAB6ZUKSo/view?usp=sharing) |			0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2 |
-| 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	Download [1](https://drive.google.com/file/d/17KYc9QK6h3z9iwKAPNDhB5zwjT8vfIob/view?usp=sharing) |		0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE |
-| 15.30-CL-15341163	          | 2nd February 2021         	 | UE4.26            	    |		 Download [1](https://public.simplyblk.xyz/15.30.rar)|		0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0 |
-| 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		 Download [1](https://galaxiafn.co.uk/15.50.zip) ; [2](https://drive.google.com/file/d/1OZcdYh39ufJEy7Syleinwk452kO9A3sK/view?usp=sharing) |		0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
+| 15.00-CL-14984751	                | 2nd December 2020         	 | UE4.26            	    |	Download : [1](https://drive.google.com/file/d/1wmlN3nMHelfaY9wLa-l2EpeoAB6ZUKSo/view?usp=sharing) |			0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2 |
+| 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	Download : [1](https://drive.google.com/file/d/17KYc9QK6h3z9iwKAPNDhB5zwjT8vfIob/view?usp=sharing) |		0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE |
+| 15.30-CL-15341163	          | 2nd February 2021         	 | UE4.26            	    |		 Download : [1](https://public.simplyblk.xyz/15.30.rar)|		0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0 |
+| 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		 Download : [1](https://galaxiafn.co.uk/15.50.zip) ; [2](https://drive.google.com/file/d/1OZcdYh39ufJEy7Syleinwk452kO9A3sK/view?usp=sharing) |		0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
 
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
