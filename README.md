@@ -12,14 +12,14 @@
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |	Download : [1](https://public.simplyblk.xyz/OT0.6.5.zip) ; [2](https://drive.google.com/file/d/1v99QD6xoLf19HTnJMDSrNhSvdl63shvM/view?usp=sharing) |
-| OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | Download [1](https://gofile.io/d/DnSgff) Only usable on a jailbroken PS4, emulator doesnt work either! |
-| OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | Xbox Download : [1](https://www.dropbox.com/scl/fi/i347gsjhgu722qn1zb1jy/OT11-Xbox.zip?rlkey=428b6ey77hnquhwqnkd0b60q2&st=46ad1373&dl=0) PC Extract Download : [1](https://www.dropbox.com/scl/fi/4qxm120b8rljj4vuin9jq/OT11Extract.7z?rlkey=c5j9twp7gfxn6s8v54sz3g4uc&st=jyjmn0pm&dl=0)
+| OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | Download : [1](https://gofile.io/d/DnSgff) Only usable on a jailbroken PS4, emulator doesnt work either! |
+| OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | Xbox Download : [1](https://www.dropbox.com/scl/fi/i347gsjhgu722qn1zb1jy/OT11-Xbox.zip?rlkey=428b6ey77hnquhwqnkd0b60q2&st=46ad1373&dl=0) ; PC Extract Download : [1](https://www.dropbox.com/scl/fi/4qxm120b8rljj4vuin9jq/OT11Extract.7z?rlkey=c5j9twp7gfxn6s8v54sz3g4uc&st=jyjmn0pm&dl=0)
 
 # Pre-BattleRoyale
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | [Go to Download](https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view?usp=sharing) |
-| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		[Go to Download](https://www.dropbox.com/scl/fi/hww1qpsyhgzme3wz9bg6n/1.2.7z?rlkey=sxv8zhi5400q7tscet78jjs0c&st=75iqfou4&dl=0) |
+| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view?usp=sharing) |
+| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://www.dropbox.com/scl/fi/hww1qpsyhgzme3wz9bg6n/1.2.7z?rlkey=sxv8zhi5400q7tscet78jjs0c&st=75iqfou4&dl=0) |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
