@@ -139,7 +139,6 @@
 | 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	 Download : [1](https://drive.google.com/file/d/1P7wrV5Aum0-03TI6b3fOcB5P400Onsfo/view) ; [2](https://drive.google.com/file/d/1MsBR3EEksMMKXz-fc6pcybsJhRqmiFwy/view?usp=sharing) |		0x60B40115A36DD9F17CC4A352F03211E3A859AC664FEF7E7200930F849FD8A980 |
 | 11.30-CL-10547923 | 12th December 2019 | UE4.24 |  Download : [1](https://drive.google.com/file/d/18XCCQc8mqrPhCvh-roc3AZ_R2y8RkaP3/view?usp=sharing) |
 | 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 |	 Download : [1](https://public.simplyblk.xyz/11.31.rar)|
-0x6C51ABA88CA1240A0D14EB94701F6C41FD7799B102E9060D1E6C316993196FDF |
 | 11.50-CL-10899178 | 2nd May 2020 | UE4.24 | Download : [1](https://gofile.io/d/YLdIUc) |
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
