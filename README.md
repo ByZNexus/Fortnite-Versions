@@ -213,7 +213,7 @@
 # Season 21
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 21.00-CL-20548557 | 5th June 2022 | UE5.1 | Download : [1](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
+| 21.00-CL-20548557 | 5th June 2022 | UE5.1 | Download : [1](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) ; [2](https://cdn.solarisfn.org/21.00.zip)
 | 21.10-CL-21159871	                | 21st June 2022         	 | UE5.1           	    |	 Download : [1](https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view)|		0x2108EF3DC5C7A9F49B23B7B65B41253F915FDF11A9D981AF5EF86F6330C00219 |
 | 21.20-CL-21179810 | 6th July 2022 | UE5.1 |  Download : [1](https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view?usp=sharing) ; [2](https://www.dropbox.com/scl/fi/d468b7pes2yclsyug9raq/21.20.zip?rlkey=fxw7ep75lzf6tr0uscc6vufqu&st=ov8vgitd&dl=0) |
 | 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  Download : [1](https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0) ; [2](https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0) |
