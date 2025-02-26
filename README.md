@@ -138,8 +138,8 @@
 | 11.00-CL-9603448	             | 15th October 2019       | UE4.24              |	 Download : [1](https://galaxiafn.co.uk/11.00.zip) |		0xC078E51F6EC259767BF61FEE58CD3C4C367E487D9DFD9EF1C2D504BBC97360EE |
 | 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	 Download : [1](https://drive.google.com/file/d/1P7wrV5Aum0-03TI6b3fOcB5P400Onsfo/view) |		0x60B40115A36DD9F17CC4A352F03211E3A859AC664FEF7E7200930F849FD8A980 |
 | 11.30-CL-10547923 | 12th December 2019 | UE4.24 | Link down, dm @wallonia on discord if you got a link  |
-| 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | Link down, dm @wallonia on discord if you got a link |
-| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://gofile.io/d/YLdIUc)
+| 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | Download : [1](https://drive.google.com/file/d/17GTA3y33YWpX9yn4Vvdqyj3pHiRuMSZr/view?usp=sharing) |
+| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://gofile.io/d/YLdIUc) ; [2](https://drive.google.com/file/d/1KZszpA4VVoKXNO4eSin6WjQr6apguQIz/view?usp=sharing)
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
@@ -148,7 +148,7 @@
 | 12.21-CL-N/A	                | 24th March 2020        	 | UE4.25            	    |		Link down, dm @wallonia on discord if you got a link  |		0xCBDEB191165B1D8D51759732AAFC0633159CCF993D8662FD99D56F9C3F3F7401 |
 | 12.41-CL-12905909	          | 21st April 2020       	 | UE4.25            	    |		 Download : [1](https://fnbuilds.boostedv2.dev/12.41.rar) ; [2](https://cdn.aufgeladen.dev/12.41.zip) ; [3](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
 | 12.50-CL-N/A	                | 29th April 2020       	 | UE4.25            	    |		Link down, dm @wallonia on discord if you got a link  |		0xDCC3C6D54873F20E247E942323AAAE74C310D3E6B01CCC5C87D3B0563F3EBC0C |
-| 12.61-CL-13498980	                | 26th May 2020        	 | UE4.25            	    |		[1](https://discord.gg/BppnVdkBJE) (available on rewind dc)  |		0x3F3717F4F206FF21BDA8D3BF62B323556D1D2E7D9B0F7ABD572D3CFE5B569FAC |
+| 12.61-CL-13498980	                | 26th May 2020        	 | UE4.25            	    |	 Download : [1](https://drive.google.com/file/d/10y3Zr_LxAUZi1nsczhdFCFTZ59KAdBHJ/view?usp=sharing) ; [2](https://discord.gg/BppnVdkBJE) (available on rewind dc)  |		0x3F3717F4F206FF21BDA8D3BF62B323556D1D2E7D9B0F7ABD572D3CFE5B569FAC |
 
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
@@ -176,7 +176,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if you got a link ! |		0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A |
-| 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Download : Link down, dm @wallonia on discord if you got a link ! |
+| 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1oP9neA9V9d0qIgniCDjhKp3wnrHE0d7Z/view?usp=sharing)|
 | 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link ! |
 | 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |		Link down, dm @wallonia on discord if you got a link ! |		0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142 |
 | 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 |  Download : [1](https://galaxiafn.co.uk/16.50.zip)  |
@@ -184,6 +184,7 @@
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
+| 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1GGOkx9EvBoX29jZ5LLXMVCYG-ycMpBPG/view?usp=sharing) |
 | 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		Download : [1](https://drive.google.com/file/d/1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA/view) |		0x7DD830C5ACC92FE26653003ABECA10606F3492026A2C971283B2FA6B42DE8422 |
 | 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link !  | 
 | 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Link down, dm @wallonia on discord if you got a link ! |		0x3FE5C589D219E71EE15FEB8FA9BC6B6224BB58AA826A0FA1D997D92E0D8DB23A |
@@ -192,11 +193,11 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 18.00-CL-17847626	                | 24th September 2021        	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if u got a link ! |		0x26CD203A3B9D9163BE126BFD09910594FE7A322CE0103E6B7DD8EEAD494AC023 |
-| 18.10-CL-17923647	                | 27th September 2021         	 | UE4.26.1            	    |		Link down, dm @wallonia on discord if u got a link ! |			0x55F6E0B9A62A538AA9E54216E3B9DCB88BD3DC6E0A0F23FBC1BC362183AD11B2 |
+| 18.10-CL-17923647	                | 27th September 2021         	 | UE4.26.1            	    |		Download : [1](https://drive.google.com/file/d/1_R5MSes7YlzNg1nFpfk-YdvrG8Il88pf/view?usp=sharing) |			0x55F6E0B9A62A538AA9E54216E3B9DCB88BD3DC6E0A0F23FBC1BC362183AD11B2 |
 | 18.20-CL-17995427 | 12th October 2021 | UE4.26.1 | Build is on my SSD, upload will be soon |
 | 18.21-CL-18017591	                | 19th October 2021         	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if u got a link ! |		0xA1DA9C15884EC933DA9D7445140A5A5C668A18FAE35D248D5119254DB4EDA406 |
 | 18.30-CL-18105492 | 26th October 2021 | UE4.26.1 | Build is on my SSD, upload will be soon |
-| 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if you got a link ! |		0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24 |
+| 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |	Download : [1](https://drive.google.com/file/d/1SPkZck-FtrNLpLplXvFXW_8-FB3GaoZI/view?usp=sharing) |		0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24 |
 
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
