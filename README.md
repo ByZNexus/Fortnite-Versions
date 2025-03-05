@@ -203,7 +203,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 19.00-CL-18049531 | 5th December 2021 | UE5.0 | Build is on my SSD, upload will be soon |
-| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	Download : [1](https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view) |		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
+| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	Download : [1](https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view) ; [2](https://r2.ploosh.dev/19.01.zip) |		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
 | 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 Download : [1](https://public.simplyblk.xyz/19.10.rar) ; [2](https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar) ; [3](https://discord.gg/BppnVdkBJE) (available on rewind dc) |		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
 
 # Season 20
