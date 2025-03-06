@@ -2,6 +2,8 @@
 
 ## Welcome to the universal page for Fortnite Version !
 
+## I've apparently only noticed just now, but Epic Games has took down my builds under DMCA on the 24th February. Thanks Epic, you guys are a**holes <3
+
 ## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
 # Downloads
