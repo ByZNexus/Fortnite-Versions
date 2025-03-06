@@ -1,8 +1,6 @@
 # Fortnite Versions Archive
 
-## Welcome to the revamped page of Fortnite Versions ! I've renewed most of the links and replaced some. I will add paks (mods) soon for the common builds like 8.51 etc soon :)
-
-## Warning that most builds from S15 to S20 wont work because BLK domain is down ! I'm actively working to add a second download thanks to [Carbon](https://github.com/CarbonFN/FortniteBuilds) :)
+## Welcome to the universal page for Fortnite Version !
 
 ## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
