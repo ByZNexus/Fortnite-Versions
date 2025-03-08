@@ -2,7 +2,7 @@
 
 ## Welcome to the universal page for Fortnite Version !
 
-## I've apparently only noticed just now, but Epic Games has took down my builds under DMCA on the 24th February. Thanks Epic, you guys are a**holes <3
+## Thanks to [zvivsp](https://github.com/zvivsp) for the 27.XX builds !
 
 ## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
@@ -239,7 +239,9 @@
 # Season 27
 | Build               | Date                 | Engine Version    | Download links |
 | ------------------- | --------------------- | ----------------- | ------------------------ |
-| 27.11-CL-29739262 | 21st November 2023 | N/A | Download : [1](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) |
+| 27.00-CL-29001789 | 3rd November 2023 | UE5.4 | Download : [1](https://gofile.io/d/JucYai)
+| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | Download available soon thanks to [zvivsp](https://github.com/zvivsp)
+| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | Download : [1](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) |
 
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
