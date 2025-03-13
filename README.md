@@ -240,7 +240,7 @@
 | Build               | Date                 | Engine Version    | Download links |
 | ------------------- | --------------------- | ----------------- | ------------------------ |
 | 27.00-CL-29001789 | 3rd November 2023 | UE5.4 | Download : [1](https://gofile.io/d/JucYai)
-| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | Download : [1](https://gofile.io/d/XsU1fV)
+| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | Download : [1](https://gofile.io/d/XsU1fV) ; [2](https://drive.google.com/file/d/1-JSxLpqTwn-LWMgWhWiW-AU48p-DHrut/view?usp=sharing)
 | 27.11-CL-29739262 | 21st November 2023 | UE5.4 | Download : [1](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) |
 
 # Season 30
