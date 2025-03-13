@@ -246,7 +246,7 @@
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 30.00-CL-33962396 | 24th May 2024  | N/A | Download : [1](https://drive.google.com/file/d/1n0NzUKoNB6YgC-9OKH3RFX2Ouq9YqJSo/view) |
+| 30.00-CL-33962396 | 24th May 2024  | N/A | Download : [1](https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view?usp=sharing) Updated ! |
 
 ## Playable Events
 
