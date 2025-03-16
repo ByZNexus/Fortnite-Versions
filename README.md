@@ -59,7 +59,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		Download : [1](https://public.simplyblk.xyz/4.0.zip) ; [2](https://drive.google.com/file/d/1i_TX2V5K6Y1kZtMjuWjdDfgQMLwDmfAx/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.0.zip) |		0xBB3FE1D6E9296C2C0DBC880D07C7BFD6B4A6D8277D486446353B079B790CC434 |
-| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Download : [1](https://drive.usercontent.google.com/download?id=18sBxOd3xk9HUK6x5cHb4WhLKGTMwD2fz&export=download&authuser=0) ; [2](https://drive.google.com/file/d/1Cwtq1tvbVhhJXq8q6mpePYxl_Ji53seM/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.1.zip) |		0x094E272E681207E061897192FEB7DB8C6B6DB228D5B53080645348C18B8FB5D7 |
+| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Download : [1](https://gofile.io/d/PNuLSQ) ; [2](https://builds.rebootfn.org/4.1.zip) |		0x094E272E681207E061897192FEB7DB8C6B6DB228D5B53080645348C18B8FB5D7 |
 | 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 Download : [1](https://public.simplyblk.xyz/4.2.zip) ; [2](https://drive.google.com/file/d/1kJQaxP-t7tLfo0adOaM-xdnu97yIFKRm/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.2.zip) ; [4](https://galaxiafn.co.uk/4.2.zip)|		0x9D8C9A4A4FA082F213EED604B6E756237181685EEDA82216437617D7AA5231AF |
 | 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           Download : [1](https://public.simplyblk.xyz/4.4.rar) ; [2](https://drive.google.com/file/d/17Cwi48TCOy0LdHVmpYxLM85asd5bwthF/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.4.rar) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
 | 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |          Download : [1](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view) ; [2](https://drive.google.com/file/d/15lOxiIf8XghFIAS8A-CBjwM2WBh5ltZ5/view?usp=sharing) |		0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
@@ -176,7 +176,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if you got a link ! |		0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A |
-| 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1oP9neA9V9d0qIgniCDjhKp3wnrHE0d7Z/view?usp=sharing)|
+| 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link ! |
 | 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link ! |
 | 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |	Download : [1](https://public.simplyblk.xyz/16.40.rar)	|		0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142 |
 | 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 |  Download : [1](https://galaxiafn.co.uk/16.50.zip)  |
@@ -234,6 +234,7 @@
 # Season 26
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 26.20-CL-28094891 | 26th September 2023 | N/A | Download : [1](https://gofile.io/d/MPwIvf)
 | 26.30-CL-28798412	                | 10th October 2023         	 | N/A           	    |	 Download : [1](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)|		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
 
 # Season 27
@@ -241,12 +242,23 @@
 | ------------------- | --------------------- | ----------------- | ------------------------ |
 | 27.00-CL-29001789 | 3rd November 2023 | UE5.4 | Download : [1](https://gofile.io/d/JucYai)
 | 27.10-CL-29578459 | 16th November 2023 | UE5.4 | Download : [1](https://gofile.io/d/XsU1fV) ; [2](https://drive.google.com/file/d/1-JSxLpqTwn-LWMgWhWiW-AU48p-DHrut/view?usp=sharing)
-| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | Download : [1](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) |
+| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | Download : [1](https://drive.google.com/file/d/1_IsXPxnm8PJYcLM_ZrtSIh9keN5D6M-1/view) ; [2](https://gofile.io/d/cBUDZ9) |
+
+# Season 29
+| Build | Date | Engine Version | Download links |
+| --- | --- | -- | --- |
+| 29.00-CL-31978752 | 8th March 2024 | UE5.5 | Download : [1](https://gofile.io/d/un70Ro)
+| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | Download : [1](https://www.swisstransfer.com/d/a9e20060-5ef4-44bb-8136-764cfaaf5831)
 
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 30.00-CL-33962396 | 24th May 2024  | N/A | Download : [1](https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view?usp=sharing) Updated ! |
+| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | Download : [1](https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view?usp=sharing) Updated ! |
+
+# Season 31
+| Build | Date | Engine Version | Download links |
+|-|-|-|-|
+| 31.00-35445871 | 16th August 2024 | UE5.5 | Download : [1](https://gofile.io/d/WTrPy2) ; [2](https://13.gigafile.nu/1223-jb4261280f4e88e8a9722f8c3e33f8a43)
 
 ## Playable Events
 
