@@ -195,7 +195,7 @@
 | 18.00-CL-17847626	                | 24th September 2021        	 | UE4.26.1            	    |	Download : [1](https://gofile.io/d/bRmdmY) |		0x26CD203A3B9D9163BE126BFD09910594FE7A322CE0103E6B7DD8EEAD494AC023 |
 | 18.10-CL-17923647	                | 27th September 2021         	 | UE4.26.1            	    |	Download : [1](https://gofile.io/d/URr4uX) |			0x55F6E0B9A62A538AA9E54216E3B9DCB88BD3DC6E0A0F23FBC1BC362183AD11B2 |
 | 18.20-CL-17995427 | 12th October 2021 | UE4.26.1 | Build is on my SSD, upload will be soon |
-| 18.21-CL-18017591	                | 19th October 2021         	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if u got a link ! |		0xA1DA9C15884EC933DA9D7445140A5A5C668A18FAE35D248D5119254DB4EDA406 |
+| 18.21-CL-18017591	                | 19th October 2021         	 | UE4.26.1            	    |	Download : [1](https://gofile.io/d/UK0qLq) |		0xA1DA9C15884EC933DA9D7445140A5A5C668A18FAE35D248D5119254DB4EDA406 |
 | 18.30-CL-18105492 | 26th October 2021 | UE4.26.1 | Build is on my SSD, upload will be soon |
 | 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |	Download : [1](https://public.simplyblk.xyz/18.40.zip) |		0x9B0FB282D119754EA74895CDCCAD8DF16252B969718C0A6E7AE74C0F21080F24 |
 
