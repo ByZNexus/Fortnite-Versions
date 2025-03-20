@@ -291,6 +291,11 @@
 | 33.20-CL-39082670 | 14th January 2025 | UE5.6 | Download : [1](https://fn-builds.net/S33/33.20-CL-39082670.7z)
 | 33.30-CL-39435251 | 31st January 2025 | UE5.6 | Download : [1](https://fn-builds.net/S33/33.30-CL-39435251.7z)
 
+# Season 34
+| Build | Date | Engine Version | Download links |
+|-|-|-|-|
+| 34.10-CL-? | 11th March 2025 | UE5.6 | Download : [1](https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view)
+
 ## Playable Events
 
 v3.6 - 16.2 GB | It's raining meteors | Play using Rift
