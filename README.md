@@ -276,6 +276,7 @@
 | 31.00-CL-35447195 | 16th August 2024 | UE5.5 | Download : [1](https://gofile.io/d/WTrPy2) ; [2](https://fn-builds.net/S31/31.00-CL-35447195.7z)
 | 31.10-CL-35815136 | 4th September 2024 | UE5.5 | Download : [1](https://fn-builds.net/S31/31.10-CL-35815136.7z)
 | 31.30-CL-36600465 | 1st October 2024 | UE5.5 | Download : [1](https://fn-builds.net/S31/31.30-CL-36600465.7z)
+| 31.40-CL-36874825 | 15th October 2024 | UE5.5 | Download : [1](https://gofile.io/d/nWzIOp)
 
 # Season 32
 | Build | Date | Engine Version | Download links |
