@@ -1,6 +1,8 @@
-# Fortnite Versions Archive
-
 ## Welcome to the universal page for Fortnite Version !
+
+## Big thanks to the [Reboot](https://discord.gg/rebootmp) for their latest announcement about my page :)
+
+## Note : Any build above S23 and under the "fn-builds.net" site might not always be up, just try to download later in the day
 
 ## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
@@ -174,7 +176,7 @@
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if you got a link ! |		0xD79DD62584A7401841F80C070F8B8B405A100F51511E918ABF4EF2BB981BCA0A |
 | 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link ! |
-| 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link ! |
+| 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view) |
 | 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |	Download : [1](https://public.simplyblk.xyz/16.40.rar)	|		0x87FBEB2D67828EDA151C34B330D0C24F4A364243314CE53AB52475490D6CE142 |
 | 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 |  Download : [1](https://galaxiafn.co.uk/16.50.zip)  |
 
