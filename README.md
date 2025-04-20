@@ -383,15 +383,26 @@ Will need an update lol
 ## Credits
 
 BLK - For almost all chapter 1 links and most chapter 2 links
+
 [Reboot](https://discord.gg/rebootmp) - For most C1-C2 links
+
 [FN-Builds](https://fn-builds.net) - S21+ links and some S12 and S18 links
+
 [Solaris](https://discord.gg/solarisfn) - 10.00 and 21.00
+
 Ploosh - 21.00 and 19.01
+
 GalaxiaFN - Links for some seasons
+
 [Boosted](https://discord.gg/eonfn) - 12.41
+
 Aufgeladen - 12.41
+
 [llamaqwerty](https://github.com/llamaqwerty) - Helping me fine some links throughout his [repository](https://github.com/llamaqwerty/fortnite-builds-archive)
 
+
+
 And everyone else who uploaded builds and dm'ed me with new links :)
+
 
 If you got more builds, feel free to dm @wallonia on discord !
