@@ -1,8 +1,10 @@
 # Congrats on making it this far!
 
-Here's some really cool OGFN servers you guys can play !
+### Here's a list of famous or really good OGFN servers you can play !
 
-### [Click here](https://github.com/ByZNexus/Fortnite-Versions/tree/main) to download more builds !
+Note : If there's any admins of the projects i'm listing and wishes a change to their project on the list, please dm me at @wallonia on discord ! (also dm me if you want your server on the list that's valid too)
+
+## [Click here](https://github.com/ByZNexus/Fortnite-Versions/tree/main) to access every other builds for singleplayer
 
 # Fortnite Remakes
 
