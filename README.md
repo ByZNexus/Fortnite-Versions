@@ -1,6 +1,6 @@
 # Welcome to ByZN's repository for Fortnite Versions !
 
-### [Click here](https://github.com/ByZNexus/Fortnite-Versions/blob/projects/Projects.md) to browse through some projects to play !
+### [Click here](https://github.com/ByZNexus/Fortnite-Versions/blob/main/Projects.md) to browse through some projects to play !
 
 Sticky Note : Builds above S21 might not always be up so be patient and try later !
 
