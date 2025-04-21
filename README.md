@@ -1,8 +1,8 @@
-## Welcome to the universal page for Fortnite Version !
+# Welcome to ByZN's repository for Fortnite Versions !
 
-## Big thanks to the [Reboot](https://discord.gg/rebootmp) server for their latest announcement about my page :)
+### [Click here](https://github.com/ByZNexus/Fortnite-Versions/blob/projects/Projects.md) to browse through some projects to play !
 
-## Note : Any build above S21 and under the "fn-builds.net" site might not always be up, just try to download later in the day
+Sticky Note : Builds above S21 might not always be up so be patient and try later !
 
 ## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
