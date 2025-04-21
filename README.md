@@ -169,7 +169,7 @@
 | 15.00-CL-14984751	                | 2nd December 2020         	 | UE4.26            	    | Download : [1](https://drive.google.com/file/d/1iiZdgbc42_o_d3vE2aIHDIT7LzxXJaKB/view)	 |			0x4BDB8F6BE2B8587E8F28B8898283C340D6283F6C4F58E4A41C3066D39E4637C2 |
 | 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	Link down, dm @wallonia on discord if you got a link |		0x7FE21F0B0D2C00867CD7B6DA553D0B6B00CFAF66E0BBB8D5365672AFB442E8EE |
 | 15.30-CL-15341163	          | 2nd February 2021         	 | UE4.26            	    |	Download : [1](https://public.simplyblk.xyz/15.30.rar)	 |		0x44034A9FFA18B1BF680B3BD22784CDCDA76B8A0CF1F2DD333FA0B7C0A5BD92A0 |
-| 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		 Download : [1](https://galaxiafn.co.uk/15.50.zip) |		0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
+| 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		 Download : [1](https://galaxiafn.co.uk/15.50.zip) ; [2](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view?usp=sharing) |		0xCE0D9BEFF8DA86195BC0F95E1612948871ED8DAA0E9199D18272F5C80853156A |
 
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
