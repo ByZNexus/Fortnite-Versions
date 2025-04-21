@@ -1,6 +1,8 @@
-# Congrats for making it this far!
+# Congrats on making it this far!
 
-Here's some really cool projects you guys can play with the versions i'm giving you !
+Here's some really cool OGFN servers you guys can play !
+
+### [Click here](https://github.com/ByZNexus/Fortnite-Versions/tree/main) to download more builds !
 
 # Fortnite Remakes
 
