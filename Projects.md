@@ -35,6 +35,11 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 | ------------- | ---------------- | ------------------------------- | - |
 | [Solaris](https://discord.gg/solarisfn) | 9.10-CL-6639283	 | Download : [1](https://builds.rebootfn.org/9.10.rar) ; [2](https://galaxiafn.co.uk/9.10.zip) ; [3](https://public.simplyblk.xyz/9.10.rar) | Has more than 80 custom skins made by talentuous modders known in the community, they are obtained through donating. There's also custom weapons but i'm not exactly sure of which got added.
 
+## Season 10
+| Project Name  |  Build                    |  Download links             | Additional Info |
+| ------------- | ---------------- | ------------------------------- | - |
+| [Evoke](https://discord.gg/tDwY2rGTCB) | 10.40-CL-9380822	 | Download : [1](https://public.simplyblk.xyz/10.40.rar) ; [2](https://cdn.solarisfn.org/10.40.zip) |
+
 ## Season 12
 | Project Name  |  Build                    |  Download links             | Additional Infos |
 | ------------- | ---------------- | ------------------------------- | - |
