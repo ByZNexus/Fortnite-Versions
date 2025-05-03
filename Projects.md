@@ -38,8 +38,7 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 ## Season 10
 | Project Name  |  Build                    |  Download links             | Additional Info |
 | ------------- | ---------------- | ------------------------------- | - |
-| [Evoke](https://discord.gg/tDwY2rGTCB) | 10.40-CL-9380822	 | Download : [1](https://public.simplyblk.xyz/10.40.rar) ; [2](https://cdn.solarisfn.org/10.40.zip) |
-
+| [Evoke](https://discord.gg/tDwY2rGTCB) | 10.40-CL-9380822	 | Download : [1](https://public.simplyblk.xyz/10.40.rar) ; [2](https://cdn.solarisfn.org/10.40.zip) | Didn't try but the owners aren't really that nice
 ## Season 12
 | Project Name  |  Build                    |  Download links             | Additional Infos |
 | ------------- | ---------------- | ------------------------------- | - |
