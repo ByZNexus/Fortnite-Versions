@@ -19,7 +19,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view?usp=sharing) ; [2](https://rebrand.ly/1_2_X) |
-| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://www.dropbox.com/scl/fi/hww1qpsyhgzme3wz9bg6n/1.2.7z?rlkey=sxv8zhi5400q7tscet78jjs0c&st=75iqfou4&dl=0) ; [2](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download) |
+| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://gofile.io/d/9HYfIm) ; [2](https://store-eu-par-3.gofile.io/download/web/9790ea12-d3a2-4fb4-b354-d6edceb0cc9c/1.2.rar) |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
@@ -127,7 +127,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.00.zip) ; [2](https://public.simplyblk.xyz/10.00.zip) ; [3](https://cdn.solarisfn.org/10.00.zip) |		0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
 | 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.10.zip) ; [2](https://public.simplyblk.xyz/10.10.zip) |		0x96A032AA931880ACBA60312208226FE56CB4DC7A98C9728EF0C995FB6DD7B5A6 |
 | 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.20.zip) ; [2](https://public.simplyblk.xyz/10.20.zip) |		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
-| 10.30-CL-8569425 | 12th September 2019 | UE4.23 | Link down, dm @wallonia on discord if u got a link | 
+| 10.30-CL-8569425 | 12th September 2019 | UE4.23 | Download : [1](https://gofile.io/d/2zcTsK) ; [2](https://store-eu-par-1.gofile.io/download/web/efc4eb62-7c99-40d1-8e73-f00ae5834642/10.30.rar) | 
 | 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.31.zip) ; [2](https://public.simplyblk.xyz/10.31.zip) |		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
 | 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |		Download : [1](https://public.simplyblk.xyz/10.40.rar) ; [2](https://cdn.solarisfn.org/10.40.zip) |		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
 
@@ -138,6 +138,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	 Download : [1](https://drive.google.com/file/d/1hTrWEigQBgBGkzIKXoc3R5VqW8GcefC3/view) |		0x60B40115A36DD9F17CC4A352F03211E3A859AC664FEF7E7200930F849FD8A980 |
 | 11.30-CL-10547923 | 12th December 2019 | UE4.24 | Download : [1](https://drive.google.com/file/d/1QvpQkFZupxFym1T6s_RwGdBt2pVnWf8/view)  |
 | 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | Download : [1](https://public.simplyblk.xyz/11.31.rar) |
+| 11.40-CL-11039906 | 15th January 2020 | UE4.24 | Download : [1](https://gofile.io/d/18dYDk) ; [2](https://store3.gofile.io/download/web/7e1bda88-4ec1-40a8-9122-ed4228771700/11.40.rar)
 | 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Link down, dm @wallonia on discord if u got a link |
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -159,7 +160,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 14.00-CL-N/A	                | 25th August 2020        	 | UE4.26            	    |		Download : [1](https://public.simplyblk.xyz/14.00.rar) |			0x229A785CCE84A6F149BFAE69F5AD742983AA3504149A75F60313A1296B917763 |
-| 14.30-CL-14456520	                | 13th October 2020         	 | UE4.26            	    | Download : [1](https://drive.google.com/file/d/117H8_xWOQKLuUNQ2Jm56UtK7ooFTzdMq/view) |		0x3440AB1D1B824905842BE1574F149F9FC7DBA2BB566993E597402B4715A28BD5 |
+| 14.30-CL-14456520	                | 13th October 2020         	 | UE4.26            	    | Download : [1](https://gofile.io/d/47NC7f) ; [2](https://store9.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar) |		0x3440AB1D1B824905842BE1574F149F9FC7DBA2BB566993E597402B4715A28BD5 |
 | 14.40-CL-14550713	          | 21st October 2020         	 | UE4.26            	    |	Download : [1](https://public.simplyblk.xyz/14.40.rar) |		0xAB32BAB083F7D923A33AA768BC64B64BF62488948BD49FE61D95343492252558 
 | 14.60-CL-14786821           | 18th November 2020       	  | UE4.26            	    |		Download : [1](https://public.simplyblk.xyz/14.60.rar) |		0xCF47F08CEEDD6A0A86D3D67DD0C25924FE934676B86A3777A36B7E353EB35C09 |
 
@@ -185,7 +186,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1KQHMQX-2-douvRdtQ1cnhp_USJsSWALY/view) |
 | 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		Download : [1](https://public.simplyblk.xyz/17.30.zip) |		0x7DD830C5ACC92FE26653003ABECA10606F3492026A2C971283B2FA6B42DE8422 |
-| 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link !  | 
+| 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://cold-na-phx-4.gofile.io/download/web/787de76f-c658-4b85-bcd9-97d60f01be8a/17.40-CL-17269705.7z) ; [2](https://cold-na-phx-4.gofile.io/download/web/ad2fe8f4-8bff-4157-9ba2-5aa047e4d848/17.40-CL-17269705.7z)  | 
 | 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Download : [1](https://public.simplyblk.xyz/17.50.zip) |		0x3FE5C589D219E71EE15FEB8FA9BC6B6224BB58AA826A0FA1D997D92E0D8DB23A |
 
 # Season 18
@@ -203,7 +204,8 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 19.00-CL-18049531 | 5th December 2021 | UE5.0 | Download : [1](https://archive.org/details/fortnite-19.01.7z) |
 | 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	Download : [1](https://r2.ploosh.dev/19.01.zip) |		0xDAE1418B289573D4148C72F3C76ABC7E2DB9CAA618A3EAF2D8580EB3A1BB7A63 |
-| 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 Download : [1](https://public.simplyblk.xyz/19.10.rar) ; [2](https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar) |		0x7131B806D1318BA63233159BA67BBFDDAE7A401BED125DA75766221A602ACABA |
+| 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 Download : [1](https://public.simplyblk.xyz/19.10.rar) ; [2](https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar) |
+| 19.40-CL-19215531 | 1st March 2022 | UE5.0 | Download : [1](https://gofile.io/d/QDahzx) ; [2](https://store9.gofile.io/download/web/552ad80b-a0b4-4561-9cd4-efc67154224d/19.40-CL-19215531.7z)
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		   
