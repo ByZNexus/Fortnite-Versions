@@ -217,6 +217,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	Download : [1](https://r2.ploosh.dev/19.01.zip) |	
 | 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 Download : [1](https://public.simplyblk.xyz/19.10.rar) ; [2](https://builds.fn-builds.net/19.10.rar) |
 | 19.20-CL-18775446 | 1st February 2022 | UE5.0 | Download : [1](https://builds.fn-builds.net/19.20-CL-18775446.7z)
+| 19.30-CL-? | 14th February 2022 | UE5.0 | Download : [1](https://gofile.io/d/jL84uN)  TEMPORARY (Download before it gets taken down!)
 | 19.40-CL-19215531 | 1st March 2022 | UE5.0 | Download : [1](https://gofile.io/d/QDahzx) ; [2](https://store9.gofile.io/download/web/552ad80b-a0b4-4561-9cd4-efc67154224d/19.40-CL-19215531.7z) TEMPORARY (Download before it gets taken down!)
 
 # Season 20
@@ -232,7 +233,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 21.20-CL-21035704 | 6th July 2022 | UE5.1 |  Download : [1](https://builds.fn-builds.net/21.20-CL-21035704.7z) |
 | 21.30-CL-21155462 | 18th July 2022 | UE5.1 |  Download : [1](https://builds.fn-builds.net/21.30-CL-21155462.7z) |
 | 21.40-CL-21407327 | 16th August 2022 | UE5.1 |  Download : [1](https://builds.fn-builds.net/21.40-CL-21407327.7z) |
-| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  Link down, dm @wallonia if you got a link ! (Build not lost) |
+| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  Download : [1](https://gofile.io/d/L2OT9k) TEMPORARY (Download before it gets taken down!) |
 | 21.51-CL-21735703 | 7th September 2022 | UE5.1 | Download : [1](https://builds.fn-builds.net/21.51-CL-21735703.7z)
 
 # Season 22
