@@ -117,7 +117,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 9.00-CL-6337466	              | 9th May 2019      	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.00.zip) ; [2](https://public.simplyblk.xyz/9.00.zip) ; [3](https://builds.fn-builds.net/9.00.7z) |		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
 | 9.01-CL-6428087	              | 15th May 2019     	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.01.zip) ; [2](https://public.simplyblk.xyz/9.01.zip) |		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
 | 9.10-CL-6639283	              | 19th May 2019     	   | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.10.rar) ; [2](https://galaxiafn.co.uk/9.10.zip) ; [3](https://public.simplyblk.xyz/9.10.rar) |		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
-| 9.20-CL-6822798 | 6th June 2019 | UE4.23 | Download : [1](https://gofile.io/d/F11VXp) TEMPORARY (Download before it gets taken down)
+| 9.20-CL-6822798 | 6th June 2019 | UE4.23 |  Link down, dm @wallonia if you get a link
 | 9.21-CL-6922310	              | 12th June 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.21.zip) ; [2](https://public.simplyblk.xyz/9.21.zip) |		0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
 | 9.30-CL-7095426	              | 9th July 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.30.zip) ; [2](https://public.simplyblk.xyz/9.30.zip) | 		0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC |
 | 9.40-CL-7315705               | 17th July 2019      	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/9.40.zip) ; [2](https://public.simplyblk.xyz/9.40.zip) |		0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
@@ -129,7 +129,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.00.zip) ; [2](https://public.simplyblk.xyz/10.00.zip) ; [3](https://cdn.solarisfn.org/10.00.zip) ; [4](https://builds.fn-builds.net/10.00.7z) |		0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
 | 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.10.zip) ; [2](https://public.simplyblk.xyz/10.10.zip) |		0x96A032AA931880ACBA60312208226FE56CB4DC7A98C9728EF0C995FB6DD7B5A6 |
 | 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.20.zip) ; [2](https://public.simplyblk.xyz/10.20.zip) |		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
-| 10.30-CL-8569425 | 12th September 2019 | UE4.23 | Download : [1](https://gofile.io/d/2zcTsK) ; [2](https://store-eu-par-1.gofile.io/download/web/efc4eb62-7c99-40d1-8e73-f00ae5834642/10.30.rar) TEMPORARY (Download before it gets taken down!) 
+| 10.30-CL-8569425 | 12th September 2019 | UE4.23 |  Link down, dm @wallonia if you get a link
 | 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.31.zip) ; [2](https://public.simplyblk.xyz/10.31.zip) |		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
 | 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |		Download : [1](https://public.simplyblk.xyz/10.40.rar) ; [2](https://cdn.solarisfn.org/10.40.zip) |		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
 
@@ -139,13 +139,13 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 11.00-CL-9603448	             | 15th October 2019       | UE4.24              |	 Download : [1](https://galaxiafn.co.uk/11.00.zip) ; [2](https://public.simplyblk.xyz/11.00.zip) ; [3](https://builds.fn-builds.net/11.00.7z) |
 | 11.01-CL-9728272 | 22nd October 2019 | UE4.24 | Download : [1](https://gofile.io/d/OBM0rx) ; [2](https://cold3.gofile.io/download/web/81c50169-86fc-4721-a7c9-bce38d6c7257/11.01.rar) TEMPORARY (Download before it gets taken down!)
 | 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	Link down, dm @wallonia on discord if u got a link |
-| 11.11-CL-10082788 | 13th November 2019 | UE4.24 | Download : [1](https://gofile.io/d/6Gc38g) ; [2](https://store8.gofile.io/download/web/36c868ab-9210-405f-bcb0-2db044f89eb9/11.11.rar) TEMPORARY (Download before it gets taken down!)
+| 11.11-CL-10082788 | 13th November 2019 | UE4.24 | Link down, dm @wallonia if you get a link
 | 11.20-CL-10297577 | 20th November 2019 | UE4.24 | Download : [1](https://gofile.io/d/X9eLzX) ; [2](https://store3.gofile.io/download/web/7dd67b9f-20da-45dd-ab5d-c50c088ca278/11.20-CL-10297577.7z) TEMPORARY (Download before it gets taken down!)
-| 11.21-CL-10481509 | 4th December 2019 | UE4.24 | Download : [1](https://gofile.io/d/1PtVif) ; [2](https://cold5.gofile.io/download/web/9fb8d7d9-007d-4dcc-bf55-7ea5a67ede33/11.21.rar) TEMPORARY (Download before it gets taken down!)
+| 11.21-CL-10481509 | 4th December 2019 | UE4.24 |  Link down, dm @wallonia if you get a link
 | 11.30-CL-10547923 | 12th December 2019 | UE4.24 | Download : [1](https://106.gigafile.nu/0613-je958195874278409dbc1e8069148d7ed) ; [2](https://cold-na-phx-4.gofile.io/download/web/c955c4c3-a88c-4f73-9c2b-f02504c66d26/11.30.7z) ; [3](https://builds.fn-builds.net/11.30.7z) |
 | 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | Download : [1](https://public.simplyblk.xyz/11.31.rar) |
 | 11.40-CL-11039906 | 15th January 2020 | UE4.24 | Download : [1](https://gofile.io/d/18dYDk) ; [2](https://store3.gofile.io/download/web/7e1bda88-4ec1-40a8-9122-ed4228771700/11.40.rar)
-| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Link down, dm @wallonia on discord if u got a link |
+| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://gofile.io/d/erMSEN) TEMPORARY (Download before it gets taken down!)
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
