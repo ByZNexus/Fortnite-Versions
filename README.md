@@ -86,7 +86,8 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 6.02.1-CL-4461277        	| 10th October 2018    	 | UE4.21-4461277	    |            Download : [1](https://public.simplyblk.xyz/6.2.1.rar) ; [2](https://builds.rebootfn.org/6.2.1.rar) |		
 | 6.10-CL-4464155       	| 16th October 2018      	 | UE4.21-4464155   	    | 		 Download : [1](https://public.simplyblk.xyz/6.10.rar) ; [2](https://builds.rebootfn.org/6.10.rar) |		
 | 6.10.1-CL-4476098       	| 16th October 2018    	 | UE4.21-4476098   	    | 	 Download : [1](https://public.simplyblk.xyz/6.10.1.rar) ; [2](https://builds.rebootfn.org/6.10.1.rar) |		
-| 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		 Download : [1](https://public.simplyblk.xyz/6.10.2.rar) ; [2](https://builds.rebootfn.org/6.10.2.rar) |		
+| 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		 Download : [1](https://public.simplyblk.xyz/6.10.2.rar) ; [2](https://builds.rebootfn.org/6.10.2.rar) |	
+| 6.20-CL-? | 24th October 2018 | UE4.21-? | Download : [1](https://cold4.gofile.io/download/web/22743fac-6f1a-4d1f-b2d2-c6e83f39db1e/6.20.rar)
 | 6.21-CL-4526925         	| 1st November 2018       	 | UE4.21-4526925	    |		 Download : [1](https://public.simplyblk.xyz/6.21.rar) ; [2](https://builds.rebootfn.org/6.21.rar) ; [3](https://buzzheavier.com/x3mclasj48ai) |
 | 6.22-CL-4543176		| 4th November 2018		 | UE4.21-4543176	    | 		 Download : [1](https://public.simplyblk.xyz/6.22.rar) ; [2](https://builds.rebootfn.org/6.22.rar) |		
 | 6.30-CL-4573096         	| 13th November 2018     	 | UE4.21-4573096	    |		 Download : [1](https://public.simplyblk.xyz/6.30.rar) ; [2](https://builds.rebootfn.org/6.30.rar)|		
@@ -140,12 +141,12 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 11.01-CL-9728272 | 22nd October 2019 | UE4.24 | Download : [1](https://gofile.io/d/OBM0rx) ; [2](https://cold3.gofile.io/download/web/81c50169-86fc-4721-a7c9-bce38d6c7257/11.01.rar) TEMPORARY (Download before it gets taken down!)
 | 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	Link down, dm @wallonia on discord if u got a link |
 | 11.11-CL-10082788 | 13th November 2019 | UE4.24 | Link down, dm @wallonia if you get a link
-| 11.20-CL-10297577 | 20th November 2019 | UE4.24 | Download : [1](https://gofile.io/d/X9eLzX) ; [2](https://store3.gofile.io/download/web/7dd67b9f-20da-45dd-ab5d-c50c088ca278/11.20-CL-10297577.7z) TEMPORARY (Download before it gets taken down!)
+| 11.20-CL-10297577 | 20th November 2019 | UE4.24 | Download : [1](https://store8.gofile.io/download/web/74303461-d087-474b-b9b5-bf569d8704f1/11.20-CL-10297577.7z) TEMPORARY (Download before it gets taken down!)
 | 11.21-CL-10481509 | 4th December 2019 | UE4.24 |  Link down, dm @wallonia if you get a link
 | 11.30-CL-10547923 | 12th December 2019 | UE4.24 | Download : [1](https://106.gigafile.nu/0613-je958195874278409dbc1e8069148d7ed) ; [2](https://cold-na-phx-4.gofile.io/download/web/c955c4c3-a88c-4f73-9c2b-f02504c66d26/11.30.7z) ; [3](https://builds.fn-builds.net/11.30.7z) |
 | 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | Download : [1](https://public.simplyblk.xyz/11.31.rar) |
 | 11.40-CL-11039906 | 15th January 2020 | UE4.24 | Download : [1](https://gofile.io/d/18dYDk) ; [2](https://store3.gofile.io/download/web/7e1bda88-4ec1-40a8-9122-ed4228771700/11.40.rar)
-| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://gofile.io/d/erMSEN) TEMPORARY (Download before it gets taken down!)
+| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://cold-na-phx-4.gofile.io/download/web/1a453cde-5ff1-4706-854d-ebee221d0e25/11.50.7z) TEMPORARY (Download before it gets taken down!)
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
@@ -171,37 +172,39 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 14.00-CL-N/A	                | 25th August 2020        	 | UE4.25            	    |		Download : [1](https://public.simplyblk.xyz/14.00.rar) ; [2](https://builds.fn-builds.net/14.00.7z) |	
-| 14.10-CL-N/A | 10th September 2020 | UE4.25 | Download : [1](https://gofile.io/d/NnGBTe) TEMPORARY (Download before it gets taken down!)
-| 14.20-CL-N/A | 23rd September 2020 | UE4.25 | Download : [1](https://gofile.io/d/KzMzS0) ; [2](https://cold3.gofile.io/download/web/819df17b-6423-4674-8d09-dba8b3efc233/14.20.rar) TEMPORARY (Download before it gets taken down!)
+| 14.10-CL-N/A | 10th September 2020 | UE4.25 | Download : [1](https://cold-na-phx-7.gofile.io/download/web/668fef89-8585-4742-b929-f0074074cb4f/14.10.rar) TEMPORARY (Download before it gets taken down!)
+| 14.20-CL-N/A | 23rd September 2020 | UE4.25 | Download : [1](https://store10.gofile.io/download/web/1c96f09a-5255-45b0-882d-8c4812208b04/14.20.rar) TEMPORARY (Download before it gets taken down!)
 | 14.30-CL-14456520	                | 13th October 2020         	 | UE4.25            	    | Download : [1](https://gofile.io/d/47NC7f) ; [2](https://store9.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar)  TEMPORARY (Download before it gets taken down!) |	
 | 14.40-CL-14550713	          | 21st October 2020         	 | UE4.25           	    |	Download : [1](https://public.simplyblk.xyz/14.40.rar) |		
-| 14.60-CL-14786821           | 18th November 2020       	  | UE4.25           	    |		Download : [1](https://public.simplyblk.xyz/14.60.rar) ; [2](https://builds.fn-builds.net/14.60-CL-14786821.rar) |		
+| 14.50-CL-14643651 | 3rd November 2020 | UE4.25 | Download : [1](https://store9.gofile.io/download/web/7553cfae-1c8d-43d9-b633-ee1007f8e60d/14.50-CL-14643651.7z) |
+| 14.60-CL-14786821           | 18th November 2020       	  | UE4.25           	    |		Download : [1](https://public.simplyblk.xyz/14.60.rar) ; [2](https://builds.fn-builds.net/14.60-CL-14786821.rar) ; [3](https://buzzheavier.com/ao5le9jy6brh) |		
 
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 15.00-CL-14984751	                | 2nd December 2020         	 | UE4.26            	    | Download : [1](https://drive.google.com/file/d/1iiZdgbc42_o_d3vE2aIHDIT7LzxXJaKB/view)	 |			
+| 15.00-CL-14984751	                | 2nd December 2020         	 | UE4.26            	    | Link down, dm @wallonia on discord if you got a link	 |			
 | 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	Link down, dm @wallonia on discord if you got a link |		
-| 15.21-CL-? | 20th January 2021 | UE4.26 | Download : [1](https://gofile.io/d/7NzirN) TEMPORARY (Download before it gets taken down!)
-| 15.30-CL-15341163	          | 2nd February 2021         	 | UE4.26            	    |	Download : [1](https://public.simplyblk.xyz/15.30.rar)	 |		
-| 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		 Download : [1](https://galaxiafn.co.uk/15.50.zip) ; [2](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view?usp=sharing) |	
+| 15.21-CL-? | 20th January 2021 | UE4.26 | Link down, dm @wallonia on discord if you got a link |
+| 15.30-CL-15341163	          | 2nd February 2021         	 | UE4.26            	    |	Download : [1](https://galaxiafn.co.uk/15.30.zip) ; [2](https://r2.ploosh.dev/15.30.zip)	 |		
+| 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		 Download : [1](https://galaxiafn.co.uk/15.50.zip) ; [2](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view?usp=sharing) Temporary Download |	
 
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if you got a link ! |		
 | 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link ! |
-| 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view) |
-| 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |	Download : [1](https://public.simplyblk.xyz/16.40.rar)	|		
+| 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view) Temporary Download |
+| 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |	Download : [1](https://galaxiafn.co.uk/16.40.zip) UPDATED	|		
 | 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 |  Download : [1](https://galaxiafn.co.uk/16.50.zip) ; [2](https://builds.fn-builds.net/16.50-CL-16432754.7z) |
 
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
+| 17.00-CL-16593740 | 8th June 2021  | UE4.26.1 | Download : [1](https://store3.gofile.io/download/web/0695490b-3190-4160-83d1-96cc77e6dc37/17.00-CL-16593740.rar)
 | 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/17.10-CL-16745144.rar) UPDATED |
 | 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		Download : [1](https://public.simplyblk.xyz/17.30.zip) ; [2](https://builds.fn-builds.net/17.30-CL-17004569.7z) |	
 | 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://cold-na-phx-4.gofile.io/download/web/ad2fe8f4-8bff-4157-9ba2-5aa047e4d848/17.40-CL-17269705.7z) ; [2](https://builds.fn-builds.net/17.40-CL-17269705.7z) UPDATED | 
-| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Download : [1](https://public.simplyblk.xyz/17.50.zip) |	|
+| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) Temporary Download! |	|
 
 # Season 18
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
