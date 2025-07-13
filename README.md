@@ -257,6 +257,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 23.10-CL-23572221 | 13th December 2022 | N/A | Download : [1](https://builds.fn-builds.net/23.10-CL-23572221.zip)
 | 23.20-CL-23783097 | 19th January 2023 | N/A | Download : [1](https://builds.fn-builds.net/23.20-CL-23783097.zip)
 | 23.40-CL-24087481 | 14th February 2023 | N/A | Download : [1](https://builds.fn-builds.net/23.40-CL-24087481.zip)
+| 23.50-CL-? | 28th February 2023 | N/A | Download : [1](https://titanac.xyz/23.50.rar)
 
 # Season 24
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
