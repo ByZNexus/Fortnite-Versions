@@ -87,7 +87,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 6.10-CL-4464155       	| 16th October 2018      	 | UE4.21-4464155   	    | 		 Download : [1](https://public.simplyblk.xyz/6.10.rar) ; [2](https://builds.rebootfn.org/6.10.rar) |		
 | 6.10.1-CL-4476098       	| 16th October 2018    	 | UE4.21-4476098   	    | 	 Download : [1](https://public.simplyblk.xyz/6.10.1.rar) ; [2](https://builds.rebootfn.org/6.10.1.rar) |		
 | 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		 Download : [1](https://public.simplyblk.xyz/6.10.2.rar) ; [2](https://builds.rebootfn.org/6.10.2.rar) |	
-| 6.20-CL-? | 24th October 2018 | UE4.21-? | Download : [1](https://cold4.gofile.io/download/web/22743fac-6f1a-4d1f-b2d2-c6e83f39db1e/6.20.rar)
+| 6.20-CL-4497486 | 24th October 2018 | UE4.21-? | Download : [1](https://download.fn-archive.com/FortniteClient-6.20-CL-4497486.rar) UPDATED
 | 6.21-CL-4526925         	| 1st November 2018       	 | UE4.21-4526925	    |		 Download : [1](https://public.simplyblk.xyz/6.21.rar) ; [2](https://builds.rebootfn.org/6.21.rar) ; [3](https://buzzheavier.com/x3mclasj48ai) |
 | 6.22-CL-4543176		| 4th November 2018		 | UE4.21-4543176	    | 		 Download : [1](https://public.simplyblk.xyz/6.22.rar) ; [2](https://builds.rebootfn.org/6.22.rar) |		
 | 6.30-CL-4573096         	| 13th November 2018     	 | UE4.21-4573096	    |		 Download : [1](https://public.simplyblk.xyz/6.30.rar) ; [2](https://builds.rebootfn.org/6.30.rar)|		
@@ -118,7 +118,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 9.00-CL-6337466	              | 9th May 2019      	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.00.zip) ; [2](https://public.simplyblk.xyz/9.00.zip) ; [3](https://builds.fn-builds.net/9.00.7z) |		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
 | 9.01-CL-6428087	              | 15th May 2019     	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.01.zip) ; [2](https://public.simplyblk.xyz/9.01.zip) |		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
 | 9.10-CL-6639283	              | 19th May 2019     	   | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.10.rar) ; [2](https://galaxiafn.co.uk/9.10.zip) ; [3](https://public.simplyblk.xyz/9.10.rar) |		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
-| 9.20-CL-6822798 | 6th June 2019 | UE4.23 |  Link down, dm @wallonia if you get a link
+| 9.20-CL-6822798 | 6th June 2019 | UE4.23 |  Download : [1](https://download.fn-archive.com/FortniteClient-9.20-CL-6822798.rar) UPDATED !
 | 9.21-CL-6922310	              | 12th June 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.21.zip) ; [2](https://public.simplyblk.xyz/9.21.zip) |		0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
 | 9.30-CL-7095426	              | 9th July 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.30.zip) ; [2](https://public.simplyblk.xyz/9.30.zip) | 		0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC |
 | 9.40-CL-7315705               | 17th July 2019      	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/9.40.zip) ; [2](https://public.simplyblk.xyz/9.40.zip) |		0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
@@ -130,15 +130,15 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.00.zip) ; [2](https://public.simplyblk.xyz/10.00.zip) ; [3](https://cdn.solarisfn.org/10.00.zip) ; [4](https://builds.fn-builds.net/10.00.7z) |		0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
 | 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.10.zip) ; [2](https://public.simplyblk.xyz/10.10.zip) |		0x96A032AA931880ACBA60312208226FE56CB4DC7A98C9728EF0C995FB6DD7B5A6 |
 | 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.20.zip) ; [2](https://public.simplyblk.xyz/10.20.zip) |		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
-| 10.30-CL-8569425 | 12th September 2019 | UE4.23 |  Link down, dm @wallonia if you get a link
+| 10.30-CL-8569425 | 12th September 2019 | UE4.23 |  Download : [1](https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar) UPDATED !
 | 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.31.zip) ; [2](https://public.simplyblk.xyz/10.31.zip) |		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
 | 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |		Download : [1](https://public.simplyblk.xyz/10.40.rar) ; [2](https://cdn.solarisfn.org/10.40.zip) |		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
 
 # Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- | 
-| 11.00-CL-9603448	             | 15th October 2019       | UE4.24              |	 Download : [1](https://galaxiafn.co.uk/11.00.zip) ; [2](https://public.simplyblk.xyz/11.00.zip) ; [3](https://builds.fn-builds.net/11.00.7z) |
-| 11.01-CL-9728272 | 22nd October 2019 | UE4.24 | Download : [1](https://gofile.io/d/OBM0rx) ; [2](https://cold3.gofile.io/download/web/81c50169-86fc-4721-a7c9-bce38d6c7257/11.01.rar) TEMPORARY (Download before it gets taken down!)
+| 11.00-CL-9603448	             | 15th October 2019       | UE4.24              |	 Download : [1](https://galaxiafn.co.uk/11.00.zip) ; [2](https://public.simplyblk.xyz/11.00.zip) ; [3](https://builds.fn-builds.net/11.00.7z) ; [4](https://download.fn-archive.com/FortniteClient-11.00-CL-9562734.7z)  |
+| 11.01-CL-9728272 | 22nd October 2019 | UE4.24 | Download : [1](https://download.fn-archive.com/FortniteClient-11.01-CL-97282720.7z) UPDATED !
 | 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	Link down, dm @wallonia on discord if u got a link |
 | 11.11-CL-10082788 | 13th November 2019 | UE4.24 | Link down, dm @wallonia if you get a link
 | 11.20-CL-10297577 | 20th November 2019 | UE4.24 | Download : [1](https://store8.gofile.io/download/web/74303461-d087-474b-b9b5-bf569d8704f1/11.20-CL-10297577.7z) TEMPORARY (Download before it gets taken down!)
@@ -150,14 +150,14 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 12.00-CL-N/A	                | 20th February 2020         	 | UE4.24            	    |	Download : [1](https://public.simplyblk.xyz/12.00.rar) ; [2](https://builds.fn-builds.net/12.00.7z)	|		0xB5DBD6C9DB714CC3E2C9C7422EB0A7E667168D92C59770214EC6ABC68D8C2D3E |
+| 12.00-CL-11586896	                | 20th February 2020         	 | UE4.24            	    |	Download : [1](https://public.simplyblk.xyz/12.00.rar) ; [2](https://builds.fn-builds.net/12.00.7z) ; [3](https://download.fn-archive.com/FortniteClient-12.00-CL-11586896.7z)	|		0xB5DBD6C9DB714CC3E2C9C7422EB0A7E667168D92C59770214EC6ABC68D8C2D3E |
 | 12.10-CL-N/A	                | 15th March 2020         	 | UE4.24            	    |  Download : [1](https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0)	|		0x7B155D8AA29AA7D1D4FB859521408C987C5B5D5F8A2641EE16F9BA256DF64FC8 |
 | 12.20-CL-N/A | 17th March 2020 | UE4.24 | Download : [1](https://gofile.io/d/O4W01n) TEMPORARY (Download before it gets taken down!)
 | 12.21-CL-N/A	                | 24th March 2020        	 | UE4.24            	    |		Download : [1](https://public.simplyblk.xyz/12.21.zip) |
 | 12.40-CL-N/A | 15th April 2020 | UE4.24 | Download : [1](https://gofile.io/d/SoXAvR) TEMPORARY (Download before it gets taken down!)
 | 12.41-CL-12905909	          | 21st April 2020       	 | UE4.24            	    |		 Download : [1](https://fnbuilds.boostedv2.dev/12.41.rar) ; [2](https://cdn.aufgeladen.dev/12.41.zip) ; [3](https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [4](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [5](https://builds.fn-builds.net/12.41-CL-12905909.7z) |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
 | 12.50-CL-N/A	                | 29th April 2020       	 | UE4.24            	    |		Download : [1](https://public.simplyblk.xyz/12.50.zip) ; [2](https://builds.fn-builds.net/12.50.7z)  |	
-| 12.60-CL-N/A | 20th May 2020 | UE4.25 | Download : [1](https://gofile.io/d/q5zOR1) TEMPORARY (Download before it gets taken down!)
+| 12.60-CL-N/A | 20th May 2020 | UE4.25 | Download : [1](https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z) UPDATED !
 | 12.61-CL-13498980	                | 26th May 2020        	 | UE4.24            	    |	 Download : [1](https://public.simplyblk.xyz/12.61.zip) ; [2](https://builds.fn-builds.net/12.61.7z) |		
 
 # Season 13
@@ -182,9 +182,9 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 15.00-CL-14984751	                | 2nd December 2020         	 | UE4.26            	    | Link down, dm @wallonia on discord if you got a link	 |			
+| 15.00-CL-14835335        | 2nd December 2020         	 | UE4.26            	    | Download : [1](https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z) UPDATED ! |			
 | 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	Link down, dm @wallonia on discord if you got a link |		
-| 15.21-CL-? | 20th January 2021 | UE4.26 | Link down, dm @wallonia on discord if you got a link |
+| 15.21-CL-15083856 | 20th January 2021 | UE4.26 | Download : [1](https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z) UPDATED ! |
 | 15.30-CL-15341163	          | 2nd February 2021         	 | UE4.26            	    |	Download : [1](https://galaxiafn.co.uk/15.30.zip) ; [2](https://r2.ploosh.dev/15.30.zip)	 |		
 | 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		 Download : [1](https://galaxiafn.co.uk/15.50.zip) ; [2](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view?usp=sharing) Temporary Download |	
 
@@ -194,7 +194,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if you got a link ! |		
 | 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link ! |
 | 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view) Temporary Download |
-| 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |	Download : [1](https://galaxiafn.co.uk/16.40.zip) UPDATED	|		
+| 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |	Download : [1](https://galaxiafn.co.uk/16.40.zip)	|		
 | 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 |  Download : [1](https://galaxiafn.co.uk/16.50.zip) ; [2](https://builds.fn-builds.net/16.50-CL-16432754.7z) |
 
 # Season 17
@@ -204,13 +204,13 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/17.10-CL-16745144.rar) UPDATED |
 | 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		Download : [1](https://public.simplyblk.xyz/17.30.zip) ; [2](https://builds.fn-builds.net/17.30-CL-17004569.7z) |	
 | 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://cold-na-phx-4.gofile.io/download/web/ad2fe8f4-8bff-4157-9ba2-5aa047e4d848/17.40-CL-17269705.7z) ; [2](https://builds.fn-builds.net/17.40-CL-17269705.7z) UPDATED | 
-| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) Temporary Download! |	|
+| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) ; [3](https://gofile.io/d/k51GEs) (2 and 3 are temporary) |	|
 
 # Season 18
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 18.00-CL-17468642               | 24th September 2021        	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.00-CL-17468642.7z) UPDATED |		
-| 18.10-CL-17661844              | 27th September 2021         	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.10-CL-17661844.7z) UPDATED |			
+| 18.00-CL-17468642               | 24th September 2021        	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.00-CL-17468642.7z)  |		
+| 18.10-CL-17661844              | 27th September 2021         	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.10-CL-17661844.7z) |			
 | 18.20-CL-17792290 | 12th October 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/18.20-CL-17792290.7z) |
 | 18.21-CL-17811397                | 19th October 2021         	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.21-CL-17811397.7z) |		
 | 18.30-CL-17882303 | 26th October 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/18.30-CL-17882303.7z) |
@@ -223,7 +223,7 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	Download : [1](https://r2.ploosh.dev/19.01.zip) |	
 | 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 Download : [1](https://public.simplyblk.xyz/19.10.rar) ; [2](https://builds.fn-builds.net/19.10.rar) |
 | 19.20-CL-18775446 | 1st February 2022 | UE5.0 | Download : [1](https://builds.fn-builds.net/19.20-CL-18775446.7z)
-| 19.30-CL-? | 14th February 2022 | UE5.0 | Download : [1](https://gofile.io/d/jL84uN)  TEMPORARY (Download before it gets taken down!)
+| 19.30-CL-? | 14th February 2022 | UE5.0 | Link down, dm @wallonia on discord if you got a link 
 | 19.40-CL-19215531 | 1st March 2022 | UE5.0 | Download : [1](https://gofile.io/d/QDahzx) ; [2](https://store9.gofile.io/download/web/552ad80b-a0b4-4561-9cd4-efc67154224d/19.40-CL-19215531.7z) TEMPORARY (Download before it gets taken down!)
 
 # Season 20
