@@ -3,7 +3,7 @@
 ### [Click here](https://github.com/ByZNexus/Fortnite-Versions/blob/main/Projects.md) to browse through some projects to play !
 ### [Or here](https://drive.google.com/drive/folders/1HCdgdSUJjabiQc0r_psrWCLFI4Mk0VPs?usp=sharing) to download some paks/mods !
 
-Sticky Note : Builds above S21 might not always be up so be patient and try later !
+Sticky Note : S20+ builds are indefinetly down, I don't know what's up with the CDN hoster, we're working to bring them back up with [Aorux](https://github.com/Aorux01) !
 
 ## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
@@ -139,13 +139,13 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- | 
 | 11.00-CL-9603448	             | 15th October 2019       | UE4.24              |	 Download : [1](https://galaxiafn.co.uk/11.00.zip) ; [2](https://public.simplyblk.xyz/11.00.zip) ; [3](https://builds.fn-builds.net/11.00.7z) ; [4](https://download.fn-archive.com/FortniteClient-11.00-CL-9562734.7z)  |
 | 11.01-CL-9728272 | 22nd October 2019 | UE4.24 | Download : [1](https://download.fn-archive.com/FortniteClient-11.01-CL-97282720.7z) UPDATED !
-| 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	Link down, dm @wallonia on discord if u got a link |
-| 11.11-CL-10082788 | 13th November 2019 | UE4.24 | Link down, dm @wallonia if you get a link
-| 11.20-CL-10297577 | 20th November 2019 | UE4.24 | Download : [1](https://store8.gofile.io/download/web/74303461-d087-474b-b9b5-bf569d8704f1/11.20-CL-10297577.7z) TEMPORARY (Download before it gets taken down!)
-| 11.21-CL-10481509 | 4th December 2019 | UE4.24 |  Link down, dm @wallonia if you get a link
+| 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	Download : [1](https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z) UPDATED ! |
+| 11.11-CL-10082788 | 13th November 2019 | UE4.24 | Download : [1](https://download.fn-archive.com/FortniteClient-11.11-CL-10082788.7z) UPDATED !
+| 11.20-CL-10297577 | 20th November 2019 | UE4.24 | Link down, dm @wallonia if you got a link
+| 11.21-CL-10481509 | 4th December 2019 | UE4.24 | Download : [1](https://download.fn-archive.com/FortniteClient-11.21-CL-10481509.7z) UPDATED !
 | 11.30-CL-10547923 | 12th December 2019 | UE4.24 | Download : [1](https://106.gigafile.nu/0613-je958195874278409dbc1e8069148d7ed) ; [2](https://cold-na-phx-4.gofile.io/download/web/c955c4c3-a88c-4f73-9c2b-f02504c66d26/11.30.7z) ; [3](https://builds.fn-builds.net/11.30.7z) |
 | 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | Download : [1](https://public.simplyblk.xyz/11.31.rar) |
-| 11.40-CL-11039906 | 15th January 2020 | UE4.24 | Download : [1](https://gofile.io/d/18dYDk) ; [2](https://store3.gofile.io/download/web/7e1bda88-4ec1-40a8-9122-ed4228771700/11.40.rar)
+| 11.40-CL-11039906 | 15th January 2020 | UE4.24 | Download : [1](https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z) UPDATED !
 | 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://cold-na-phx-4.gofile.io/download/web/1a453cde-5ff1-4706-854d-ebee221d0e25/11.50.7z) TEMPORARY (Download before it gets taken down!)
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -191,19 +191,21 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	Link down, dm @wallonia on discord if you got a link ! |		
+| 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	Download : [1](https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z) UPDATED ! |		
 | 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link ! |
 | 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view) Temporary Download |
 | 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |	Download : [1](https://galaxiafn.co.uk/16.40.zip)	|		
-| 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 |  Download : [1](https://galaxiafn.co.uk/16.50.zip) ; [2](https://builds.fn-builds.net/16.50-CL-16432754.7z) |
+| 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 |  Download : [1](https://galaxiafn.co.uk/16.50.zip) ; [2](https://builds.fn-builds.net/16.50-CL-16432754.7z) ; [3](https://download.fn-archive.com/FortniteClient-16.50-CL-16469788.7z) |
 
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 17.00-CL-16593740 | 8th June 2021  | UE4.26.1 | Download : [1](https://store3.gofile.io/download/web/0695490b-3190-4160-83d1-96cc77e6dc37/17.00-CL-16593740.rar)
-| 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/17.10-CL-16745144.rar) UPDATED |
+| 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/17.10-CL-16745144.rar) ; [2](https://download.fn-archive.com/FortniteClient-17.10-CL-16745144.7z) |
+| 17.20-CL-16868155 | 20th July 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) Recently Added !
+| 17.21-CL-16967001 | 27th July 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-17.21-CL-16967001.7z) Recently Added ! 
 | 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		Download : [1](https://public.simplyblk.xyz/17.30.zip) ; [2](https://builds.fn-builds.net/17.30-CL-17004569.7z) |	
-| 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://cold-na-phx-4.gofile.io/download/web/ad2fe8f4-8bff-4157-9ba2-5aa047e4d848/17.40-CL-17269705.7z) ; [2](https://builds.fn-builds.net/17.40-CL-17269705.7z) UPDATED | 
+| 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) UPDATED | 
 | 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) ; [3](https://gofile.io/d/k51GEs) (2 and 3 are temporary) |	|
 
 # Season 18
@@ -211,8 +213,8 @@ Sticky Note : Builds above S21 might not always be up so be patient and try late
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 18.00-CL-17468642               | 24th September 2021        	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.00-CL-17468642.7z)  |		
 | 18.10-CL-17661844              | 27th September 2021         	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.10-CL-17661844.7z) |			
-| 18.20-CL-17792290 | 12th October 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/18.20-CL-17792290.7z) |
-| 18.21-CL-17811397                | 19th October 2021         	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.21-CL-17811397.7z) |		
+| 18.20-CL-17792290 | 12th October 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/18.20-CL-17792290.7z) ; [2](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) UPDATED ! |
+| 18.21-CL-17811397                | 19th October 2021         	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.21-CL-17811397.7z) ; [2](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) UPDATED ! |		
 | 18.30-CL-17882303 | 26th October 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/18.30-CL-17882303.7z) |
 | 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |	Download : [1](https://public.simplyblk.xyz/18.40.zip) |		
 
@@ -405,6 +407,8 @@ v27.11 - 28 GB | The Big Bang | Play using Carbon
 Will need an update lol
 
 ## Credits
+
+[Aorux](https://github.com/Aorux01) - Lots of builds hosted on his CDN !
 
 BLK - For almost all chapter 1 links and most chapter 2 links
 
