@@ -269,7 +269,7 @@ Sticky Note : S20+ builds are indefinetly down, I don't know what's up with the 
 | 24.10-CL-24903530 | 29th March 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.10-CL-24903530.zip)
 | 24.20-CL-25156858	| 11th April 2023        	 | N/A           	    |	Download : [1](https://builds.fn-builds.net/24.20-CL-25156858.zip) |		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
 | 24.30-CL-23789416 | 2nd May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.30-CL-25347382.zip) |
-| 24.40-CL-25521145 | 17th May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.40-CL-25521145.zip)
+| 24.40-CL-25521145 | 17th May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.40-CL-25521145.zip) ; [2](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip)
 | 24.40-CL-25595478 | 17th May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.40-CL-25595478.zip)
 
 # Season 25
