@@ -192,7 +192,7 @@ Sticky Note : S20+ builds are indefinetly down, I don't know what's up with the 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	Download : [1](https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z) UPDATED ! |		
-| 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Link down, dm @wallonia on discord if you got a link ! |
+| 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-16.10-CL-15913292.7z) |
 | 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view) Temporary Download |
 | 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |	Download : [1](https://galaxiafn.co.uk/16.40.zip)	|		
 | 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 |  Download : [1](https://galaxiafn.co.uk/16.50.zip) ; [2](https://builds.fn-builds.net/16.50-CL-16432754.7z) ; [3](https://download.fn-archive.com/FortniteClient-16.50-CL-16469788.7z) |
