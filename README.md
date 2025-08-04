@@ -294,53 +294,53 @@ Sticky Note : S20+ builds are indefinetly down, I don't know what's up with the 
 # Season 27
 | Build               | Date                 | Engine Version    | Download links |
 | ------------------- | --------------------- | ----------------- | ------------------------ |
-| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | Download : [1](https://fn-builds.net/S27/27.00-CL-29072304.7z)
-| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | Download : [1](https://fn-builds.net/S27/27.10-CL-29552510.7z)
-| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | Download : [1](https://fn-builds.net/S27/27.11-CL-29739262.7z) 
+| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | Download : [1](https://builds.fn-builds.net/27.00-CL-29072304.7z) UPDATED ! 
+| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | Download : [1](https://builds.fn-builds.net/27.10-CL-29552510.7z) UPDATED !
+| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | Download : [1](https://builds.fn-builds.net/27.11-CL-29739262.7z) UPDATED ! 
 
 # Season 28
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | Download : [1](https://fn-builds.net/S28/28.00-CL-29915848.7z)
-| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Download : [1](https://fn-builds.net/S28/28.01-CL-30106568.7z)
-| 28.01.01-CL-30313795 | 19th December 2023| UE5.5 | Download : [1](https://fn-builds.net/S28/28.01-CL-30313795(28.01.01).7z)
-| 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | Download : [1](https://fn-builds.net/S28/28.10-CL-30676362.7z)
-| 28.20-CL-31286935 | 5th February 2024 | UE5.5 | Download : [1](https://fn-builds.net/S28/28.20-CL-31286935.7z) ; [2](https://buzzheavier.com/hobg7favbekg) ; [3](https://gofile.io/d/e9BQ6I)
-| 28.30-CL-31511038 | 22nd February 2024 | UE5.5 | Download : [1](https://fn-builds.net/S28/28.30-CL-31511038.7z)
+| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.00-CL-29915848.7z) UPDATED !
+| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.01-CL-30106568.7z) UPDATED !
+| 28.01-CL-30313795 | 19th December 2023| UE5.5 | Download : [1](https://builds.fn-builds.net/28.01-CL-30313795.7z) UPDATED ! 
+| 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.10-CL-30676362.7z) UPDATED ! 
+| 28.20-CL-31286935 | 5th February 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.20-CL-31286935.7z) ; [2](https://buzzheavier.com/hobg7favbekg) UPDATED ! 
+| 28.30-CL-31511038 | 22nd February 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.30-CL-31511038.7z) UPDATED !
 
 # Season 29
 | Build | Date | Engine Version | Download links |
 | --- | --- | -- | --- |
-| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | Download : [1](https://fn-builds.net/S29/29.00-CL-32116959.7z)
-| 29.01-CL-32291970 | 19th March 2024 | UE5.5 | Download : [1](https://fn-builds.net/S29/29.01-CL-32291970.7z)
-| 29.10-CL-32391220 | 26th March 2024 | UE5.5 | Download : [1](https://fn-builds.net/S29/29.10-CL-32391220.7z)
-| 29.10-CL-32567225 | 27th March 2024 | UE5.5 | Download : [1](https://fn-builds.net/S29/29.10-CL-32567225.7z)
-| 29.20-CL-32716692 | 9th April 2024 | UE5.5 | Download : [1](https://fn-builds.net/S29/29.20-CL-32716692.7z)
-| 29.30-CL-32982357 | 23rd April 2024 | UE5.5 | Download : [1](https://fn-builds.net/S29/29.30-CL-32982357.7z)
-| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | Download : [1](https://fn-builds.net/S29/29.40-CL-33629566.7z)
+| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.00-CL-32116959.7z) UPDATED ! 
+| 29.01-CL-32291970 | 19th March 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.01-CL-32291970.7z) UPDATED ! 
+| 29.10-CL-32391220 | 26th March 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.10-CL-32391220.7z) UPDATED ! 
+| 29.10-CL-32567225 | 27th March 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.10-CL-32567225.7z) UPDATED !
+| 29.20-CL-32716692 | 9th April 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.20-CL-32716692.7z) UPDATED ! 
+| 29.30-CL-32982357 | 23rd April 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.30-CL-32982357.7z) UPDATED !
+| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.40-CL-33629566.7z) UPDATED ! 
 
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | Download : [1](https://fn-builds.net/S30/30.00-CL-33962396.7z) |
-| 30.10-CL-34261954 | 13th June 2024 | UE5.5 | Download : [1](https://fn-builds.net/S30/30.10-CL-34261954.7z)
-| 30.20-CL-34597766 | 22nd June 2024 | UE5.5 | Download : [1](https://fn-builds.net/S30/30.20-CL-34597766.7z)
-| 30.30-CL-34891016 | 23rd July 2024 | UE5.5 | Download : [1](https://fn-builds.net/S30/30.30-CL-34891016.7z)
+| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | Download : [1](https://builds.fn-builds.net/30.00-CL-33962396.7z) UPDATED !
+| 30.10-CL-34261954 | 13th June 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/30.10-CL-34261954.7z) UPDATED !
+| 30.20-CL-34597766 | 22nd June 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/30.20-CL-34597766.7z) UPDATED !
+| 30.30-CL-34891016 | 23rd July 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/30.30-CL-34891016.7z) UPDATED !
 
 # Season 31
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 31.00-CL-35447195 | 16th August 2024 | UE5.5 | Download : [1](https://fn-builds.net/S31/31.00-CL-35447195.7z)
-| 31.10-CL-35815136 | 4th September 2024 | UE5.5 | Download : [1](https://fn-builds.net/S31/31.10-CL-35815136.7z)
+| 31.00-CL-35447195 | 16th August 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/31.00-CL-35447195.7z) UPDATED !
+| 31.10-CL-35815136 | 4th September 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/31.10-CL-35815136.7z) UPDATED !
 | 31.20-CL-36348036 | 16th September 2024 | UE5.5 | Download : [1](https://buzzheavier.com/3gcnp6jyjjpy)
-| 31.30-CL-36600465 | 1st October 2024 | UE5.5 | Download : [1](https://fn-builds.net/S31/31.30-CL-36600465.7z)
+| 31.30-CL-36600465 | 1st October 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/31.30-CL-36600465.7z) UPDATED !
 | 31.40-CL-36874825 | 15th October 2024 | UE5.5 | Download : [1](https://buzzheavier.com/iqxbcnu8ggyu)
 
 # Season 32
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 32.00-CL-37505882 | 1st November 2024 | UE5.5 | Download : [1](https://fn-builds.net/S32/32.00-CL-37505882.7z) ; [2](https://buzzheavier.com/rnw2uzgol03l)
-| 32.11-CL-38202817 | 21st November 2024 | UE5.5 | Download : [1](https://fn-builds.net/S32/32.11-CL-38202817.7z)
+| 32.00-CL-37505882 | 1st November 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/32.00-CL-37505882.7z) ; [2](https://buzzheavier.com/rnw2uzgol03l) UPDATED !
+| 32.11-CL-38202817 | 21st November 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/32.11-CL-38202817.7z) UPDATED !
 
 # Season 33
 | Build | Date | Engine Version | Download links |
