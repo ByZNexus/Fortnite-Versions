@@ -25,12 +25,6 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 | ------------- | ---------------- | ------------------------------- | - |
 | [EZFN](https://discord.gg/fortnitemobile) | 7.40-CL-5046157 |  Download : [1](https://public.simplyblk.xyz/7.40.rar) ; [2](https://builds.rebootfn.org/7.40.rar) | Offers LateGame/Solo/Playground and some weekly LTMs, with Mobile, Switch and PS4/5 support. You also obtain Full Locker for free
 
-## Season 9
-| Project Name  |  Build                    |  Download links             | Additional Info |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Solaris](https://discord.gg/solarisfn) | 9.10-CL-6639283	 | Download : [1](https://builds.rebootfn.org/9.10.rar) ; [2](https://galaxiafn.co.uk/9.10.zip) ; [3](https://public.simplyblk.xyz/9.10.rar) | Has more than 80 custom skins made by talentuous modders known in the community, they are obtained through donating. There's also custom weapons but i'm not exactly sure of which got added.
-
-
 ## Season 12
 | Project Name  |  Build                    |  Download links             | Additional Infos |
 | ------------- | ---------------- | ------------------------------- | - |
