@@ -15,15 +15,10 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 
 # Multiplayer
 
-# Season 4
+## Season 6
 | Project Name  |  Build                    |  Download links             | Additional Info |
 | ------------- | ---------------- | ------------------------------- | - |
-| [EZFN](https://discord.gg/fortnitemobile) | 4.2-CL-4072250  |   Download : [1](https://public.simplyblk.xyz/4.2.zip) ; [2](https://drive.google.com/file/d/1kJQaxP-t7tLfo0adOaM-xdnu97yIFKRm/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.2.zip) ; [4](https://galaxiafn.co.uk/4.2.zip) | They offer solos but is apparently down atm, also has Full locker !
-
-## Season 5
-| Project Name  |  Build                    |  Download links             | Additional Info |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Project Era](https://discord.gg/officialerafn) | 5.41-CL-4363240 | Download : [1](https://cdn.aufgeladen.dev/5.41.zip) ; [2](https://galaxiafn.co.uk/5.41.zip) ; [3](http://builds.eclipsemp.org/5.41.zip) | Most 1:1 replica to OG Fortnite with challenges/xp/battle pass/item shop, Also the most popular!
+| [Project Era](https://discord.gg/erafn) | 6.21-CL-4526925     |		 Download : [1](https://public.simplyblk.xyz/6.21.rar) ; [2](https://builds.rebootfn.org/6.21.rar) ; [3](https://buzzheavier.com/x3mclasj48ai) | | Most 1:1 replica to OG Fortnite with challenges/xp/battle pass/item shop, Also the most popular!
 
 ## Season 7
 | Project Name  |  Build                    |  Download links             | Additional Info |
@@ -35,15 +30,11 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 | ------------- | ---------------- | ------------------------------- | - |
 | [Solaris](https://discord.gg/solarisfn) | 9.10-CL-6639283	 | Download : [1](https://builds.rebootfn.org/9.10.rar) ; [2](https://galaxiafn.co.uk/9.10.zip) ; [3](https://public.simplyblk.xyz/9.10.rar) | Has more than 80 custom skins made by talentuous modders known in the community, they are obtained through donating. There's also custom weapons but i'm not exactly sure of which got added.
 
-## Season 10
-| Project Name  |  Build                    |  Download links             | Additional Info |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Evoke](https://discord.gg/tDwY2rGTCB) | 10.40-CL-9380822	 | Download : [1](https://public.simplyblk.xyz/10.40.rar) ; [2](https://cdn.solarisfn.org/10.40.zip) | Community is really nice and active when it needs to be (Event) They have a nice itemshop and you can buy the battle pass for 0 vbucks lol
 
 ## Season 12
 | Project Name  |  Build                    |  Download links             | Additional Infos |
 | ------------- | ---------------- | ------------------------------- | - |
-| [Project Eon](https://discord.gg/eonfn) | 12.41-CL-12905909	 |   Download : [1](https://fnbuilds.boostedv2.dev/12.41.rar) ; [2](https://cdn.aufgeladen.dev/12.41.zip) ; [3](https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [4](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [5](https://builds.fn-builds.net/12.41-CL-12905909.7z) | Perfect if you're looking for a nice modded C2S2 lategame project, there's lots of custom skins including Steve, Yeat, FNAF skins etc... There's also custom weapons like Mammoth pistol, og scar and more.. |
+| [Beyond](https://discord.gg/KfcgwVqFmY) | 12.41-CL-12905909	 |   Download : [1](https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [2](https://builds.fn-builds.net/12.41-CL-12905909.7z) | Hosts chapter 2 season 2 although it is NOT the original Beyond, it is currently owned by someone named Xalint!
 
 ## Season 14
 | Project Name  |  Build                    |  Download links             | Additional Info |
@@ -53,8 +44,8 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 ## Season 17
 | Project Name  |  Build                    |  Download links             | Additional Info |
 | ------------- | ---------------- | ------------------------------- | - |
-| [FortMP](https://discord.gg/GRpGGBYamN) | 17.30-CL-17004569	| Download : [1](https://public.simplyblk.xyz/17.30.zip) | Currently in development which means it is **NOT RELEASED** yet, it does offer a nice lategame experience and a pretty strong anticheat !
-
+| [FortMP](https://discord.gg/GRpGGBYamN) | 17.30-CL-17004569	| Download : [1](https://public.simplyblk.xyz/17.30.zip) | Offers a nice lategame experience with a large playerbase ! Trusted server too !
+| [Project Eon](https://discord.gg/eonfn) | 17.50-CL-17388565 |  Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) | Used to be a moderator in here, It unfortunately faces a lot of accusations about how it's a virus, I personally don't think it is. It will offer lategame on release!
 
 # Singleplayer
 
