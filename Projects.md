@@ -25,11 +25,6 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 | ------------- | ---------------- | ------------------------------- | - |
 | [EZFN](https://discord.gg/fortnitemobile) | 7.40-CL-5046157 |  Download : [1](https://public.simplyblk.xyz/7.40.rar) ; [2](https://builds.rebootfn.org/7.40.rar) | Offers LateGame/Solo/Playground and some weekly LTMs, with Mobile, Switch and PS4/5 support. You also obtain Full Locker for free
 
-## Season 12
-| Project Name  |  Build                    |  Download links             | Additional Infos |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Beyond](https://discord.gg/KfcgwVqFmY) | 12.41-CL-12905909	 |   Download : [1](https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [2](https://builds.fn-builds.net/12.41-CL-12905909.7z) | Hosts chapter 2 season 2 although it is NOT the original Beyond, it is currently owned by someone named Xalint!
-
 ## Season 14
 | Project Name  |  Build                    |  Download links             | Additional Info |
 | ------------- | ---------------- | ------------------------------- | - |
