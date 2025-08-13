@@ -158,7 +158,7 @@ Sticky Note : S20+ builds are indefinetly down, I don't know what's up with the 
 | 12.41-CL-12905909	          | 21st April 2020       	 | UE4.24            	    |		 Download : [1](https://fnbuilds.boostedv2.dev/12.41.rar) ; [2](https://cdn.aufgeladen.dev/12.41.zip) ; [3](https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [4](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [5](https://builds.fn-builds.net/12.41-CL-12905909.7z) |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
 | 12.50-CL-N/A	                | 29th April 2020       	 | UE4.24            	    |		Download : [1](https://public.simplyblk.xyz/12.50.zip) ; [2](https://builds.fn-builds.net/12.50.7z)  |	
 | 12.60-CL-N/A | 20th May 2020 | UE4.25 | Download : [1](https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z) UPDATED !
-| 12.61-CL-13498980	                | 26th May 2020        	 | UE4.24            	    |	 Download : [1](https://public.simplyblk.xyz/12.61.zip) ; [2](https://builds.fn-builds.net/12.61.7z) |		
+| 12.61-CL-13498980	                | 26th May 2020        	 | UE4.24            	    |	 Download : [1](https://public.simplyblk.xyz/12.61.zip) ; [2](https://saturn.nxa.app/12.61.zip) UPDATED ! |		
 
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
