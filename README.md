@@ -155,7 +155,7 @@ Sticky Note : S20+ builds are indefinetly down, I don't know what's up with the 
 | 12.20-CL-N/A | 17th March 2020 | UE4.24 | Download : [1](https://gofile.io/d/O4W01n) TEMPORARY (Download before it gets taken down!)
 | 12.21-CL-N/A	                | 24th March 2020        	 | UE4.24            	    |		Download : [1](https://public.simplyblk.xyz/12.21.zip) |
 | 12.40-CL-N/A | 15th April 2020 | UE4.24 | Download : [1](https://gofile.io/d/SoXAvR) TEMPORARY (Download before it gets taken down!)
-| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.24            	    |		 Download : [1](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) (Note: is very slow, plz provide with an other link) |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
+| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.24            	    |		 Download : [1](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [2](https://cdn.cbn.lol/12.41) (Note: 1 is very slow, plz provide with an other link) |		0x2713E24A338C7E8BF1A50E3F1987F33BB151F04B192E89E940A623AB34F8502F |
 | 12.50-CL-N/A	                | 29th April 2020       	 | UE4.24            	    |		Download : [1](https://public.simplyblk.xyz/12.50.zip) ; [2](https://builds.fn-builds.net/12.50.7z)  |	
 | 12.60-CL-N/A | 20th May 2020 | UE4.25 | Download : [1](https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z) UPDATED !
 | 12.61-CL-13498980	                | 26th May 2020        	 | UE4.24            	    |	 Download : [1](https://public.simplyblk.xyz/12.61.zip) ; [2](https://saturn.nxa.app/12.61.zip) UPDATED ! |		
