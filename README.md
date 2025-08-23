@@ -302,7 +302,7 @@ Sticky Note : S20+ builds are indefinetly down, I don't know what's up with the 
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
 | 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.00-CL-29915848.7z)  (BUGGED DO NOT DOWNLOAD) !
-| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.01-CL-30106568.7z)  (BUGGED DO NOT DOWNLOAD) !
+| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Download : [1](https://gofile.io/d/7rYsij) TEMPORARY (Download before it gets taken down!)
 | 28.01-CL-30313795 | 19th December 2023| UE5.5 | Download : [1](https://builds.fn-builds.net/28.01-CL-30313795.7z)  (BUGGED DO NOT DOWNLOAD) ! 
 | 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.10-CL-30676362.7z)  (BUGGED DO NOT DOWNLOAD) ! 
 | 28.20-CL-31286935 | 5th February 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.20-CL-31286935.7z) ; [2](https://buzzheavier.com/hobg7favbekg) (1st link is bugged)
