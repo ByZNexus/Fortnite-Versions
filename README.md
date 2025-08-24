@@ -204,7 +204,7 @@ Sticky Note : S20+ builds are indefinetly down, I don't know what's up with the 
 | 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/17.10-CL-16745144.rar) ; [2](https://download.fn-archive.com/FortniteClient-17.10-CL-16745144.7z) |
 | 17.20-CL-16868155 | 20th July 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) Recently Added !
 | 17.21-CL-16967001 | 27th July 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-17.21-CL-16967001.7z) Recently Added ! 
-| 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		Download : [1](https://public.simplyblk.xyz/17.30.zip) ; [2](https://builds.fn-builds.net/17.30-CL-17004569.7z) |	
+| 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		Download : [1](https://cdn.fortmp.dev/17.30.zip) Updated! |	
 | 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) UPDATED | 
 | 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) ; [3](https://gofile.io/d/k51GEs) (2 and 3 are temporary) |	|
 
