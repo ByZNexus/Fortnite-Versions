@@ -25,11 +25,6 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 | ------------- | ---------------- | ------------------------------- | - |
 | [EZFN](https://discord.gg/fortnitemobile) | 7.40-CL-5046157 |  Download : [1](https://public.simplyblk.xyz/7.40.rar) ; [2](https://builds.rebootfn.org/7.40.rar) | Offers LateGame/Solo/Playground and some weekly LTMs, with Mobile, Switch and PS4/5 support. You also obtain Full Locker for free
 
-## Season 9
-| Project Name  |  Build                    |  Download links             | Additional Info |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Aether](https://discord.gg/szJAVdqgPn) | 9.41-CL-7609292 | Download : [1](https://builds.rebootfn.org/9.41.rar) ; [2](https://public.simplyblk.xyz/9.41.rar) | The sequel to Rewind, the C3S1 project who unfortunately closed. It now hosts Season 9 and like any projects hosting this version, it'll be **MODDED** ! It's currently not out and neither there's a lot of informations, but expect on release to have custom skins, emotes, guns and maybe other stuff!
-
 ## Season 12
 | Project Name  |  Build                    |  Download links             | Additional Info |
 | ------------- | ---------------- | ------------------------------- | - |
