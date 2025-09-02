@@ -3,7 +3,7 @@
 ### [Click here](https://github.com/ByZNexus/Fortnite-Versions/blob/main/Projects.md) to browse through some projects to play !
 ### [Or here](https://drive.google.com/drive/folders/1HCdgdSUJjabiQc0r_psrWCLFI4Mk0VPs?usp=sharing) to download some paks/mods !
 
-Sticky Note : S20+ builds are indefinetly down, I don't know what's up with the CDN hoster, we're working to bring them back up with [Aorux](https://github.com/Aorux01) !
+Sticky Note : I'm calling out to all people that has missing builds for them to contact me and provide them, I'm working with Dimiraku to host our own builds on our own servers!
 
 ## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
 
