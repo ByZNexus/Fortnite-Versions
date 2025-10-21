@@ -23,17 +23,18 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 ## Season 7
 | Project Name  |  Build                    |  Download links             | Additional Info |
 | ------------- | ---------------- | ------------------------------- | - |
+| [Project Era](https://discord.gg/erafn) | 7.20-CL-4727874	| Download : [1](https://public.simplyblk.xyz/7.20.rar) ; [2](https://builds.rebootfn.org/7.20.rar) |  Most 1:1 replica to OG Fortnite with challenges/xp/battle pass/item shop, Also the most popular! |
 | [EZFN](https://discord.gg/fortnitemobile) | 7.40-CL-5046157 |  Download : [1](https://public.simplyblk.xyz/7.40.rar) ; [2](https://builds.rebootfn.org/7.40.rar) | Offers LateGame/Solo/Playground and some weekly LTMs, with Mobile, Switch and PS4/5 support. You also obtain Full Locker for free
-
-## Season 12
-| Project Name  |  Build                    |  Download links             | Additional Info |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Nexa](https://discord.gg/nexafn) | 12.61-CL-13498980 | Download : [1](https://public.simplyblk.xyz/12.61.zip) ; [2](https://builds.fn-builds.net/12.61.7z) | Currently not out, but early access will soon start for **DONATORS**, Nexa will be the first project hosting C2S2 that will have proper modding with lots of new features on modded skins (such as face animation and just better looking skins overall). This server also promises Bosses, Player AI (first of it's kind since 2023!), Challenges, Battle Pass and LTMs. Basically Project Era but for chapter 2
 
 ## Season 14
 | Project Name  |  Build                    |  Download links             | Additional Info |
 | ------------- | ---------------- | ------------------------------- | - |
 | [Retrac](https://discord.gg/retrac) | 14.40-CL-14550713	 |  Download : [1](https://public.simplyblk.xyz/14.40.rar) | Easily the most popular C2 project with solo and lategame, has some custom skins and Simple Edit. I can't really say much about it because i don't know the project that much.
+
+## Season 15
+| Project Name  |  Build                    |  Download links             | Additional Info |
+| ------------- | ---------------- | ------------------------------- | - |
+| [Crystal](https://discord.gg/crystalfn) | 15.30-CL-15341163 | Download : [1](https://public.simplyblk.xyz/15.30.rar) ; [2](https://galaxiafn.co.uk/15.30.zip) ; [3](https://r2.ploosh.dev/15.30.zip) | Crystal has revived on their first season, Chapter 2 Season 5, you can play LateGame etc like how it used to be!
 
 ## Season 17
 | Project Name  |  Build                    |  Download links             | Additional Info |
@@ -41,16 +42,6 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 | [FortMP](https://discord.gg/GRpGGBYamN) | 17.30-CL-17004569	| Download : [1](https://public.simplyblk.xyz/17.30.zip) | Offers a nice lategame experience with a large playerbase ! Trusted server too !
 | [Project Eon](https://discord.gg/eonfn) | 17.50-CL-17388565 |  Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) | Personally played the donator testing, it's an absolute BEAST of an experience. Reset on Release, FOV, Simple Edit are available by pressing Insert in game. (Has not a lot of delay, EU servers are in Prague)
 
-## Season 19
-| Project Name  |  Build                    |  Download links             | Additional Info |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Crystal](https://discord.gg/crystalfn) | 19.10-CL-18675304	 | Download : [1](https://public.simplyblk.xyz/19.10.rar) | The only chapter 3 project currently out, has an active playerbase (50 to 150, depends), will soon have create and also switch to Season 18 (C2S8)
-
-## Season 24
-| Project Name  |  Build                    |  Download links             | Additional Info |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Interlude](https://discord.gg/geJcynfBCz) | 24.20-CL-25156858 | Download : [1](https://r2.ploosh.dev/24.20.zip) | This server is maintained by actual developers unlike most of the C4S2 projects you'll see (this is due to the source code of a 24.20 gs being leaked) Offers **INFINITE** Lategame, you respawn on death and a lot more coming soon!
- 
 # Singleplayer
 
 ## Project Reboot
@@ -76,7 +67,7 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 ## Project Nocturno
 | Project Name | Additional Info |
 | - | - |
-| [Nocturno](https://discord.gg/MQVyqqKgrb) | The only server to support Save The World ! Will soon support Multiplayer but for now you can play STW on 1.8 primarly but also Online Test 6.5. Next Multiplayer test is on May 5th 9AM GMT+2
+| [Nocturno](https://discord.gg/MQVyqqKgrb) | The only server to support Save The World ! Will soon support Multiplayer but for now you can play STW on 1.8 primarly but also Online Test 6.5. 
 
 **NOTE : THIS IS NOT A WAY TO PLAY SAVE THE WORLD FOR FREE AND YOU WILL SOON REQUIRE AN EPIC GAMES ACCOUNT THAT OWNS SAVE THE WORLD TO USE NOCTURNO**
 
