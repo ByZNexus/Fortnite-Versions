@@ -166,7 +166,7 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 | 13.00-CL-1364927	                | 17th June 2020        	 | UE4.25            	    | Download : [1](https://public.simplyblk.xyz/13.00.rar) ; [2](https://builds.fn-builds.net/13.00.7z) |	
 | 13.20-CL-N/A | 30th June 2020 | UE4.25 | Download : [1](https://gofile.io/d/ACmzD7) TEMPORARY (Download before it gets taken down!)
 | 13.30-CL-N/A | 21st July 2020 | UE4.25 | Download : [1](https://gofile.io/d/NnGBTe) TEMPORARY (Download before it gets taken down!)
-| 13.40-CL-14008768	           | 5th August 2020        	 | UE4.25           	    |		Download : [1](https://builds.fn-builds.net/13.40-CL-14113327.7z) ; [2](https://public.simplyblk.xyz/13.40.zip)  | 	
+| 13.40-CL-14008768	           | 5th August 2020        	 | UE4.25           	    |		Download : [1](https://builds.fn-builds.net/13.40-CL-14113327.7z) ; [2](http://forcedfnbuilds.website/13.40.rar)  | 	
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -175,7 +175,7 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 | 14.10-CL-N/A | 10th September 2020 | UE4.25 | Download : [1](https://cold-na-phx-7.gofile.io/download/web/668fef89-8585-4742-b929-f0074074cb4f/14.10.rar) TEMPORARY (Download before it gets taken down!)
 | 14.20-CL-N/A | 23rd September 2020 | UE4.25 | Download : [1](https://store10.gofile.io/download/web/1c96f09a-5255-45b0-882d-8c4812208b04/14.20.rar) TEMPORARY (Download before it gets taken down!)
 | 14.30-CL-14456520	                | 13th October 2020         	 | UE4.25            	    | Download : [1](https://gofile.io/d/47NC7f) ; [2](https://store9.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar)  TEMPORARY (Download before it gets taken down!) |	
-| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.25           	    |	Download : [1](https://public.simplyblk.xyz/14.40.rar) |		
+| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.25           	    |	Download : [1](http://forcedfnbuilds.website/14.40.rar) |		
 | 14.50-CL-14643651 | 3rd November 2020 | UE4.25 | Download : [1](https://store9.gofile.io/download/web/7553cfae-1c8d-43d9-b633-ee1007f8e60d/14.50-CL-14643651.7z) |
 | 14.60-CL-14786821           | 18th November 2020       	  | UE4.25           	    |		Download : [1](https://public.simplyblk.xyz/14.60.rar) ; [2](https://builds.fn-builds.net/14.60-CL-14786821.rar) ; [3](https://buzzheavier.com/ao5le9jy6brh) |		
 
