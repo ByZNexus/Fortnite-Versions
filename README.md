@@ -12,7 +12,7 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 # Online Tests
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |	Download : [1](https://public.simplyblk.xyz/OT0.6.5.zip) ; [2](https://drive.google.com/file/d/1v99QD6xoLf19HTnJMDSrNhSvdl63shvM/view?usp=sharing) ; [3](https://galaxiafn.co.uk/0.6.5.zip) |
+| OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |	Download : [1](https://drive.google.com/file/d/1v99QD6xoLf19HTnJMDSrNhSvdl63shvM/view?usp=sharing) ; [2](https://galaxiafn.co.uk/0.6.5.zip) |
 | OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | Download : [1](https://gofile.io/d/DnSgff) Only usable on a jailbroken PS4, emulator doesnt work either! |
 | OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | Xbox Download : [1](https://www.dropbox.com/scl/fi/i347gsjhgu722qn1zb1jy/OT11-Xbox.zip?rlkey=428b6ey77hnquhwqnkd0b60q2&st=46ad1373&dl=0) ; PC Extract Download : [1](https://www.dropbox.com/scl/fi/4qxm120b8rljj4vuin9jq/OT11Extract.7z?rlkey=c5j9twp7gfxn6s8v54sz3g4uc&st=jyjmn0pm&dl=0)
 
@@ -25,114 +25,114 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 1.7.2-CL-3700114        	| 17th October 2017      	 | UE4.16-3700114	    |	        Download : [1](https://public.simplyblk.xyz/1.7.2.zip) ; [2](https://builds.rebootfn.org/1.7.2.zip) ; [3](https://galaxiafn.co.uk/1.7.2.zip) |	
-| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |	Download : [1](https://public.simplyblk.xyz/1.8.rar) ; [2](https://builds.rebootfn.org/1.8.rar) |		
-| 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | Download : [1](https://public.simplyblk.xyz/1.8.1.rar) ; [2](https://builds.rebootfn.org/1.8.1.rar) |		
-| 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		Download : [1](https://public.simplyblk.xyz/1.8.2.rar) ; [2](https://builds.rebootfn.org/1.8.2.rar) |		
-| 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		Download : [1](https://public.simplyblk.xyz/1.9.rar) ; [2](https://builds.rebootfn.org/1.9.rar) |		
-| 1.9.1-CL-3775276        	| 28th November 2017      	 | UE4.16-3775276	    |		Download : [1](https://public.simplyblk.xyz/1.9.1.rar) ; [2](https://builds.rebootfn.org/1.9.1.rar)  |		
-| 1.10-CL-3790078	  	| 6th December 2017	   	 | UE4.19-3790078	    |		Download : [1](https://public.simplyblk.xyz/1.10.rar) ; [2](https://builds.rebootfn.org/1.10.rar) |		
+| 1.7.2-CL-3700114        	| 17th October 2017      	 | UE4.16-3700114	    |	        Download : [1](https://builds.rebootfn.org/1.7.2.zip) ; [2](https://galaxiafn.co.uk/1.7.2.zip) |	
+| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |	Download : [1](https://builds.rebootfn.org/1.8.rar) |		
+| 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | Download : [1](https://builds.rebootfn.org/1.8.1.rar) |		
+| 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		Download : [1](https://builds.rebootfn.org/1.8.2.rar) |		
+| 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		Download : [1](https://builds.rebootfn.org/1.9.rar) |		
+| 1.9.1-CL-3775276        	| 28th November 2017      	 | UE4.16-3775276	    |		Download : [1](https://builds.rebootfn.org/1.9.1.rar)  |		
+| 1.10-CL-3790078	  	| 6th December 2017	   	 | UE4.19-3790078	    |		Download : [1](https://builds.rebootfn.org/1.10.rar) |		
 
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- | 
-| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |	Download : [1](https://public.simplyblk.xyz/1.11.zip) ; [2](https://builds.rebootfn.org/1.11.zip) ; [3](https://galaxiafn.co.uk/1.11.zip) |		N/A |
-| 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |	Download : [1](https://public.simplyblk.xyz/2.1.0.zip) ; [2](https://builds.rebootfn.org/2.1.0.zip) |	
-| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		 Download : [1](https://public.simplyblk.xyz/2.2.0.rar) ; [2](https://builds.rebootfn.org/2.2.0.rar) |	
-| 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		 Download : [1](https://public.simplyblk.xyz/2.3.rar) ; [2](https://builds.rebootfn.org/2.3.rar) |	
-| 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		 Download : [1](https://public.simplyblk.xyz/2.4.0.zip) ; [2](https://builds.rebootfn.org/2.4.0.zip) ; [3](https://galaxiafn.co.uk/2.4.0.zip) |	
-| 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 |  Download : [1](https://public.simplyblk.xyz/2.4.2.zip) ; [2](https://builds.rebootfn.org/2.4.2.zip)
-| 2.5.0-CL-3889387        	| 13th February 2018       	 | UE4.20-3889387	    |	        Download : [1](https://public.simplyblk.xyz/2.5.0.rar) ; [2](https://builds.rebootfn.org/2.5.0.rar) |		
+| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |	Download : [1](https://builds.rebootfn.org/1.11.zip) ; [2](https://galaxiafn.co.uk/1.11.zip) |		N/A |
+| 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |	Download : [1](https://builds.rebootfn.org/2.1.0.zip) |	
+| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		 Download : [1](https://builds.rebootfn.org/2.2.0.rar) |	
+| 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		 Download : [1](https://builds.rebootfn.org/2.3.rar) |	
+| 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		 Download : [1](https://builds.rebootfn.org/2.4.0.zip) ; [2](https://galaxiafn.co.uk/2.4.0.zip) |	
+| 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 |  Download : [1](https://builds.rebootfn.org/2.4.2.zip)
+| 2.5.0-CL-3889387        	| 13th February 2018       	 | UE4.20-3889387	    |	        Download : [1](https://builds.rebootfn.org/2.5.0.rar) |		
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21st February 2018	   	 | UE4.20-3901517	    |	Download : [1](https://public.simplyblk.xyz/3.0.zip) ; [2](https://builds.rebootfn.org/3.0.zip) ; [3](https://galaxiafn.co.uk/3.0.zip) |
-| 3.1-CL-3915963    		| 28th February 2018        	 | UE4.20-3915963      	    |   	 Download : [1](https://public.simplyblk.xyz/3.1.rar) ; [2](https://builds.rebootfn.org/3.1.rar) |	
-| 3.1.1-CL-3917250	  	| 28th February 2018       	 | UE4.20-3917250	    |		 Download : [1](https://public.simplyblk.xyz/3.1.1.zip) ; [2](https://builds.rebootfn.org/3.1.1.zip) |
-| 3.2-CL-3935073	  	| 8th March 2018       	 | UE4.20-3935073 	    | 		 Download : [1](https://public.simplyblk.xyz/3.2.zip) ; [2](https://builds.rebootfn.org/3.2.zip) |		
-| 3.3-CL-3942182                | 15th March 2018               | UE4.20-3942182           |  Download : [1](https://public.simplyblk.xyz/3.3.rar) ; [2](https://builds.rebootfn.org/3.3.rar) |		
-| 3.5-CL-4008490          	| 11th April 2018       	 | UE4.20-4008490	    | 		 Download : [1](https://public.simplyblk.xyz/3.5.rar) ; [2](https://builds.rebootfn.org/3.5.rar) ; [3](https://galaxiafn.co.uk/3.5.zip) |	
-| 3.6-CL-4019403          	| 24th April 2018     	 | UE4.20-4019403	    | 		 Download : [1](https://builds.eclipsemp.org/3.6.zip) ; [2](https://builds.rebootfn.org/3.6.zip) |		
+| 3.0-CL-3901517	 	| 21st February 2018	   	 | UE4.20-3901517	    |	Download : [1](https://builds.rebootfn.org/3.0.zip) ; [2](https://galaxiafn.co.uk/3.0.zip) |
+| 3.1-CL-3915963    		| 28th February 2018        	 | UE4.20-3915963      	    |   	 Download : [1](https://builds.rebootfn.org/3.1.rar) |	
+| 3.1.1-CL-3917250	  	| 28th February 2018       	 | UE4.20-3917250	    |		 Download : [1](https://builds.rebootfn.org/3.1.1.zip) |
+| 3.2-CL-3935073	  	| 8th March 2018       	 | UE4.20-3935073 	    | 		 Download : [1](https://builds.rebootfn.org/3.2.zip) |		
+| 3.3-CL-3942182                | 15th March 2018               | UE4.20-3942182           |  Download : [1](https://builds.rebootfn.org/3.3.rar) |		
+| 3.5-CL-4008490          	| 11th April 2018       	 | UE4.20-4008490	    | 		 Download : [1](https://builds.rebootfn.org/3.5.rar) ; [2](https://galaxiafn.co.uk/3.5.zip) |	
+| 3.6-CL-4019403          	| 24th April 2018     	 | UE4.20-4019403	    | 		 Download : [1](https://builds.rebootfn.org/3.6.zip) |		
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		Download : [1](https://public.simplyblk.xyz/4.0.zip) ; [2](https://builds.rebootfn.org/4.0.zip) |		
-| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Download : [1](https://gofile.io/d/PNuLSQ) |	
-| 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 Download : [1](https://public.simplyblk.xyz/4.2.zip) ; [2](https://drive.google.com/file/d/1kJQaxP-t7tLfo0adOaM-xdnu97yIFKRm/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.2.zip) ; [4](https://galaxiafn.co.uk/4.2.zip)|		
-| 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           Download : [1](https://public.simplyblk.xyz/4.4.rar) ; [2](https://drive.google.com/file/d/17Cwi48TCOy0LdHVmpYxLM85asd5bwthF/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.4.rar) |		
-| 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |          Download : [1](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view) ; [2](https://drive.google.com/file/d/15lOxiIf8XghFIAS8A-CBjwM2WBh5ltZ5/view?usp=sharing) |	
-| 4.5-CL-4159770          	| 27th June 2018     	 | UE4.20-4159770 	    |		 Download : [1](https://public-build-archives-bucket.fluxapp.dev/4.5.zip) ; [2](https://drive.google.com/file/d/1-a1h_Kb7DS8SB292JV4v2LP6Gyt_lnfh/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.5.rar) |	
+| 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		Download : [1](https://builds.rebootfn.org/4.0.zip) |		
+| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Link down, dm @wallonia on discord if u got a link! |	
+| 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 Download : [1](https://builds.rebootfn.org/4.2.zip) ; [2](https://galaxiafn.co.uk/4.2.zip)|		
+| 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           Download : [1](https://builds.rebootfn.org/4.4.rar) |		
+| 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |          Download : [1](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view)  |	
+| 4.5-CL-4159770          	| 27th June 2018     	 | UE4.20-4159770 	    |		 Download : [1](https://builds.rebootfn.org/4.5.rar) |	
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 5.00-CL-4204761  	  	| 12th July 2018       	 | UE4.21-4204761	    |		 Download : [1](https://public.simplyblk.xyz/5.00.rar) ; [2](https://builds.rebootfn.org/5.00.rar) ; [3](https://builds.fn-builds.net/5.00.rar) |		
-| 5.01-CL-4214610	  	| 12th July 2018      	 | UE4.21-4214610	    |		 Download : [1](https://public.simplyblk.xyz/5.0.1.rar) ; [2](https://builds.rebootfn.org/5.0.1.rar) |		
-| 5.10-CL-4240749         	| 25th July 2018       	 | UE4.21-4240749	    |		 Download : [1](https://public.simplyblk.xyz/5.10.rar) ; [2](https://builds.rebootfn.org/5.10.rar) |		
-| 5.21-CL-4288479         	| 15th August 2018     | UE4.21-4288479 	    |           Download : [1](https://public.simplyblk.xyz/5.21.rar) ; [2](https://builds.rebootfn.org/5.21.rar) |		
-| 5.30-CL-4305896         	| 23rd August 2018     	 | UE4.21-4305896	    |           Download : [1](https://public.simplyblk.xyz/5.30.rar) ; [2](https://builds.rebootfn.org/5.30.rar) ; [3](http://builds.eclipsemp.org/5.30.zip) |	
-| 5.40-CL-4352937         	| 5th September 2018     	 | UE4.21-4352937	    |		 Download : [1](https://public.simplyblk.xyz/5.40.rar) ; [2](https://builds.rebootfn.org/5.40.rar) |		
-| 5.41-CL-4363240         	| 18th September 2018    	 | UE4.21-4352937	    |		Download : [1](https://cdn.aufgeladen.dev/5.41.zip) ; [2](https://galaxiafn.co.uk/5.41.zip) ; [3](http://builds.eclipsemp.org/5.41.zip) |	
+| 5.00-CL-4204761  	  	| 12th July 2018       	 | UE4.21-4204761	    |		 Download : [1](https://builds.rebootfn.org/5.00.rar)  |		
+| 5.01-CL-4214610	  	| 12th July 2018      	 | UE4.21-4214610	    |		 Download : [1](https://builds.rebootfn.org/5.0.1.rar) |		
+| 5.10-CL-4240749         	| 25th July 2018       	 | UE4.21-4240749	    |		 Download : [1](https://builds.rebootfn.org/5.10.rar) |		
+| 5.21-CL-4288479         	| 15th August 2018     | UE4.21-4288479 	    |           Download : [1](https://builds.rebootfn.org/5.21.rar) |		
+| 5.30-CL-4305896         	| 23rd August 2018     	 | UE4.21-4305896	    |           Download : [1](https://builds.rebootfn.org/5.30.rar) |	
+| 5.40-CL-4352937         	| 5th September 2018     	 | UE4.21-4352937	    |		 Download : [1](https://builds.rebootfn.org/5.40.rar) |		
+| 5.41-CL-4363240         	| 18th September 2018    	 | UE4.21-4352937	    |		Download : [1](https://galaxiafn.co.uk/5.41.zip) Not sure it works anymore? |	
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 6.00-CL-4395664         	| 27th September 2018       	 | UE4.21-4395664	    |		Download : [1](https://public.simplyblk.xyz/6.00.rar) ; [2](https://builds.rebootfn.org/6.00.rar) ; [3](https://builds.fn-builds.net/6.00.rar) |	
-| 6.01-CL-4417689         	| 3rd October 2018     	 | UE4.21-4417689	    |           Download : [1](https://public.simplyblk.xyz/6.01.rar) ; [2](https://builds.rebootfn.org/6.01.rar) |		
-| 6.01.1-CL-4424678		| 3rd October 2018		 | UE4.21-4424678	    | 	 Download : [1](https://public.simplyblk.xyz/6.1.1.rar) ; [2](https://builds.rebootfn.org/6.1.1.rar) |		
-| 6.02-CL-4442095        	| 10th October 2018     		 | UE4.21-4442095    	    | 		 Download : [1](https://public.simplyblk.xyz/6.02.rar) ; [2](https://builds.rebootfn.org/6.02.rar) |		
-| 6.02.1-CL-4461277        	| 10th October 2018    	 | UE4.21-4461277	    |            Download : [1](https://public.simplyblk.xyz/6.2.1.rar) ; [2](https://builds.rebootfn.org/6.2.1.rar) |		
-| 6.10-CL-4464155       	| 16th October 2018      	 | UE4.21-4464155   	    | 		 Download : [1](https://public.simplyblk.xyz/6.10.rar) ; [2](https://builds.rebootfn.org/6.10.rar) |		
-| 6.10.1-CL-4476098       	| 16th October 2018    	 | UE4.21-4476098   	    | 	 Download : [1](https://public.simplyblk.xyz/6.10.1.rar) ; [2](https://builds.rebootfn.org/6.10.1.rar) |		
-| 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		 Download : [1](https://public.simplyblk.xyz/6.10.2.rar) ; [2](https://builds.rebootfn.org/6.10.2.rar) |	
-| 6.20-CL-4497486 | 24th October 2018 | UE4.21-? | Download : [1](https://download.fn-archive.com/FortniteClient-6.20-CL-4497486.rar) UPDATED
-| 6.21-CL-4526925         	| 1st November 2018       	 | UE4.21-4526925	    |		 Download : [1](https://public.simplyblk.xyz/6.21.rar) ; [2](https://builds.rebootfn.org/6.21.rar) ; [3](https://buzzheavier.com/x3mclasj48ai) |
-| 6.22-CL-4543176		| 4th November 2018		 | UE4.21-4543176	    | 		 Download : [1](https://public.simplyblk.xyz/6.22.rar) ; [2](https://builds.rebootfn.org/6.22.rar) |		
-| 6.30-CL-4573096         	| 13th November 2018     	 | UE4.21-4573096	    |		 Download : [1](https://public.simplyblk.xyz/6.30.rar) ; [2](https://builds.rebootfn.org/6.30.rar)|		
-| 6.31-CL-4573279      	  	| 27th November 2018      	 | UE4.21-4573279	    |		 Download : [1](https://public.simplyblk.xyz/6.31.rar) ; [2](https://builds.rebootfn.org/6.31.rar) |		
+| 6.00-CL-4395664         	| 27th September 2018       	 | UE4.21-4395664	    |		Download : [1](https://builds.rebootfn.org/6.00.rar) |	
+| 6.01-CL-4417689         	| 3rd October 2018     	 | UE4.21-4417689	    |           Download : [1](https://builds.rebootfn.org/6.01.rar) |		
+| 6.01.1-CL-4424678		| 3rd October 2018		 | UE4.21-4424678	    | 	 Download : [1](https://builds.rebootfn.org/6.1.1.rar) |		
+| 6.02-CL-4442095        	| 10th October 2018     		 | UE4.21-4442095    	    | 		 Download : [1](https://builds.rebootfn.org/6.02.rar) |		
+| 6.02.1-CL-4461277        	| 10th October 2018    	 | UE4.21-4461277	    |            Download : [1](https://builds.rebootfn.org/6.2.1.rar) |		
+| 6.10-CL-4464155       	| 16th October 2018      	 | UE4.21-4464155   	    | 		 Download : [1](https://builds.rebootfn.org/6.10.rar) |		
+| 6.10.1-CL-4476098       	| 16th October 2018    	 | UE4.21-4476098   	    | 	 Download : [1](https://builds.rebootfn.org/6.10.1.rar) |		
+| 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		 Download : [1](https://builds.rebootfn.org/6.10.2.rar) |	
+| 6.20-CL-4497486 | 24th October 2018 | UE4.21-? | Download : [1](https://download.fn-archive.com/FortniteClient-6.20-CL-4497486.rar) 
+| 6.21-CL-4526925         	| 1st November 2018       	 | UE4.21-4526925	    |		 Download : [1](https://builds.rebootfn.org/6.21.rar)  |
+| 6.22-CL-4543176		| 4th November 2018		 | UE4.21-4543176	    | 		 Download : [1](https://builds.rebootfn.org/6.22.rar) |		
+| 6.30-CL-4573096         	| 13th November 2018     	 | UE4.21-4573096	    |		 Download : [1](https://builds.rebootfn.org/6.30.rar)|		
+| 6.31-CL-4573279      	  	| 27th November 2018      	 | UE4.21-4573279	    |		 Download : [1](https://builds.rebootfn.org/6.31.rar) |		
 
 # Season 7
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 7.00-CL-4629139         	| 6th December 2018      	 | UE4.22-4629139	    |		 Download : [1](https://public.simplyblk.xyz/7.00.rar) ; [2](https://builds.rebootfn.org/7.00.rar) ; [3](https://builds.fn-builds.net/7.00-CL-4629139.rar) |	
-| 7.10-CL-4667333	       	| 18th December 2018           	 | UE4.22-4667333	    |		 Download : [1](https://public.simplyblk.xyz/7.10.rar) ; [2](https://builds.rebootfn.org/7.10.rar) |		
-| 7.20-CL-4727874	       	| 22nd January 2019             	 | UE4.22-4727874	    |		 Download : [1](https://public.simplyblk.xyz/7.20.rar) ; [2](https://builds.rebootfn.org/7.20.rar) |		
-| 7.30-CL-4834550         	| 29th January 2019       	 | UE4.22-4834550	    |		 Download : [1](https://public.simplyblk.xyz/7.30.rar) ; [2](https://builds.rebootfn.org/7.30.zip) ; [3](https://galaxiafn.co.uk/7.30.zip) |	
-| 7.40-CL-5046157         	| 13th February 2019     	 | UE4.22-5046157	    |		 Download : [1](https://public.simplyblk.xyz/7.40.rar) ; [2](https://builds.rebootfn.org/7.40.rar) ; [3](https://builds.fn-builds.net/7.40-CL-5046157.rar) |	
+| 7.00-CL-4629139         	| 6th December 2018      	 | UE4.22-4629139	    |		 Download : [1](https://builds.rebootfn.org/7.00.rar)  |	
+| 7.10-CL-4667333	       	| 18th December 2018           	 | UE4.22-4667333	    |		 Download : [1](https://builds.rebootfn.org/7.10.rar) |		
+| 7.20-CL-4727874	       	| 22nd January 2019             	 | UE4.22-4727874	    |		 Download : [1](https://builds.rebootfn.org/7.20.rar) |		
+| 7.30-CL-4834550         	| 29th January 2019       	 | UE4.22-4834550	    |		 Download : [1](https://builds.rebootfn.org/7.30.zip) ; [2](https://galaxiafn.co.uk/7.30.zip) |	
+| 7.40-CL-5046157         	| 13th February 2019     	 | UE4.22-5046157	    |		 Download : [1](https://builds.rebootfn.org/7.40.rar)  |	
 
 # Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 8.00-CL-5203069	              | 28th February 2019     	 | UE4.22            	    |		Download : [1](https://public.simplyblk.xyz/8.00.zip) ; [2](https://builds.rebootfn.org/8.00.zip) ; [3](https://galaxiafn.co.uk/8.00.zip) |
-| 8.20-CL-5625478	              | 27th March 2019        	 | UE4.23            	    |		 Download : [1](https://public.simplyblk.xyz/8.20.rar) ; [2](https://builds.rebootfn.org/8.20.rar) ; [3](https://builds.fn-builds.net/8.20.rar) | 		
-| 8.30-CL-5793395	              | 10th April 2019   	 | UE4.23            	    |		 Download : [1](https://public.simplyblk.xyz/8.30.rar) ; [2](https://builds.rebootfn.org/8.30.rar) |		
-| 8.40-CL-6005771	              | 17th April 2019       	 | UE4.23            	    |		 Download : [1](https://public.simplyblk.xyz/8.40.zip) ; [2](https://builds.rebootfn.org/8.40.zip) |		
-| 8.50-CL-6058028	              | 25th April 2019       	 | UE4.23            	    |		 Download : [1](https://public.simplyblk.xyz/8.50.zip) ; [2](https://builds.rebootfn.org/8.50.zip) ; [3](https://galaxiafn.co.uk/8.50.zip) ; [4](https://builds.fn-builds.net/8.50.zip) |
-| 8.51-CL-6165369	              | 2nd May 2019         	 | UE4.23            	    |		 Download : [1](https://public.simplyblk.xyz/8.51.rar) ; [2](https://builds.rebootfn.org/8.51.rar) ; [3](https://galaxiafn.co.uk/8.51.zip) ; [4](https://public-build-archives-bucket.fluxapp.dev/8.51.zip) ; [5](https://builds.fn-builds.net/8.51.rar) |	
+| 8.00-CL-5203069	              | 28th February 2019     	 | UE4.22            	    |		Download : [1](https://builds.rebootfn.org/8.00.zip) ; [2](https://galaxiafn.co.uk/8.00.zip) |
+| 8.20-CL-5625478	              | 27th March 2019        	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/8.20.rar)  | 		
+| 8.30-CL-5793395	              | 10th April 2019   	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/8.30.rar) |		
+| 8.40-CL-6005771	              | 17th April 2019       	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/8.40.zip) |		
+| 8.50-CL-6058028	              | 25th April 2019       	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/8.50.zip) ; [2](https://galaxiafn.co.uk/8.50.zip) |
+| 8.51-CL-6165369	              | 2nd May 2019         	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/8.51.rar) ; [2](https://galaxiafn.co.uk/8.51.zip)  |	
 
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		  
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 9.00-CL-6337466	              | 9th May 2019      	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.00.zip) ; [2](https://public.simplyblk.xyz/9.00.zip) ; [3](https://builds.fn-builds.net/9.00.7z) |		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
-| 9.01-CL-6428087	              | 15th May 2019     	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.01.zip) ; [2](https://public.simplyblk.xyz/9.01.zip) |		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
-| 9.10-CL-6639283	              | 19th May 2019     	   | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.10.rar) ; [2](https://galaxiafn.co.uk/9.10.zip) ; [3](https://public.simplyblk.xyz/9.10.rar) |		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
+| 9.00-CL-6337466	              | 9th May 2019      	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.00.zip)|		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
+| 9.01-CL-6428087	              | 15th May 2019     	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.01.zip)  |		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
+| 9.10-CL-6639283	              | 19th May 2019     	   | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.10.rar) ; [2](https://galaxiafn.co.uk/9.10.zip)  |		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
 | 9.20-CL-6822798 | 6th June 2019 | UE4.23 |  Download : [1](https://download.fn-archive.com/FortniteClient-9.20-CL-6822798.rar) UPDATED !
-| 9.21-CL-6922310	              | 12th June 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.21.zip) ; [2](https://public.simplyblk.xyz/9.21.zip) |		0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
-| 9.30-CL-7095426	              | 9th July 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.30.zip) ; [2](https://public.simplyblk.xyz/9.30.zip) | 		0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC |
-| 9.40-CL-7315705               | 17th July 2019      	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/9.40.zip) ; [2](https://public.simplyblk.xyz/9.40.zip) |		0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
-| 9.41-CL-7609292	              | 23rd July 2019      	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.41.rar) ; [2](https://public.simplyblk.xyz/9.41.rar) |		0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
+| 9.21-CL-6922310	              | 12th June 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.21.zip)  |		0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
+| 9.30-CL-7095426	              | 9th July 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.30.zip)  | 		0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC |
+| 9.40-CL-7315705               | 17th July 2019      	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/9.40.zip) |		0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
+| 9.41-CL-7609292	              | 23rd July 2019      	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.41.rar)  |		0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
 
 # Season 10
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.00.zip) ; [2](https://public.simplyblk.xyz/10.00.zip) ; [3](https://cdn.solarisfn.org/10.00.zip) ; [4](https://builds.fn-builds.net/10.00.7z) |		0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
-| 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.10.zip) ; [2](https://public.simplyblk.xyz/10.10.zip) |		0x96A032AA931880ACBA60312208226FE56CB4DC7A98C9728EF0C995FB6DD7B5A6 |
-| 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.20.zip) ; [2](https://public.simplyblk.xyz/10.20.zip) |		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
-| 10.30-CL-8569425 | 12th September 2019 | UE4.23 |  Download : [1](https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar) UPDATED !
-| 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.31.zip) ; [2](https://public.simplyblk.xyz/10.31.zip) |		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
-| 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |		Download : [1](https://public.simplyblk.xyz/10.40.rar) ; [2](https://cdn.solarisfn.org/10.40.zip) |		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
+| 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.00.zip)  |		0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
+| 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.10.zip)  |		0x96A032AA931880ACBA60312208226FE56CB4DC7A98C9728EF0C995FB6DD7B5A6 |
+| 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.20.zip) |		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
+| 10.30-CL-8569425 | 12th September 2019 | UE4.23 |  Download : [1](https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar)
+| 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.31.zip)  |		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
+| 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |		Link down, dm @wallonia on discord if u got a link! |		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
 
 # Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
