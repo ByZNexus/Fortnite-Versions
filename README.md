@@ -155,7 +155,7 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 | 12.20-CL-N/A       | 17th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.20.rar)
 | 12.21-CL-N/A	     | 24th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.21.zip)
 | 12.40-CL-N/A       | 15th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.40.rar)
-| 12.41-CL-12905909  | 21st April 2020    | UE4.24 | Download : [1](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [2](https://cdn.cbn.lol/12.41) ; [3](https://fn-builds.repressoh.it/12.41-CL-12905909-Windows.zip) (Note: 1 is very slow) |
+| 12.41-CL-12905909  | 21st April 2020    | UE4.24 | Download : [1](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [2](https://cdn.cbn.lol/12.41) ; [3](https://fn-builds.repressoh.it/12.41-CL-12905909-Windows.zip) ; [4](https://gofile.io/d/6O8nBf) (Note: 1 is very slow) |
 | 12.50-CL-N/A	     | 29th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.50.zip)
 | 12.60-CL-N/A       | 20th May 2020      | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.60-CL-13477524.7z)
 | 12.61-CL-13498980  | 26th May 2020      | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.61.zip)
@@ -206,7 +206,7 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 | 17.21-CL-16967001 | 27th July 2021   | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/17.21-CL-16967001.7z)
 | 17.30-CL-17004569	| 3rd August 2021  | UE4.26.1 |	Download : [1](https://cdn.fortmp.dev/17.30.zip) ; [2](https://fn-builds.repressoh.it/17.30.zip)|	
 | 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/17.40-CL-17269705.7z) | 
-| 17.50-CL-17388565	| 31st August 2021 | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) ; [3](https://lootdest.org/s?omQiEa0Q) |	|
+| 17.50-CL-17388565	| 31st August 2021 | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) ; [3](https://lootdest.org/s?omQiEa0Q) ; [4](https://gofile.io/d/6O8nBf) |	|
 
 # Season 18
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
