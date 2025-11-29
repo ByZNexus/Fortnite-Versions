@@ -132,7 +132,7 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 | 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.20.zip) |		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
 | 10.30-CL-8569425 | 12th September 2019 | UE4.23 |  Download : [1](https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar)
 | 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.31.zip)  |		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
-| 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |		Link down, dm @wallonia on discord if u got a link! |		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
+| 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |	Download : [1](https://public.simplyblk.xyz/10.40.rar) |		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
 
 # Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
