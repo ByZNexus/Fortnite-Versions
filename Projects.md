@@ -15,11 +15,6 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 
 # Multiplayer
 
-## Season 6
-| Project Name  |  Build                    |  Download links             | Additional Info |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Project Era](https://discord.gg/erafn) | 6.21-CL-4526925     |		 Download : [1](https://public.simplyblk.xyz/6.21.rar) ; [2](https://builds.rebootfn.org/6.21.rar) ; [3](https://buzzheavier.com/x3mclasj48ai) | Most 1:1 replica to OG Fortnite with challenges/xp/battle pass/item shop, Also the most popular! |
-
 ## Season 7
 | Project Name  |  Build                    |  Download links             | Additional Info |
 | ------------- | ---------------- | ------------------------------- | - |
@@ -41,11 +36,6 @@ Note : If there's any admins of the projects i'm listing and wishes a change to 
 | ------------- | ---------------- | ------------------------------- | - |
 | [FortMP](https://discord.gg/GRpGGBYamN) | 17.30-CL-17004569	| Download : [1](https://public.simplyblk.xyz/17.30.zip) | Offers a nice lategame experience with a large playerbase ! Trusted server too !
 | [Project Eon](https://discord.gg/eonfn) | 17.50-CL-17388565 |  Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) | Personally played the donator testing, it's an absolute BEAST of an experience. Reset on Release, FOV, Simple Edit are available by pressing Insert in game. (Has not a lot of delay, EU servers are in Prague)
-
-## Season 18
-| Project Name  |  Build                    |  Download links             | Additional Info |
-| ------------- | ---------------- | ------------------------------- | - |
-| [Flux](https://discord.gg/fluxfn) | N/A	| Download : N/A | Currently still in development but will release soon. Offers a variety of custom modes, 1:1 Bugha Lategame and Player AI's. 
 
 
 # Singleplayer
