@@ -20,7 +20,7 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://gofile.io/d/IV7BUC) ; [2](https://store-eu-par-1.gofile.io/download/web/a5a3850d-9e08-4cd2-9d3f-923f4a547607/%2B%2BFortnite%2BCert-CL-3532353.7z) ; [3](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) ; [4](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) UPDATED |
-| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://gofile.io/d/9HYfIm) ; [2](https://store-eu-par-3.gofile.io/download/web/9790ea12-d3a2-4fb4-b354-d6edceb0cc9c/1.2.rar) TEMPORARY (Download before it gets taken down!) |
+| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://mega.nz/file/9vdxhQqb#KQa_WEcVRdsBN0gwmQdaHpFDtq1k34xZVxX0uyzFVws) TEMPORARY (Download before it gets taken down!) |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
