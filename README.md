@@ -214,7 +214,7 @@ Sticky Note : I'm calling out to all people that has missing builds for them to 
 | 18.00-CL-17468642 | 24th September 2021| UE4.26.1 |	Download : [1](https://fn-builds.repressoh.it/18.00.rar)  |		
 | 18.10-CL-17661844 | 27th September 2021| UE4.26.1 |	Download : [1](https://fn-builds.repressoh.it/18.10-CL-17661844.7z) |			
 | 18.20-CL-17792290 | 12th October 2021  | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/18.20-CL-17792290.7z)
-| 18.21-CL-17811397 | 19th October 2021  | UE4.26.1 |	Link down, dm @wallonia on discord if u got a link!
+| 18.21-CL-17811397 | 19th October 2021  | UE4.26.1 |	Download : [1](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z)
 | 18.30-CL-17882303 | 26th October 2021  | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/18.30.7z) |
 | 18.40-CL-18163738 | 16th November 2021 | UE4.26.1 |	Download : [1](https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip) |		
 
