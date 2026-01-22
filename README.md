@@ -298,24 +298,24 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 # Season 27
 | Build               | Date                 | Engine Version    | Download links |
 | ------------------- | --------------------- | ----------------- | ------------------------ |
-| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | Link down, dm @wallonia on discord if you got a link!
-| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | Link down, dm @wallonia on discord if you got a link!
+| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | Download : [1](https://cdn.cbn.lol/27.00)
+| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | Download : [1](https://fn-builds.repressoh.it/27.10-CL-29552510.zip)
 | 27.11-CL-29739262 | 21st November 2023 | UE5.4 | Download : [1](https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar)
 
 # Season 28
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
+| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | Download : [1](https://store9.gofile.io/download/web/05e6fa8b-fe90-42d7-98ff-0d5f3dfa6fa2/28.00-CL-29915848.7z) TEMPORARY (Download before it gets taken down!)
 | 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Download : [1](https://gofile.io/d/7rYsij) TEMPORARY (Download before it gets taken down!)
 | 28.01-CL-30313795 | 19th December 2023| UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 28.20-CL-31286935 | 5th February 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.20-CL-31286935.7z) ; [2](https://buzzheavier.com/hobg7favbekg) (1st link is bugged)
-| 28.30-CL-31511038 | 22nd February 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
+| 28.30-CL-31511038 | 22nd February 2024 | UE5.5 | Download : [1](https://store2.gofile.io/download/web/1bdc69c5-149c-44b3-a339-aa4a67297ae6/28.30-CL-31511038.7z) TEMPORARY (Download before it gets taken down!)
 
 # Season 29
 | Build | Date | Engine Version | Download links |
 | --- | --- | -- | --- |
-| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
+| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | Download : [1](https://store-na-phx-2.gofile.io/download/web/4f6fd32e-9eff-4c66-9b2d-02f1273fdf78/29.00-CL-32116959.7z) TEMPORARY (Download before it gets taken down!)
 | 29.01-CL-32291970 | 19th March 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 29.10-CL-32391220 | 26th March 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link! 
 | 29.10-CL-32567225 | 27th March 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
