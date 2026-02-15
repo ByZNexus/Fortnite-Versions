@@ -53,6 +53,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 3.2-CL-3935073	  	| 8th March 2018       	 | UE4.20-3935073 	    | 		 Download : [1](https://builds.rebootfn.org/3.2.zip) |		
 | 3.3-CL-3942182                | 15th March 2018               | UE4.20-3942182           |  Download : [1](https://builds.rebootfn.org/3.3.rar) |		
 | 3.5-CL-4008490          	| 11th April 2018       	 | UE4.20-4008490	    | 		 Download : [1](https://builds.rebootfn.org/3.5.rar) ; [2](https://galaxiafn.co.uk/3.5.zip) |	
+| 3.5.1-CL-4000805 | 13th April 2018 | UE4.20 | Download : [1](https://dn710307.ca.archive.org/0/items/fortnite-4000805-3.5/Fortnite.7z)
 | 3.6-CL-4019403          	| 24th April 2018     	 | UE4.20-4019403	    | 		 Download : [1](https://builds.rebootfn.org/3.6.zip) |		
 
 # Season 4
@@ -163,7 +164,8 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 13.00-CL-N/A	    | 17th June 2020	 | UE4.25 | Download : [1](https://fn-builds.repressoh.it/13.00.rar)
+| 13.00-CL-13649278	| 16th June 2020	 | UE4.25 | Download : [1](https://fn-builds.repressoh.it/13.00.rar)
+| 13.00-CL-13715544 | 16th June 2020   | UE4.25 | Download : [1](https://dn710400.ca.archive.org/0/items/fortnite-cl-13715544/Fortnite-cl-13715544.7z)
 | 13.20-CL-13777676 | 30th June 2020   | UE4.25 | Download : [1](https://fn-builds.repressoh.it/13.20-CL-13777676.rar)
 | 13.30-CL-N/A      | 21st July 2020   | UE4.25 | Download : [1](https://fn-builds.repressoh.it/13.30.rar)
 | 13.40-CL-14008768 | 5th August 2020  | UE4.25 |	Download : [1](https://fn-builds.repressoh.it/13.40.zip) ; [2](http://forcedfnbuilds.website/13.40.rar)  | 	
