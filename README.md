@@ -138,14 +138,14 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 # Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- | 
-| 11.00-CL-9603448	             | 15th October 2019       | UE4.24              |	 Download : [1](https://fn-builds.repressoh.it/11.00-CL-9562734.7z)  |
-| 11.01-CL-9728272 | 22nd October 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.01-CL-97282720.7z)
-| 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	Download : [1](https://fn-builds.repressoh.it/11.10-CL-9901083.7z) |
-| 11.11-CL-10082788 | 13th November 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.11-CL-10082788.7z) !
-| 11.20-CL-10297577 | 20th November 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.20-CL-10297577.7z) Recently Added!
+| 11.00-CL-9603448	| 15th October 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.00-CL-9562734.7z)  |
+| 11.01-CL-9728272  | 22nd October 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.01-CL-97282720.7z)
+| 11.10-CL-9901083	| 28th October 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.10-CL-9901083.7z) |
+| 11.11-CL-10082788 | 13th November 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.11-CL-10082788.7z) 
+| 11.20-CL-10297577 | 20th November 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.20-CL-10297577.7z) 
 | 11.21-CL-10481509 | 4th December 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.21-CL-10481509.7z)
-| 11.30-CL-10547923 | 12th December 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.30.7z) |
-| 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | Download : [1](https://fn-builds.repressoh.it/11.31.rar) |
+| 11.30-CL-10547923 | 12th December 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.30.7z) |
+| 11.31-CL-10800459	| 18th December 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.31.rar) |
 | 11.40-CL-11039906 | 15th January 2020 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.40-CL-11039906.7z)
 | 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.50.7z)
 # Season 12
@@ -242,12 +242,12 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 # Season 21
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 21.00-CL-20463113 | 5th June 2022 | UE5.1 | Download : [1](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) ; [2](https://cdn.solarisfn.org/21.00.zip) ; [3](https://r2.ploosh.dev/21.00.zip) ; [4](https://builds.fn-builds.net/21.00-CL-20463113.7z)
-| 21.10-CL-20959871	                | 21st June 2022         	 | UE5.1           	    | Download : [1](https://gofile.io/d/4WZtao) TEMPORARY (Download before it gets taken down!) | 	
+| 21.00-CL-20463113 | 5th June 2022 | UE5.1 | Download : [1](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) ; [2](https://r2.ploosh.dev/21.00.zip) ; [3](https://builds.fn-builds.net/21.00-CL-20463113.7z)
+| 21.10-CL-20959871	                | 21st June 2022         	 | UE5.1           	    | Link down, dm @wallonia on discord if you got a link! | 	
 | 21.20-CL-21035704 | 6th July 2022 | UE5.1 |  Download : [1](https://builds.fn-builds.net/21.20-CL-21035704.7z) |
 | 21.30-CL-21155462 | 18th July 2022 | UE5.1 |  Download : [1](https://builds.fn-builds.net/21.30-CL-21155462.7z) |
 | 21.40-CL-21407327 | 16th August 2022 | UE5.1 |  Download : [1](https://builds.fn-builds.net/21.40-CL-21407327.7z) |
-| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  Download : [1](https://gofile.io/d/L2OT9k) TEMPORARY (Download before it gets taken down!) |
+| 21.50-CL-21245791                | 30th August 2022 | UE5.1 | Link down, dm @wallonia on discord if you got a link! |
 | 21.51-CL-21735703 | 7th September 2022 | UE5.1 | Download : [1](https://builds.fn-builds.net/21.51-CL-21735703.7z)
 
 # Season 22
@@ -275,16 +275,16 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 24.10-CL-24903530 | 29th March 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.10-CL-24903530.zip)
 | 24.20-CL-25156858	| 11th April 2023        	 | N/A           	    |	Download : [1](https://builds.fn-builds.net/24.20-CL-25156858.zip) |		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
 | 24.30-CL-23789416 | 2nd May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.30-CL-25347382.zip) |
-| 24.40-CL-25521145 | 17th May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.40-CL-25521145.zip) ; [2](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip)
-| 24.40-CL-25595478 | 17th May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.40-CL-25595478.zip)
+| 24.40-CL-25521145 | 17th May 2023 | N/A | Download : [1](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip)
+| 24.40-CL-25595478 | 17th May 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
 
 # Season 25
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 25.00-CL-25909622 | 17th June 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
 | 25.10-CL-26000959 | 20th June 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 25.11-CL-26171015 | 27th June 2023 | N/A | Download : [1](https://r2.ploosh.dev/25.11.zip)
-| 25.20-CL-26474516 | 26th July 2023 | N/A | Download : [1](https://cold-na-phx-1.gofile.io/download/web/04766304-e2ae-44f5-8c35-d1e5ac197ceb/v25.20-CL-26629111.zip)
+| 25.11-CL-26171015 | 27th June 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
+| 25.20-CL-26474516 | 26th July 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
 | 25.20-CL-26629111 | 26th July 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
 | 25.30-CL-26867995 | 8th August 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
 
@@ -308,16 +308,16 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
 | 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | Download : [1](https://store9.gofile.io/download/web/05e6fa8b-fe90-42d7-98ff-0d5f3dfa6fa2/28.00-CL-29915848.7z) TEMPORARY (Download before it gets taken down!)
-| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Download : [1](https://gofile.io/d/7rYsij) TEMPORARY (Download before it gets taken down!)
+| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 28.01-CL-30313795 | 19th December 2023| UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
-| 28.20-CL-31286935 | 5th February 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.20-CL-31286935.7z) ; [2](https://buzzheavier.com/hobg7favbekg) (1st link is bugged)
+| 28.20-CL-31286935 | 5th February 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 28.30-CL-31511038 | 22nd February 2024 | UE5.5 | Download : [1](https://store2.gofile.io/download/web/1bdc69c5-149c-44b3-a339-aa4a67297ae6/28.30-CL-31511038.7z) TEMPORARY (Download before it gets taken down!)
 
 # Season 29
 | Build | Date | Engine Version | Download links |
 | --- | --- | -- | --- |
-| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | Download : [1](https://store-na-phx-2.gofile.io/download/web/4f6fd32e-9eff-4c66-9b2d-02f1273fdf78/29.00-CL-32116959.7z) TEMPORARY (Download before it gets taken down!)
+| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 29.01-CL-32291970 | 19th March 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 29.10-CL-32391220 | 26th March 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link! 
 | 29.10-CL-32567225 | 27th March 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
@@ -337,34 +337,34 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 |-|-|-|-|
 | 31.00-CL-35447195 | 16th August 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 31.10-CL-35815136 | 4th September 2024 | UE5.5 |Link down, dm @wallonia on discord if you got a link!
-| 31.20-CL-36348036 | 16th September 2024 | UE5.5 | Download : [1](https://buzzheavier.com/3gcnp6jyjjpy)
+| 31.20-CL-36348036 | 16th September 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 31.30-CL-36600465 | 1st October 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
-| 31.40-CL-36874825 | 15th October 2024 | UE5.5 | Download : [1](https://buzzheavier.com/iqxbcnu8ggyu)
+| 31.40-CL-36874825 | 15th October 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 
 # Season 32
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 32.00-CL-37505882 | 1st November 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/32.00-CL-37505882.7z) ; [2](https://buzzheavier.com/rnw2uzgol03l) UPDATED !
+| 32.00-CL-37505882 | 1st November 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 32.11-CL-38202817 | 21st November 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 
 # Season 33
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 33.00-CL-38504598 | 1st December 2024 | UE5.6 | Download : [1](https://buzzheavier.com/rvdxq6z4vbts) TEMPORARY (Download before it gets taken down!)
-| 33.10-CL-38630093 | 10th December 2024 | UE5.6 | Download : [1](https://fn-builds.net/S33/33.10-CL-38630093.7z)
-| 33.11-CL-38773622 | 18th December 2024 | UE5.6 | Download : [1](https://fn-builds.net/S33/33.11-CL-38773622.7z)
-| 33.20-CL-39082670 | 14th January 2025 | UE5.6 | Download : [1](https://fn-builds.net/S33/33.20-CL-39082670.7z) ; [2](https://buzzheavier.com/jhecsi8pzm4k)
-| 33.30-CL-39435251 | 31st January 2025 | UE5.6 | Download : [1](https://fn-builds.net/S33/33.30-CL-39435251.7z) ; [2](https://buzzheavier.com/pgdsq8qhp2ds)
+| 33.00-CL-38504598 | 1st December 2024 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
+| 33.10-CL-38630093 | 10th December 2024 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
+| 33.11-CL-38773622 | 18th December 2024 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
+| 33.20-CL-39082670 | 14th January 2025 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
+| 33.30-CL-39435251 | 31st January 2025 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
 
 # Season 34
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 34.00-CL-40085084 | 21st February 2025 | UE5.6 | Download : Link down, dm @wallonia on discord if you got a link!
-| 34.10-CL-40567068 | 11th March 2025 | UE5.6 | Download : [1](https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view) ; [2](https://builds.fn-builds.net/34.10-CL-40567068.7z)
+| 34.00-CL-40085084 | 21st February 2025 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
+| 34.10-CL-40567068 | 11th March 2025 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
 | 34.20-CL-40965447 | 25th March 2025 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
 | 34.30-CL-41387772 | 8th April 2025 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
 | 34.30-CL-41588354 |  8th April 2025  | UE5.6 | Link down, dm @wallonia on discord if you got a link!
-| 34.40-CL-41753727 | 22nd April 2025 | UE5.6 | Download : [1](https://cold7.gofile.io/download/web/664392ee-3a98-490d-bb87-18b865c9a784/v34.40-CL-41753727.rar)
+| 34.40-CL-41753727 | 22nd April 2025 | UE5.6 | Link down, dm @wallonia on discord if you got a link!
 
 ## Playable Events
 
