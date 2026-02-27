@@ -323,8 +323,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 29.10-CL-32567225 | 27th March 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 29.20-CL-32716692 | 9th April 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 29.30-CL-32982357 | 23rd April 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
-| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
-
+| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | Download : [1](https://cold2.gofile.io/download/web/969d90b4-de18-4f0f-9c4a-db1fe91996bc/29.40.rar)
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
