@@ -60,7 +60,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		Download : [1](https://builds.rebootfn.org/4.0.zip) |		
-| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Link down, dm @wallonia on discord if u got a link! |	
+| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Download : [1](https://dn720601.ca.archive.org/0/items/fn-v4-archive/builds/4.1-CL-4053532.7z) |	
 | 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 Download : [1](https://builds.rebootfn.org/4.2.zip) ; [2](https://galaxiafn.co.uk/4.2.zip)|		
 | 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           Download : [1](https://builds.rebootfn.org/4.4.rar) |		
 | 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |          Download : [1](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view)  |	
@@ -75,7 +75,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 5.21-CL-4288479         	| 15th August 2018     | UE4.21-4288479 	    |           Download : [1](https://builds.rebootfn.org/5.21.rar) |		
 | 5.30-CL-4305896         	| 23rd August 2018     	 | UE4.21-4305896	    |           Download : [1](https://builds.rebootfn.org/5.30.rar) |	
 | 5.40-CL-4352937         	| 5th September 2018     	 | UE4.21-4352937	    |		 Download : [1](https://builds.rebootfn.org/5.40.rar) |		
-| 5.41-CL-4363240         	| 18th September 2018    	 | UE4.21-4352937	    |		Download : [1](https://galaxiafn.co.uk/5.41.zip) Not sure it works anymore? |	
+| 5.41-CL-4363240         	| 18th September 2018    	 | UE4.21-4352937	    |		Download : [1](https://dn711008.ca.archive.org/0/items/fn-v5-archive/5.41-CL-4363240.7z) |	
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -152,13 +152,13 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 12.00-CL-11586896	 | 20th February 2020 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.00-CL-11586896.7z)	
-| 12.10-CL-N/A	     | 15th March 2020  	| UE4.24 | Download : [1](https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0) ; [2](https://fn-builds.repressoh.it/12.10.zip) If [1] doesn't work, use [2]	|	
-| 12.20-CL-N/A       | 17th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.20.rar)
-| 12.21-CL-N/A	     | 24th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.21.zip)
-| 12.40-CL-N/A       | 15th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.40.rar)
+| 12.10-CL-11883027	 | 15th March 2020  	| UE4.24 | Download : [1](https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0) ; [2](https://fn-builds.repressoh.it/12.10.zip) If [1] doesn't work, use [2]	|	
+| 12.20-CL-12170032  | 17th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.20.rar)
+| 12.21-CL-12353830	 | 24th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.21.zip)
+| 12.40-CL-12837456  | 15th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.40.rar)
 | 12.41-CL-12905909  | 21st April 2020    | UE4.24 | Download : [1](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [2](https://cdn.cbn.lol/12.41) ; [3](https://fn-builds.repressoh.it/12.41-CL-12905909-Windows.zip) ; [4](https://gofile.io/d/6O8nBf) (Note: 1 is very slow) |
-| 12.50-CL-N/A	     | 29th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.50.zip)
-| 12.60-CL-N/A       | 20th May 2020      | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.60-CL-13477524.7z)
+| 12.50-CL-13137020	 | 29th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.50.zip)
+| 12.60-CL-13315662  | 20th May 2020      | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.60-CL-13477524.7z)
 | 12.61-CL-13498980  | 26th May 2020      | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.61.zip)
 
 # Season 13
@@ -236,7 +236,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 20.00-CL-19458861	| 20th March 2022 | UE5.1 | Download : [1](https://fn-builds.repressoh.it/20.00.rar) |
 | 20.10-CL-19598943 | 5th April 2022  | UE5.1 | Download : [1](https://fn-builds.repressoh.it/20.10.zip) |
 | 20.20-CL-19751212	| 16th April 2022 | UE5.1 | Download : [1](https://fn-builds.repressoh.it/20.20.zip) |
-| 20.30-CL-19950687 | 3rd May 2022    | UE5.1 | Link down, dm @wallonia if you got a link |
+| 20.30-CL-19950687 | 3rd May 2022    | UE5.1 | Download : [1](https://cdn.cbn.lol/20.30) |
 | 20.40-CL-20244966	| 17th May 2022   | UE5.1 | Link down, dm @wallonia if you got a link |
 
 # Season 21
@@ -244,9 +244,9 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 21.00-CL-20463113 | 5th June 2022      | UE5.1 | [1](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) ; [2](https://r2.ploosh.dev/21.00.zip)
 | 21.10-CL-20959871	| 21st June 2022     | UE5.1 | Link down, dm @wallonia on discord if you got a link! | 	
-| 21.20-CL-21035704 | 6th July 2022      | UE5.1 | Link down, dm @wallonia on discord if you got a link! |
-| 21.30-CL-21155462 | 18th July 2022     | UE5.1 | Link down, dm @wallonia on discord if you got a link! |
-| 21.40-CL-21407327 | 16th August 2022   | UE5.1 | Link down, dm @wallonia on discord if you got a link! |
+| 21.20-CL-21035704 | 6th July 2022      | UE5.1 | [1](https://cdn.cbn.lol/21.20) |
+| 21.30-CL-21155462 | 18th July 2022     | UE5.1 | [1](https://fn-builds.repressoh.it/21.30-CL-21155462.7z) |
+| 21.40-CL-21407327 | 16th August 2022   | UE5.1 | [1](https://fn-builds.repressoh.it/21.40-CL-21407327.7z) |
 | 21.50-CL-21245791 | 30th August 2022   | UE5.1 | Link down, dm @wallonia on discord if you got a link! |
 | 21.51-CL-21735703 | 7th September 2022 | UE5.1 | Link down, dm @wallonia on discord if you got a link!
 
@@ -254,9 +254,9 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 22.00-CL-22149829 | 18th September 2022 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 22.10-CL-22429549 | 4th October 2022    | N/A | Link down, dm @wallonia on discord if you got a link!
+| 22.10-CL-22429549 | 4th October 2022    | N/A | [1](https://fn-builds.repressoh.it/22.10-CL-22429549.7z)
 | 22.20-CL-22600409 | 18th October 2022   | N/A | Link down, dm @wallonia on discord if you got a link! |
-| 22.40-CL-23070899 | 15th November 2022  | N/A |	Link down, dm @wallonia on discord if you got a link! |
+| 22.40-CL-23070899 | 15th November 2022  | N/A |	[1]( |
 
 # Season 23
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
@@ -275,9 +275,9 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 24.01-CL-24672685 | 20th March 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
 | 24.10-CL-24903530 | 29th March 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
 | 24.20-CL-25156858	| 11th April 2023 | N/A |	[1](https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip) |		 |
-| 24.30-CL-23789416 | 2nd May 2023    | N/A | Link down, dm @wallonia on discord if you got a link!) |
+| 24.30-CL-25210886 | 2nd May 2023    | N/A | [1](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.30-CL-25210886.7z) |
 | 24.40-CL-25521145 | 17th May 2023   | N/A | [1](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip)
-| 24.40-CL-25595478 | 17th May 2023   | N/A | Link down, dm @wallonia on discord if you got a link!
+| 24.40-CL-25595478 | 17th May 2023   | N/A | [1](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.40-CL-25595478.7z)
 
 # Season 25
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
@@ -370,6 +370,28 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 34.30-CL-41387772 | 8th April 2025  | UE5.6 | [1](https://ia601805.us.archive.org/18/items/fn-v34-archive/34.30-CL-41387772.zip)
 | 34.30-CL-41588354 | 8th April 2025 | UE5.6 | [1](https://dn710204.ca.archive.org/0/items/fn-v34-archive/34.30-CL-41588354.zip)
 | 34.40-CL-41753727 | 22nd April 2025 | UE5.6 | [1](https://dn710204.ca.archive.org/0/items/fn-v34-archive/34.40-CL-41753727.zip)
+
+# Season 35
+| Build | Date | Engine Version | Download links |
+|-|-|-|-|
+| 35.00-CL-41994699 | 21st February 2025 | UE5.6 | [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.00-CL-41994699.zip)
+| 35.00-CL-42223143 | 11th March 2025 | UE5.6 | [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.00-CL-42223143.zip)
+| 35.10-CL-42476511 | 25th March 2025 | UE5.6 | [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.10-CL-42476511.zip)
+| 35.10-CL-42696140 | 1st April 2025 | UE5.6 | [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.10-CL-42696140.zip)
+| 35.10-CL-42906078 | 8th April 2025  | UE5.6 | [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.10-CL-42906078.zip)
+| 35.20-CL-42911808 | 8th April 2025 | UE5.6 | [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.20-CL-42911808.zip)
+
+# Season 36
+| Build | Date | Engine Version | Download links |
+|-|-|-|-|
+| 36.00-CL-43214806 | 21st February 2025 | UE5.6.1 | [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.00-CL-43214806.zip)
+| 36.00-CL-43339403 | 11th March 2025 | UE5.6.1 | [1](https://ia800602.us.archive.org/13/items/fn-v36-archive/36.00-CL-43339403.zip)
+| 36.10-CL-43486998 | 25th March 2025 | UE5.6.1 | [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.10-CL-43486998.zip)
+| 36.10-CL-43713507 | 1st April 2025 | UE5.6.1 | [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.10-CL-43713507.zip)
+| 36.10-CL-43997926 | 8th April 2025  | UE5.6.1 | [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.10-CL-43997926.zip)
+| 36.20-CL-43847582 | 8th April 2025 | UE5.6.1 | [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.20-CL-43847582.zip)
+| 36.20-CL-44118662 | 8th April 2025 | UE5.6.1 | [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.20-CL-44118662.zip)
+| 36.30-CL-44367537 | 8th April 2025 | UE5.6.1 | [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.30-CL-44367537.zip)
 
 ## Playable Events
 
