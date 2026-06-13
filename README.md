@@ -26,7 +26,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 1.7.2-CL-3700114        	| 17th October 2017      	 | UE4.16-3700114	    |	        Download : [1](https://builds.rebootfn.org/1.7.2.zip) ; [2](https://galaxiafn.co.uk/1.7.2.zip) |	
-| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |	Download : [1](https://builds.rebootfn.org/1.8.rar) |		
+| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |	Download : [1](https://builds.rebootfn.org/1.8.rar) ; [2](https://drive.google.com/file/d/1ZhJjo-e3Rx_d8B5mJT26zpLGRbc7cD27/view?usp=sharing) |		
 | 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | Download : [1](https://builds.rebootfn.org/1.8.1.rar) |		
 | 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		Download : [1](https://builds.rebootfn.org/1.8.2.rar) |		
 | 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		Download : [1](https://builds.rebootfn.org/1.9.rar) |		
