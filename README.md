@@ -208,7 +208,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 17.21-CL-16967001 | 27th July 2021   | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/17.21-CL-16967001.7z)
 | 17.30-CL-17004569	| 3rd August 2021  | UE4.26.1 |	Download : [1](https://cdn.fortmp.dev/17.30.zip) ; [2](https://fn-builds.repressoh.it/17.30.zip)|	
 | 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/17.40-CL-17269705.7z) | 
-| 17.50-CL-17388565	| 31st August 2021 | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) ; [3](https://lootdest.org/s?omQiEa0Q) ; [4](https://gofile.io/d/6O8nBf) |	|
+| 17.50-CL-17388565	| 31st August 2021 | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) ; [3](https://buzzheavier.com/c6e35fvgwkdp) ; [4](https://gofile.io/d/6O8nBf) ; [5](https://buzzheavier.com/js77shj74uhv) |	|
 
 # Season 18
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
