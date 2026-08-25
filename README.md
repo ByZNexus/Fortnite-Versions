@@ -19,7 +19,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 # Pre-BattleRoyale
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://gofile.io/d/IV7BUC) ; [2](https://store-eu-par-1.gofile.io/download/web/a5a3850d-9e08-4cd2-9d3f-923f4a547607/%2B%2BFortnite%2BCert-CL-3532353.7z) ; [3](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) ; [4](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) UPDATED |
+| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://fnbuilds.site/Cert-CL-3532353.7z) ; [2](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) ; [3](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) UPDATED |
 | 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://mega.nz/file/9vdxhQqb#KQa_WEcVRdsBN0gwmQdaHpFDtq1k34xZVxX0uyzFVws) TEMPORARY (Download before it gets taken down!) |
 
 # Season 0 & 1
@@ -256,48 +256,50 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 22.00-CL-22149829 | 18th September 2022 | N/A | Link down, dm @wallonia on discord if you got a link!
 | 22.10-CL-22429549 | 4th October 2022    | N/A | [1](https://fn-builds.repressoh.it/22.10-CL-22429549.7z)
 | 22.20-CL-22600409 | 18th October 2022   | N/A | Link down, dm @wallonia on discord if you got a link! |
-| 22.40-CL-23070899 | 15th November 2022  | N/A |	[1]( |
+| 22.40-CL-23070899 | 15th November 2022  | N/A |	[1](https://fnbuilds.site/22.40-CL-23070899.rar) |
 
 # Season 23
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |	
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 23.00-CL-23344627 | 4th December 2022  | 5.1.0 | [1](https://public.simplyblk.xyz/23.00.7z)
-| 23.10-CL-23443094 | 13th December 2022 | 5.1.0 | [1](https://public.simplyblk.xyz/23.10.rar)
-| 23.10-CL-23572221 | 13th December 2022 | 5.1.0 | Link down, dm @wallonia on discord if you got a link!
-| 23.20-CL-23783097 | 19th January 2023  | 5.1.0 | Link down, dm @wallonia on discord if you got a link!
-| 23.40-CL-24087481 | 14th February 2023 | 5.1.0 | [1](https://public.simplyblk.xyz/23.40.zip)
-| 23.50-CL-24376996 | 28th February 2023 | 5.1.0 | [1](https://titanac.xyz/23.50.rar)
+| Build | Date | Engine Version | Download links |
+| --- | --- | --- | --- |
+| 23.00-CL-23344627 | 4th December 2022 | 5.1.0 | [1](https://public.simplyblk.xyz/23.00.7z) |
+| 23.10-CL-23443094 | 13th December 2022 | 5.1.0 | [1](https://public.simplyblk.xyz/23.10.rar) |
+| 23.10-CL-23572221 | 13th December 2022 | 5.1.0 | Link down, dm @wallonia on discord if you got a link! |
+| 23.20-CL-23783097 | 19th January 2023 | 5.1.0 | [1](https://fnbuilds.site/23.20-CL-23783097.zip) |
+| 23.40-CL-24087481 | 14th February 2023 | 5.1.0 | [1](https://public.simplyblk.xyz/23.40.zip) | [2](https://fnbuilds.site/23.40-CL-24087481.rar) |
+| 23.50-CL-24376996 | 28th February 2023 | 5.1.0 | [1](https://titanac.xyz/23.50.rar) |
 
 # Season 24
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |		
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 24.00-CL-24554913 | 10th March 2023 | N/A | [1](https://cold-na-phx-10.gofile.io/download/web/2cb72177-feaa-4466-a3d9-a1812eca1337/24.00-CL-24554913.zip)
-| 24.01-CL-24672685 | 20th March 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 24.10-CL-24903530 | 29th March 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 24.20-CL-25156858	| 11th April 2023 | N/A |	[1](https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip) |		 |
-| 24.30-CL-25210886 | 2nd May 2023    | N/A | [1](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.30-CL-25210886.7z) |
-| 24.40-CL-25521145 | 17th May 2023   | N/A | [1](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip)
-| 24.40-CL-25595478 | 17th May 2023   | N/A | [1](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.40-CL-25595478.7z)
+| Build | Date | Engine Version | Download links |
+| --- | --- | --- | --- |
+| 24.00-CL-24554913 | 10th March 2023 | N/A | [1](https://cold-na-phx-10.gofile.io/download/web/2cb72177-feaa-4466-a3d9-a1812eca1337/24.00-CL-24554913.zip) |
+| 24.01-CL-24672685 | 20th March 2023 | N/A | [1](https://fnbuilds.site/24.01-CL-24672685.7z) |
+| 24.10-CL-24770548 | 29th March 2023 | N/A | [1](https://fnbuilds.site/24.10-CL-24770548.7z) |
+| 24.10-CL-24903530 | 29th March 2023 | N/A | [1](https://fnbuilds.site/24.10-CL-24903530.7z) |
+| 24.20-CL-25156858 | 11th April 2023 | N/A | [1](https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip) |
+| 24.30-CL-25210886 | 2nd May 2023 | N/A | [1](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.30-CL-25210886.7z) |
+| 24.40-CL-25521145 | 17th May 2023 | N/A | [1](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip) |
+| 24.40-CL-25595478 | 17th May 2023 | N/A | [1](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.40-CL-25595478.7z) |
 
 # Season 25
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |		
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 25.00-CL-25909622 | 17th June 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 25.10-CL-26000959 | 20th June 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 25.11-CL-26171015 | 27th June 2023 | N/A | [1](https://r2.ploosh.dev/25.11.zip)
-| 25.20-CL-26474516 | 26th July 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 25.20-CL-26629111 | 26th July 2023 | N/A | [1](https://cold-na-phx-1.gofile.io/download/web/04766304-e2ae-44f5-8c35-d1e5ac197ceb/v25.20-CL-26629111.zip)
-| 25.30-CL-26867995 | 8th August 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
+| Build | Date | Engine Version | Download links |
+| --- | --- | --- | --- |
+| 25.00-CL-25784668 | 9th June 2023 | N/A | [1](https://fnbuilds.site/25.00-CL-25784668.7z) |
+| 25.00-CL-25909622 | 17th June 2023 | N/A | [1](https://fnbuilds.site/25.00-CL-25909622.7z) |
+| 25.10-CL-26000959 | 20th June 2023 | N/A | [1](https://fnbuilds.site/25.10-CL-26000959.7z) |
+| 25.11-CL-26171015 | 27th June 2023 | N/A | [1](https://r2.ploosh.dev/25.11.zip) |
+| 25.20-CL-26474516 | 26th July 2023 | N/A | [1](https://fnbuilds.site/25.20-CL-26474516.7z) |
+| 25.20-CL-26629111 | 26th July 2023 | N/A | [1](https://fnbuilds.site/25.20-CL-26629111.7z) |
+| 25.30-CL-26867995 | 8th August 2023 | N/A | [1](https://fnbuilds.site/25.30-CL-26867995.7z) |
 
 # Season 26
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |	
-| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 26.00-CL-27233190 | 25th August 2023 | UE5.3 | Link down, dm @wallonia on discord if you got a link!
-| 26.00-CL-27424790 | 25th August 2023 | UE5.3 | Link down, dm @wallonia on discord if you got a link!
-| 26.10-CL-27681420 | 12th September 2023 | UE5.3 | Link down, dm @wallonia on discord if you got a link!
-| 26.20-CL-28096793 | 26th September 2023 | UE5.3 | Link down, dm @wallonia on discord if you got a link!
-| 26.30-CL-28688692	| 10th October 2023   | UE5.3  | [1](https://r2.ploosh.dev/26.30-CL-28688692.zip)
-| 26.30-CL-28798412	| 10th October 2023   | UE5.3  | [1](https://r2.ploosh.dev/26.30.zip)
+| Build | Date | Engine Version | Download links |
+| --- | --- | --- | --- |
+| 26.00-CL-27233190 | 25th August 2023 | UE5.3 | [1](https://fnbuilds.site/26.00-CL-27233190.7z) |
+| 26.00-CL-27424790 | 25th August 2023 | UE5.3 | [1](https://fnbuilds.site/26.00-CL-27424790.7z) |
+| 26.10-CL-27681420 | 12th September 2023 | UE5.3 | [1](https://fnbuilds.site/26.10-CL-27681420.7z) |
+| 26.20-CL-28096793 | 26th September 2023 | UE5.3 | [1](https://fnbuilds.site/26.20-CL-28096793.7z) | 
+| 26.30-CL-28509302 | 10th October 2023 | UE5.3 | [1](https://r2.ploosh.dev/26.30.zip) ; [2](https://fnbuilds.site/26.30-CL-28509302.7z) |
+| 26.30-CL-28688692 | 10th October 2023 | UE5.3 | [1](https://r2.ploosh.dev/26.30-CL-28688692.zip) |
 
 # Season 27
 | Build               | Date                 | Engine Version    | Download links |
@@ -310,7 +312,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
 | 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | Download : [1](https://store9.gofile.io/download/web/05e6fa8b-fe90-42d7-98ff-0d5f3dfa6fa2/28.00-CL-29915848.7z) TEMPORARY (Download before it gets taken down!)
-| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
+| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | [1](https://fnbuilds.site/28.01-CL-30106568.7z)
 | 28.01-CL-30313795 | 19th December 2023| UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!|
 | 28.20-CL-31165234 | 5th February 2024 | UE5.5 | [1](https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip)
