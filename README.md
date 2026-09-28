@@ -3,9 +3,7 @@
 ### [Click here](https://github.com/ByZNexus/Fortnite-Versions/blob/main/Projects.md) to browse through some projects to play !
 ### [Or here](https://drive.google.com/drive/folders/1HCdgdSUJjabiQc0r_psrWCLFI4Mk0VPs?usp=sharing) to download some paks/mods !
 
-Sticky Note : Most C4+ builds are empty because of the bugged links not being fixed, please help me fill them !
-
-## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this, please consider supporting by subscribing :)
+## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this with [jalen](https://github.com/jalenpatricio), please consider supporting by subscribing :)
 
 # Downloads
 
