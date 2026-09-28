@@ -1,9 +1,9 @@
-# Welcome to ByZN's repository for Fortnite Versions !
+# Welcome to ByZNs' repository for Fortnite Versions !
 
 ### [Click here](https://github.com/ByZNexus/Fortnite-Versions/blob/main/Projects.md) to browse through some projects to play !
 ### [Or here](https://drive.google.com/drive/folders/1HCdgdSUJjabiQc0r_psrWCLFI4Mk0VPs?usp=sharing) to download some paks/mods !
 
-## [ByZNexus](https://www.youtube.com/@ByZNexu5) owns this with [jalen](https://github.com/jalenpatricio), please consider supporting by subscribing :)
+## [ByZNs](https://www.youtube.com/@ByZNexu5) owns this with [jalen](https://github.com/jalenpatricio), please consider supporting by subscribing :)
 
 # Downloads
 
