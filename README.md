@@ -116,50 +116,58 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		  
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 9.00-CL-6337466	              | 9th May 2019      	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.00.zip)|		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
-| 9.01-CL-6428087	              | 15th May 2019     	  | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.01.zip)  |		0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE |
-| 9.10-CL-6639283	              | 19th May 2019     	   | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.10.rar) ; [2](https://galaxiafn.co.uk/9.10.zip)  |		0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC |
+| 9.00-CL-6337466	              | 9th May 2019      	  | UE4.23            	    |		Download : [1](https://fortforge.co.uk/download/fa0f0970-4d96-48fb-803c-ca6192a0394e/build)|		
+| 9.01-CL-6428087	              | 15th May 2019     	  | UE4.23            	    |		Download : [1](https://fortforge.co.uk/download/3743bbb4-89f0-40c6-a594-687d9570341e/build)  |	
+| 9.10-CL-6573057	              | 19th May 2019     	   | UE4.23            	    |		Download : [1](https://fortforge.co.uk/download/59cdc0e6-a497-46ad-825e-17f5c8f35115/build)  |		 |
+| 9.10-CL-6639283	              | 19th May 2019     	   | UE4.23            	    |		Download : [1](https://fortforge.co.uk/download/942517ec-a6ed-4e93-895b-da03273ce715/build)  |		 |
 | 9.20-CL-6822798 | 6th June 2019 | UE4.23 |  Download : [1](https://download.fn-archive.com/FortniteClient-9.20-CL-6822798.rar) UPDATED !
-| 9.21-CL-6922310	              | 12th June 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.21.zip)  |		0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA |
-| 9.30-CL-7095426	              | 9th July 2019       	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.30.zip)  | 		0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC |
-| 9.40-CL-7315705               | 17th July 2019      	 | UE4.23            	    |		 Download : [1](https://builds.rebootfn.org/9.40.zip) |		0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
-| 9.41-CL-7609292	              | 23rd July 2019      	 | UE4.23            	    |		Download : [1](https://builds.rebootfn.org/9.41.rar)  |		0x6BD8D67B235476950DEEFC3F28646284462653C968331F0796C155A882DABB8A |
+| 9.21-CL-6922310	              | 12th June 2019       	 | UE4.23            	    |		Download : [1](https://fortforge.co.uk/download/80e93f1d-5747-4cb8-a51c-2557b8f751b9/build)  |	
+| 9.30-CL-7095426	              | 9th July 2019       	 | UE4.23            	    |		Download : [1](https://fortforge.co.uk/download/656cbb28-8de5-4506-850d-b0e971ba9eda/build)  | 	
+| 9.40-CL-7315705               | 17th July 2019      	 | UE4.23            	    |		 Download : [1](https://fortforge.co.uk/download/672c6495-4458-441e-b855-4e79a6ca63e7/build) |		
+| 9.41-CL-7609292	              | 23rd July 2019      	 | UE4.23            	    |		Download : [1](https://fortforge.co.uk/download/eac344ac-d7fd-4322-8792-d5322d1ea681/build)  |	
 
 # Season 10
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.00.zip)  |		0x397A9E8DF2C978A004BCC3DA19E9EC7CAF050FE91AA6E258CD5E24D83FF43E1A |
-| 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.10.zip)  |		0x96A032AA931880ACBA60312208226FE56CB4DC7A98C9728EF0C995FB6DD7B5A6 |
-| 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 Download : [1](https://builds.rebootfn.org/10.20.zip) |		0x060309B7EA3DB4D87849A4DCD118B0FCD1671B335EFBF115ADA26EAD22C8AC0C |
-| 10.30-CL-8569425 | 12th September 2019 | UE4.23 |  Download : [1](https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar)
-| 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	Download : [1](https://builds.rebootfn.org/10.31.zip)  |		0xC4B8D8B83A3CB084303A1053360B837F2ADBD08DA85292123EC01EEDEA054120 |
-| 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |	Download : [1](https://public.simplyblk.xyz/10.40.rar) |		0x3FF229552FE0F0DC46A495F9E94766EB6B5106A136597C60E7132F413B7C016E |
+| 10.00-CL-7658179	             | 1st August 2019      	     | UE4.23            |	Download : [1](https://fortforge.co.uk/download/09bb404a-7e36-44b0-a922-5b31d56a1a85/build)  |
+| 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	Download : [1](https://fortforge.co.uk/download/e3db52a2-b316-46e2-8b9c-b746ea9d8d38/build)  |
+| 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	 Download : [1](https://fortforge.co.uk/download/375f4588-4c49-481f-92e1-ffa9ceec5c47/build)  |
+| 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 Download : [1](https://fortforge.co.uk/download/76982a49-38bf-40f6-a95f-5a9b169712c3/build) |
+| 10.30-CL-8569425               | 12th September 2019         | UE4.23            |  Download : [1](https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar)
+| 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	Download : [1](https://fortforge.co.uk/download/ed20218b-343b-4983-83eb-f0302b164de0/build)  |
+| 10.40-CL-9380822           	   | 25th September 2019  	     | UE4.23            |	Download : [1](https://fortforge.co.uk/download/88a72c52-c36d-4d72-98af-780e2edfc1ef/build) |
 
 # Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- | 
-| 11.00-CL-9603448	| 15th October 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.00-CL-9562734.7z)  |
-| 11.01-CL-9728272  | 22nd October 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.01-CL-97282720.7z)
+| 11.00-CL-9562734	| 15th October 2019 | UE4.24 | Download : [1](https://fortforge.co.uk/download/ce1d4eaf-cd22-4afc-b480-c751110b95d1/build)  |
+| 11.00-CL-9603448	| 15th October 2019 | UE4.24 | Download : [1](https://fortforge.co.uk/download/a3c15824-063a-4a91-8064-07ef9b117bf8/build)  |
+| 11.01-CL-9728272  | 22nd October 2019 | UE4.24 | Download : [1](https://fortforge.co.uk/download/380ca693-d446-41c0-aa83-410a66022547/build)
 | 11.10-CL-9901083	| 28th October 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.10-CL-9901083.7z) |
-| 11.11-CL-10082788 | 13th November 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.11-CL-10082788.7z) 
-| 11.20-CL-10297577 | 20th November 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.20-CL-10297577.7z) 
-| 11.21-CL-10481509 | 4th December 2019 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.21-CL-10481509.7z)
+| 11.11-CL-10082788 | 13th November 2019| UE4.24 | Download : [1](https://fortforge.co.uk/download/1ce6744c-690a-40fa-bf44-8d65dd63ec3d/build) 
+| 11.20-CL-10297577 | 20th November 2019| UE4.24 | Download : [1](https://fortforge.co.uk/download/ad17f8df-b909-4968-9aea-6d1915210ce8/build) 
+| 11.21-CL-10481509 | 4th December 2019 | UE4.24 | Download : [1](https://fortforge.co.uk/download/704543f6-9567-4e72-8ce2-311f298957e0/build)
 | 11.30-CL-10547923 | 12th December 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.30.7z) |
-| 11.31-CL-10800459	| 18th December 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.31.rar) |
+| 11.30-CL-10708866 | 12th December 2019| UE4.24 | Download : [1](https://fortforge.co.uk/download/9170eaa1-b53d-4374-929c-f3546869d2dd/build) |
+| 11.31-CL-10800459	| 18th December 2019| UE4.24 | Download : [1](https://fortforge.co.uk/download/8c79049c-8173-4623-b921-f93c6e60c79d/build) |
 | 11.40-CL-11039906 | 15th January 2020 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.40-CL-11039906.7z)
 | 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.50.7z) ; [2](https://pics.carti.club/11.50.7z)
+| 11.50-CL-11265652 | 5th February 2020 | UE4.24 | Download : [1](https://fortforge.co.uk/download/033309b3-6b68-4bae-9730-e20a49488544/build)
+
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 12.00-CL-11586896	 | 20th February 2020 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.00-CL-11586896.7z)	
-| 12.10-CL-11883027	 | 15th March 2020  	| UE4.24 | Download : [1](https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0) ; [2](https://fn-builds.repressoh.it/12.10.zip) If [1] doesn't work, use [2]	|	
+| 12.00-CL-11586896	 | 20th February 2020 | UE4.24 | Download : [1](https://fortforge.co.uk/download/cffbc90f-93ad-40ee-bef7-8945261a84be/build)	
+| 12.10-CL-11883027	 | 15th March 2020  	| UE4.24 | Download : [1](https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0) ; [2](https://fortforge.co.uk/download/5c0640d2-4127-4ef1-b79d-061aaa0feb95/build) If [1] doesn't work, use [2]	|	
 | 12.20-CL-12170032  | 17th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.20.rar)
 | 12.21-CL-12353830	 | 24th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.21.zip)
+| 12.30-CL-12493283	 | 31st March 2020    | UE4.24 | Download : [1](https://fortforge.co.uk/download/a6383658-e670-4c86-9505-0dac8f1505c8/build)
+| 12.30-CL-12624643	 | 31st March 2020    | UE4.24 | Download : [1](https://fortforge.co.uk/download/1b5079eb-29e0-4d2b-9185-87559e921eab/build)
 | 12.40-CL-12837456  | 15th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.40.rar)
-| 12.41-CL-12905909  | 21st April 2020    | UE4.24 | Download : [1](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [2](https://cdn.cbn.lol/12.41) ; [3](https://fn-builds.repressoh.it/12.41-CL-12905909-Windows.zip) ; [4](https://gofile.io/d/6O8nBf) ; [5](https://fileforge.cc/f/4efa3a08) (Note: 1 is very slow) |
-| 12.50-CL-13137020	 | 29th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.50.zip)
-| 12.60-CL-13315662  | 20th May 2020      | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.60-CL-13477524.7z)
-| 12.61-CL-13498980  | 26th May 2020      | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.61.zip)
+| 12.41-CL-12905909  | 21st April 2020    | UE4.24 | Download : [1](https://fortforge.co.uk/download/8d08445d-5862-4c16-b4ad-49cfe84d794d/build) ; [2](https://cdn.cbn.lol/12.41) ; [3](https://gofile.io/d/6O8nBf) ; [4](https://fileforge.cc/f/4efa3a08) |
+| 12.50-CL-13137020	 | 29th April 2020    | UE4.24 | Download : [1](https://fortforge.co.uk/download/df73ebda-c4be-4710-b46c-d3c2836ad7d6/build)
+| 12.60-CL-13315662  | 20th May 2020      | UE4.24 | Download : [1](https://fortforge.co.uk/download/27f3d296-c0a4-4dbb-bd8d-13471c80c393/build)
+| 12.61-CL-13498980  | 26th May 2020      | UE4.24 | Download : [1](https://fortforge.co.uk/download/7c2b9515-949b-46b4-a6bb-00fefc1306f7/build)
 
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
@@ -168,34 +176,35 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 13.00-CL-13715544 | 16th June 2020   | UE4.25 | Download : [1](https://dn710400.ca.archive.org/0/items/fortnite-cl-13715544/Fortnite-cl-13715544.7z)
 | 13.20-CL-13777676 | 30th June 2020   | UE4.25 | Download : [1](https://fn-builds.repressoh.it/13.20-CL-13777676.rar)
 | 13.30-CL-N/A      | 21st July 2020   | UE4.25 | Download : [1](https://fn-builds.repressoh.it/13.30.rar)
-| 13.40-CL-14008768 | 5th August 2020  | UE4.25 |	Download : [1](https://fn-builds.repressoh.it/13.40.zip) ; [2](http://forcedfnbuilds.website/13.40.rar)  | 	
+| 13.40-CL-14008768 | 5th August 2020  | UE4.25 |	Download : [1](https://fortforge.co.uk/download/59a858dc-c973-416d-8b93-70228db2226d/build)  | 	
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 14.00-CL-N/A	    | 25th August 2020    | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.00.rar) |	
-| 14.10-CL-14312695 | 10th September 2020 | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.10-CL-14312695.rar)
-| 14.20-CL-14384759 | 23rd September 2020 | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.20-CL-14384759.rar)
-| 14.30-CL-14456520	| 13th October 2020   | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.30-CL-14456520.rar)
+| 14.00-CL-14211474	    | 25th August 2020    | UE4.25 | Download : [1](https://fortforge.co.uk/download/9434bf47-9020-4f44-8552-c5dbd8333687/build) |	
+| 14.10-CL-14312695 | 10th September 2020 | UE4.25 | Download : [1](https://fortforge.co.uk/download/fb87988b-c672-46e0-87a3-f14c9888472c/build)
+| 14.20-CL-14384759 | 23rd September 2020 | UE4.25 | Download : [1](https://fortforge.co.uk/download/2a140085-1478-49b1-8e21-045ef78d3133/build)
+| 14.30-CL-14456520	| 13th October 2020   | UE4.25 | Download : [1](https://fortforge.co.uk/download/16e65d10-af1a-4e35-aabc-46c831a5b2b0/build)
 | 14.40-CL-14550713	| 21st October 2020   | UE4.25 | Download : [1](http://forcedfnbuilds.website/14.40.rar) ; [2](https://fn-builds.repressoh.it/14.40.rar) |		
-| 14.50-CL-14643651 | 3rd November 2020   | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.50-CL-14643651.7z) |
+| 14.50-CL-14643651 | 3rd November 2020   | UE4.25 | Download : [1](https://fortforge.co.uk/download/9a2d54ee-c9e0-48ff-ad99-2f9a95376126/build) |
 | 14.60-CL-14786821 | 18th November 2020  | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.60.rar) ; [2](http://builds.zaplink.space/14.60.7z)  |		
 
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 15.00-CL-14835335 | 2nd December 2020 | UE4.26 | Download : [1](https://fn-builds.repressoh.it/15.00-CL-14835335.7z)|			
-| 15.10-CL-15014719	| 15th December 2020| UE4.26 | Download : [1](https://fn-builds.repressoh.it/15.10-CL-15014719.zip) |		
-| 15.21-CL-15083856 | 20th January 2021 | UE4.26 | Download : [1](https://fn-builds.repressoh.it/15.21-CL-15083856.7z) |
-| 15.30-CL-15341163	| 2nd February 2021	| UE4.26 | Download : [1](https://fn-builds.repressoh.it/15.30.zip) ; [2](https://r2.ploosh.dev/15.30.zip)	 |		
-| 15.50-CL-15570449	| 2nd March 2021    | UE4.26 | Download : [1](https://fn-builds.repressoh.it/15.50.zip) ; [2](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view?usp=sharing) |	
+| 15.00-CL-14835335 | 2nd December 2020 | UE4.26 | Download : [1](https://fortforge.co.uk/download/cf39b55a-41b9-41ab-aa64-ec074ea544a6/build)|			
+| 15.10-CL-15014719	| 15th December 2020| UE4.26 | Download : [1](https://fortforge.co.uk/download/544ce049-61ba-4f58-bcbc-c013ebcb3bb4/build) |
+| 15.20-CL-15070882	| 13th January 2020| UE4.26 | Download : [1](https://fortforge.co.uk/download/544ce049-61ba-4f58-bcbc-c013ebcb3bb4/build) |		
+| 15.21-CL-15083856 | 20th January 2021 | UE4.26 | Download : [1](https://fortforge.co.uk/download/594f7654-cbaf-4224-9259-aa7e770c61af/build) |
+| 15.30-CL-15341163	| 2nd February 2021	| UE4.26 | Download : [1](https://fortforge.co.uk/download/897dfc32-74d8-40b2-841c-533d07657d20/build)	 |		
+| 15.50-CL-15570449	| 2nd March 2021    | UE4.26 | Download : [1](https://fortforge.co.uk/download/67c17e33-9fd6-44b0-91c2-9a768cc03288/build) ; [2](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view?usp=sharing) |	
 
 # Season 16
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-16054793	| 16th March 2021 | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/16.00-CL-15685441.7z) |		
 | 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/16.10-CL-15913292.7z) |
-| 16.20-CL-15987165 | 13th April 2021 | UE4.26.1 | Download : [1](https://fortforge.co.uk/download/b2?key=builds%2F16.20-CL-15987165.rar&token=v1.LHXwGkKcE8T8Wls8mSUx4-6hrIGeTA1JVgiHQQwa6OE) |
+| 16.20-CL-15987165 | 13th April 2021 | UE4.26.1 | Download : [1](https://fortforge.co.uk/download/88678e1b-9df7-41b6-8b12-9e8f3125e7c7/build) |
 | 16.30-CL-16163563 | 27th April 2021 | UE4.26.1 | Download : [1](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view) ; [2](https://fn-builds.repressoh.it/16.30.zip) |
 | 16.40-CL-16218553 | 11th May 2021   | UE4.26.1 | Download : [1](https://fortforge.co.uk/download/b2?key=builds%2F16.40-CL-16218553.rar&token=v1.eKaqORkI9OkSYUK1hKigLmAsTGRmKX6f6dQwIZfuP44)	|		
 | 16.50-CL-16579425 | 25th May 2021   | UE4.26.1 | Download : [1](https://fn-builds.repressoh.it/16.50.zip) |
@@ -245,9 +254,10 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 21.00-CL-20463113 | 5th June 2022      | UE5.1 | [1](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) ; [2](https://r2.ploosh.dev/21.00.zip)
+| 21.10-CL-20696680	| 21st June 2022     | UE5.1 | [1](https://fortforge.co.uk/download/a9a05db2-cbfb-4afc-af95-8668eb826108/build) | 	
 | 21.10-CL-20959871	| 21st June 2022     | UE5.1 | Link down, dm @wallonia on discord if you got a link! | 	
-| 21.20-CL-21035704 | 6th July 2022      | UE5.1 | [1](https://cdn.cbn.lol/21.20) |
-| 21.30-CL-21155462 | 18th July 2022     | UE5.1 | [1](https://fn-builds.repressoh.it/21.30-CL-21155462.7z) |
+| 21.20-CL-21035704 | 6th July 2022      | UE5.1 | [1](https://cdn.cbn.lol/21.20) ; [1](https://fortforge.co.uk/download/71cf07a7-646d-4f90-9aa2-eaa89279f8ae/build) |
+| 21.30-CL-21155462 | 18th July 2022     | UE5.1 | [1](https://fortforge.co.uk/download/635d0bf6-7718-48e1-8106-a80ec93cabb4/build) |
 | 21.40-CL-21407327 | 16th August 2022   | UE5.1 | [1](https://fn-builds.repressoh.it/21.40-CL-21407327.7z) |
 | 21.50-CL-21245791 | 30th August 2022   | UE5.1 | Link down, dm @wallonia on discord if you got a link! |
 | 21.50-CL-21657658 | 30th August 2022   | UE5.1 | [1](https://fortforge.co.uk/download/b2?key=builds%2F21.50-CL-21657658.7z&token=v1.k7CrRz-4sadaRM70_gjTx4BX8CN4Zay4FhF9rqLTrEQ) |
@@ -444,6 +454,9 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
 | 42.00-CL-56878558 | 20th August 2026 | UE6.0 | [1](https://fortforge.co.uk/download/b2?key=builds%2F42.00-CL-56878558.zip&token=v1.yToh5T_YhFPns0e3J2OAQivHoPiGKjYkWB5GFau4Zmk)
+| 42.10-CL-57819926 | 3rd September 2026 | UE6.0 | [1](https://fortforge.co.uk/download/46a93b58-a74e-497d-a623-d7a87e062a9e/build)
+| 42.20-CL-58011042 | 17th September 2026 | UE6.0 | [1](https://fortforge.co.uk/download/5f718b03-19e5-4f30-b622-53bd832e5a29/build)
+
 
 ## Playable Events
 
