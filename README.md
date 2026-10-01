@@ -3,8 +3,6 @@
 ### [Click here](https://github.com/ByZNexus/Fortnite-Versions/blob/main/Projects.md) to browse through some projects to play !
 ### [Or here](https://drive.google.com/drive/folders/1HCdgdSUJjabiQc0r_psrWCLFI4Mk0VPs?usp=sharing) to download some paks/mods !
 
-Sticky Note : Most C4+ builds are empty because of the bugged links not being fixed, please help me fill them !
-
 ## [ByZNs](https://www.youtube.com/@ByZNexu5) owns this with [jalen](https://github.com/jalenpatricio), please consider supporting by subscribing :)
 
 # Downloads
@@ -282,7 +280,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 23.00-CL-23344627 | 4th December 2022  | 5.1.0 | [1](https://public.simplyblk.xyz/23.00.7z)
 | 23.10-CL-23443094 | 13th December 2022 | 5.1.0 | [1](https://public.simplyblk.xyz/23.10.rar)
-| 23.10-CL-23572221 | 13th December 2022 | 5.1.0 | Link down, dm @wallonia on discord if you got a link!
+| 23.10-CL-23572221 | 13th December 2022 | 5.1.0 | [1](https://fortforge.co.uk/download/f7a013b2-dfe8-4a0b-93ee-121292909616/build)
 | 23.20-CL-23783097 | 19th January 2023  | 5.1.0 | Link down, dm @wallonia on discord if you got a link!
 | 23.40-CL-24087481 | 14th February 2023 | 5.1.0 | [1](https://public.simplyblk.xyz/23.40.zip)
 | 23.50-CL-24376996 | 28th February 2023 | 5.1.0 | [1](https://titanac.xyz/23.50.rar)
@@ -305,9 +303,9 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 25.00-CL-25909622 | 17th June 2023 | N/A | [1](https://fortforge.co.uk/download/b2?key=builds%2F25.00_CL_25909622.zip&token=v1.l1IAap1jtXaH7mEH9hKTwqj2_-LIWFJ9phkecg_4So0)
 | 25.10-CL-26000959 | 20th June 2023 | N/A | [1](https://fortforge.co.uk/download/b2?key=builds%2F25.10_CL_26000959.zip&token=v1.RBUV-OAdq3ztmqwJBikC-uz2BbBGH5OkD_evQBTqLj4)
-| 25.11-CL-26171015 | 27th June 2023 | N/A | [1](https://r2.ploosh.dev/25.11.zip)
+| 25.11-CL-26171015 | 27th June 2023 | N/A | [1](https://fortforge.co.uk/download/368d5d9d-631e-4266-af68-55ac700db695/build)
 | 25.20-CL-26474516 | 26th July 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 25.20-CL-26629111 | 26th July 2023 | N/A | [1](https://cold-na-phx-1.gofile.io/download/web/04766304-e2ae-44f5-8c35-d1e5ac197ceb/v25.20-CL-26629111.zip)
+| 25.20-CL-26629111 | 26th July 2023 | N/A | [1](https://fortforge.co.uk/download/91047ca0-62ab-48e9-8be2-00d8da40de65/build)
 | 25.30-CL-26867995 | 8th August 2023 | N/A | [1](https://fortforge.co.uk/download/b2?key=builds%2F25.30_CL_26867995.zip&token=v1.5SyaqwSXfFoSodnUoC4xxLP7txyaf7CpZS5iEHBO6TY)
 
 # Season 26
