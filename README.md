@@ -197,6 +197,7 @@
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 15.00-CL-14835335 | 2nd December 2020 | UE4.26 |  [1](https://fortforge.co.uk/download/cf39b55a-41b9-41ab-aa64-ec074ea544a6/build)|			
+| 15.10-CL-14937640	| 15th December 2020| UE4.26 |  [1](https://fortforge.co.uk/download/3ae418e5-67fe-45ea-9fef-959e27b16a1e/build) |
 | 15.10-CL-15014719	| 15th December 2020| UE4.26 |  [1](https://fortforge.co.uk/download/544ce049-61ba-4f58-bcbc-c013ebcb3bb4/build) |
 | 15.20-CL-15070882	| 13th January 2020| UE4.26 |  [1](https://fortforge.co.uk/download/544ce049-61ba-4f58-bcbc-c013ebcb3bb4/build) |		
 | 15.21-CL-15083856 | 20th January 2021 | UE4.26 |  [1](https://fortforge.co.uk/download/594f7654-cbaf-4224-9259-aa7e770c61af/build) |
@@ -460,6 +461,7 @@
 | 42.00-CL-56878558 | 20th August 2026 | UE6.0 | [1](https://fortforge.co.uk/download/b2?key=builds%2F42.00-CL-56878558.zip&token=v1.yToh5T_YhFPns0e3J2OAQivHoPiGKjYkWB5GFau4Zmk)
 | 42.10-CL-57819926 | 3rd September 2026 | UE6.0 | [1](https://fortforge.co.uk/download/46a93b58-a74e-497d-a623-d7a87e062a9e/build)
 | 42.20-CL-58011042 | 17th September 2026 | UE6.0 | [1](https://fortforge.co.uk/download/5f718b03-19e5-4f30-b622-53bd832e5a29/build)
+| 42.30-CL-58557680 | 1st October 2026 | UE6.0 | [1](https://fortforge.co.uk/download/c5293b95-34c9-4466-8581-5969d8819287/build)
 
 
 ## Playable Events
