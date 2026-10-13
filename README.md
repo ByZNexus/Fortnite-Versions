@@ -279,25 +279,28 @@
 # Season 23
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 23.00-CL-23344627 | 4th December 2022  | 5.1.0 | [1](https://public.simplyblk.xyz/23.00.7z)
-| 23.10-CL-23443094 | 13th December 2022 | 5.1.0 | [1](https://public.simplyblk.xyz/23.10.rar)
+| 23.00-CL-23344627 | 4th December 2022  | 5.1.0 | [1](https://fortforge.co.uk/download/248a6df9-b267-4764-ad1c-ccae191f2c26/build)
+| 23.10-CL-23443094 | 13th December 2022 | 5.1.0 | [1](https://fortforge.co.uk/download/03fbcdfa-a1bd-4fbb-a5b0-ef71f115fdf5/build)
 | 23.10-CL-23572221 | 13th December 2022 | 5.1.0 | [1](https://fortforge.co.uk/download/f7a013b2-dfe8-4a0b-93ee-121292909616/build)
-| 23.20-CL-23783097 | 19th January 2023  | 5.1.0 | Link down, dm @wallonia on discord if you got a link!
-| 23.40-CL-24087481 | 14th February 2023 | 5.1.0 | [1](https://public.simplyblk.xyz/23.40.zip)
-| 23.50-CL-24376996 | 28th February 2023 | 5.1.0 | [1](https://titanac.xyz/23.50.rar)
+| 23.20-CL-23783097 | 19th January 2023  | 5.1.0 | [1](https://fortforge.co.uk/download/47228000-d66b-4aa9-ab54-e5fa977a835e/build)
+| 23.30-CL-23986860 | 31st January 2023  | 5.1.0 | [1](https://fortforge.co.uk/download/f8705320-6c83-433c-9aa5-ea3cd5d91eb8/build)
+| 23.40-CL-24087481 | 14th February 2023 | 5.1.0 | [1](https://fortforge.co.uk/download/d769ec2c-03b1-4f40-9284-6ca449172b49/build)
+| 23.50-CL-24376996 | 28th February 2023 | 5.1.0 | [1](https://fortforge.co.uk/download/b0bf28c5-6c49-40e5-8930-ccbf318e1aa8/build)
 
 # Season 24
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 24.00-CL-24554913 | 10th March 2023 | N/A | [1](https://cold-na-phx-10.gofile.io/download/web/2cb72177-feaa-4466-a3d9-a1812eca1337/24.00-CL-24554913.zip)
-| 24.01-CL-24672685 | 20th March 2023 | N/A | [1](https://fortforge.co.uk/download/b2?key=builds%2F24.01-CL-24672685.zip&token=v1.AAiw9EEbZHWIM1cirm5GqGsaMQNcC5BbwW_4nFvWkJk)
+| 24.00-CL-24554913 | 10th March 2023 | N/A | [1](https://cold-na-phx-10.gofile.io/download/web/2cb72177-feaa-4466-a3d9-a1812eca1337/24.00-CL-24554913.zip) ; [2](https://fortforge.co.uk/download/7163219f-d0fa-4efa-93cc-b2b0341d446b/build)
+| 24.01-CL-24672685 | 20th March 2023 | N/A | [1](https://fortforge.co.uk/download/fabc531b-7e4e-4e9f-9748-f30d14f8bbf1/build)
 | 24.10-CL-24903530 | 29th March 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 24.20-CL-24939793	| 11th April 2023 | N/A |	[1](https://fortforge.co.uk/download/b2?key=builds%2F24.20-CL-24939793.zip&token=v1.JU9dUDBTQISUEkkXbOj2a5BcS0gr-vAxPNMIoUTtOWQ) |		 |
-| 24.20-CL-25058254	| 11th April 2023 | N/A |	[1](https://fortforge.co.uk/download/b2?key=builds%2F24.20-CL-25058254.7z&token=v1.KEUnq9SIqe9h96OX9_aqHos43QmT4vZNMySL0tZ8lhc) |		 |
-| 24.20-CL-25156858	| 11th April 2023 | N/A |	[1](https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip) |		 |
-| 24.30-CL-25210886 | 2nd May 2023    | N/A | [1](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.30-CL-25210886.7z) |
-| 24.40-CL-25521145 | 17th May 2023   | N/A | [1](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip)
-| 24.40-CL-25595478 | 17th May 2023   | N/A | [1](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.40-CL-25595478.7z)
+| 24.20-CL-24939793	| 11th April 2023 | N/A |	[1](https://fortforge.co.uk/download/c4910091-eb16-415f-a978-0556d02aa219/build) 	
+| 24.20-CL-25019967	| 11th April 2023 | N/A |	[1](https://fortforge.co.uk/download/5a39bfe2-b950-4e7e-a15b-e4a5242e72fc/build) |		 |
+| 24.20-CL-25058254	| 11th April 2023 | N/A |	[1](https://fortforge.co.uk/download/a85ce745-72bf-48d6-bdfb-a2ad55927a1f/build) 		 
+| 24.20-CL-25156858	| 11th April 2023 | N/A |	[1](https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip) ; [2](https://fortforge.co.uk/download/e767d3b4-237e-4f76-87a9-ff57b5213693/build) 		 
+| 24.30-CL-25210886 | 2nd May 2023    | N/A | [1](https://fortforge.co.uk/download/307316f7-5b82-487d-813e-18bb7a9017b0/build) ; [2](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.30-CL-25210886.7z) 
+| 24.40-CL-25420516 | 17th May 2023   | N/A | [1](https://fortforge.co.uk/download/3c5fa1ae-8a8a-4f70-b230-f4f14b501ac8/build)
+| 24.40-CL-25521145 | 17th May 2023   | N/A | [1](https://fortforge.co.uk/download/6b619b11-1838-4eeb-a724-c72f579fe1ae/build)
+| 24.40-CL-25595478 | 17th May 2023   | N/A | [1](https://fortforge.co.uk/download/aced635c-ebd4-48de-b029-a4587c5b6022/build) ; [2](https://dn710907.ca.archive.org/0/items/fn-v24-archive/builds/24.40-CL-25595478.7z)
 
 # Season 25
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
