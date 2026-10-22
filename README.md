@@ -60,7 +60,7 @@
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		 [1](https://fortforge.co.uk/download/f877d712-3ab1-4f59-be3d-dbea968146c4/build) |		
 | 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		 [1](https://fortforge.co.uk/download/b7745109-9393-4ad5-be45-317d7ca81ff0/build) |	
-| 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		  [1](https://fortforge.co.uk/download/4b8bede3-95d7-4d03-80c5-c099c8e1ff3a/build)|		
+| 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		  [1](https://fortforge.co.uk/download/4b8bede3-95d7-4d03-80c5-c099c8e1ff3a/build) ; [2](https://drive.google.com/file/d/10zlUw1KGeIoNbTKOyNLHIUxI8PMskY9n/view?usp=sharingthis) |		
 | 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |            [1](https://fortforge.co.uk/download/053aaf41-7075-44f4-976b-1aecb7afe31e/build) |		
 | 4.4-CL-4127312          	| 14th June 2018      	 | UE4.20-4127312  	    |           [1](https://fortforge.co.uk/download/4bc85952-0190-4fa0-99da-c624c300e7ab/build)  |	
 | 4.4.x-CL-4132537          	| 22nd June 2018      	 | UE4.20-4132537  	    |           [1](https://fortforge.co.uk/download/c29f2782-45ad-4ec3-b6ac-457632096fca/build)  |	
