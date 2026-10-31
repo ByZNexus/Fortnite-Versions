@@ -305,22 +305,23 @@
 # Season 25
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 25.00-CL-25909622 | 17th June 2023 | N/A | [1](https://fortforge.co.uk/download/b2?key=builds%2F25.00_CL_25909622.zip&token=v1.l1IAap1jtXaH7mEH9hKTwqj2_-LIWFJ9phkecg_4So0)
-| 25.10-CL-26000959 | 20th June 2023 | N/A | [1](https://fortforge.co.uk/download/b2?key=builds%2F25.10_CL_26000959.zip&token=v1.RBUV-OAdq3ztmqwJBikC-uz2BbBGH5OkD_evQBTqLj4)
-| 25.11-CL-26171015 | 27th June 2023 | N/A | [1](https://fortforge.co.uk/download/368d5d9d-631e-4266-af68-55ac700db695/build)
-| 25.20-CL-26474516 | 26th July 2023 | N/A | Link down, dm @wallonia on discord if you got a link!
-| 25.20-CL-26629111 | 26th July 2023 | N/A | [1](https://fortforge.co.uk/download/91047ca0-62ab-48e9-8be2-00d8da40de65/build)
-| 25.30-CL-26867995 | 8th August 2023 | N/A | [1](https://fortforge.co.uk/download/b2?key=builds%2F25.30_CL_26867995.zip&token=v1.5SyaqwSXfFoSodnUoC4xxLP7txyaf7CpZS5iEHBO6TY)
+| 25.00-CL-25784668 | 17th June 2023 | UE5.2 | [1](https://fortforge.co.uk/download/4cb4edc1-016d-4a33-900e-6fe9f752304e/build)
+| 25.00-CL-25909622 | 17th June 2023 | UE5.2 | [1](https://fortforge.co.uk/download/a7d0b41b-0e30-466f-9ce4-fc1411356cb8/build)
+| 25.10-CL-26000959 | 20th June 2023 | UE5.2 | [1](https://fortforge.co.uk/download/f796e829-2901-4ca0-a7d2-4f022967012d/build)
+| 25.11-CL-26171015 | 27th June 2023 | UE5.2 | [1](https://fortforge.co.uk/download/368d5d9d-631e-4266-af68-55ac700db695/build)
+| 25.20-CL-26474516 | 26th July 2023 | UE5.2 | [1](https://fortforge.co.uk/download/92041d33-52a1-45cf-ace3-988397902f09/build)
+| 25.20-CL-26629111 | 26th July 2023 | UE5.2 | [1](https://fortforge.co.uk/download/91047ca0-62ab-48e9-8be2-00d8da40de65/build)
+| 25.30-CL-26867995 | 8th August 2023 | UE5.2 | [1](https://fortforge.co.uk/download/b7fa8c51-a8e7-4ebc-9000-9d335325bdef/build)
 
 # Season 26
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 26.00-CL-27233190 | 25th August 2023 | UE5.3 | [1](https://fortforge.co.uk/download/b2?key=builds%2F26.00_CL_27233190.zip&token=v1.zHNaPSMO2jSKQd7MszU2bFJL1SbeIcqC7gsmPvjnfLE)
-| 26.00-CL-27424790 | 25th August 2023 | UE5.3 | [1](https://fortforge.co.uk/download/b2?key=builds%2F26.00_CL_27424790.7z&token=v1.hYf9GW-zysMFiReURAV5K5e9YJNYo3kqR6L3sSJM3xE)
-| 26.10-CL-27681420 | 12th September 2023 | UE5.3 | [1](https://fortforge.co.uk/download/b2?key=builds%2F26.10_CL_27681420.zip&token=v1.fWlw8_wheyjWYqNIW2HvYWtZOeBcphxeBqVIs517NvM)
-| 26.20-CL-28096793 | 26th September 2023 | UE5.3 | [1](https://fortforge.co.uk/download/b2?key=builds%2F26.20_CL_28096793.zip&token=v1.XXWnWTd52YB-JSnPUUCbVZ2fPAJ4IVcXOjCkSN7yiBA)
-| 26.30-CL-28688692	| 10th October 2023   | UE5.3  | [1](https://r2.ploosh.dev/26.30-CL-28688692.zip)
-| 26.30-CL-28798412	| 10th October 2023   | UE5.3  | [1](https://r2.ploosh.dev/26.30.zip)
+| 26.00-CL-27233190 | 25th August 2023 | UE5.3 | [1](https://fortforge.co.uk/download/26a47736-63f0-4192-8043-314eddceb428/build)
+| 26.00-CL-27424790 | 25th August 2023 | UE5.3 | [1](https://fortforge.co.uk/download/89de68ac-05e9-4022-a6df-c40756de0b83/build)
+| 26.10-CL-27681420 | 12th September 2023 | UE5.3 | [1](https://fortforge.co.uk/download/6cc4cbdd-faf9-4b8c-b9cb-187ce8f13f5c/build)
+| 26.20-CL-28096793 | 26th September 2023 | UE5.3 | [1](https://fortforge.co.uk/download/ce0b5553-7c4a-4af2-9445-6ef1f811a698/build)
+| 26.30-CL-28509302	| 10th October 2023   | UE5.3  | [1](https://fortforge.co.uk/download/fb786cd5-4048-4599-a60a-1377191de3bf/build)
+| 26.30-CL-28688692	| 10th October 2023   | UE5.3  | [1](https://fortforge.co.uk/download/60c49654-8ab0-441d-9ef3-da9ee2f58e2d/build)
 
 # Season 27
 | Build               | Date                 | Engine Version    | Download links |
